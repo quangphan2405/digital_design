@@ -15,8 +15,8 @@ libraryRefs [
 "ieee"
 ]
 )
-version "25.1"
-appVersion "2012.2a (Build 3)"
+version "27.1"
+appVersion "2019.3 (Build 4)"
 model (Symbol
 commonDM (CommonDM
 ldm (LogicalDM
@@ -460,23 +460,23 @@ VExpander (VariableExpander
 vvMap [
 (vvPair
 variable "HDLDir"
-value "P:\\kesa18\\git-repot\\new_digiharks_2k18\\iotre\\hdl_d\\pre_made\\hdl"
+value "P:\\digital_design\\6\\alien_game\\..\\pre_made\\hdl"
 )
 (vvPair
 variable "HDSDir"
-value "P:\\kesa18\\git-repot\\new_digiharks_2k18\\iotre\\hdl_d\\pre_made\\hds"
+value "P:\\digital_design\\6\\alien_game\\..\\pre_made\\hds"
 )
 (vvPair
 variable "SideDataDesignDir"
-value "P:\\kesa18\\git-repot\\new_digiharks_2k18\\iotre\\hdl_d\\pre_made\\hds\\@i@l@a_half_adder\\symbol.sb.info"
+value "P:\\digital_design\\6\\alien_game\\..\\pre_made\\hds\\@i@l@a_half_adder\\symbol.sb.info"
 )
 (vvPair
 variable "SideDataUserDir"
-value "P:\\kesa18\\git-repot\\new_digiharks_2k18\\iotre\\hdl_d\\pre_made\\hds\\@i@l@a_half_adder\\symbol.sb.user"
+value "P:\\digital_design\\6\\alien_game\\..\\pre_made\\hds\\@i@l@a_half_adder\\symbol.sb.user"
 )
 (vvPair
 variable "SourceDir"
-value "P:\\kesa18\\git-repot\\new_digiharks_2k18\\iotre\\hdl_d\\pre_made\\hds"
+value "P:\\digital_design\\6\\alien_game\\..\\pre_made\\hds"
 )
 (vvPair
 variable "appl"
@@ -492,27 +492,27 @@ value "%(unit)_%(view)_config"
 )
 (vvPair
 variable "d"
-value "P:\\kesa18\\git-repot\\new_digiharks_2k18\\iotre\\hdl_d\\pre_made\\hds\\@i@l@a_half_adder"
+value "P:\\digital_design\\6\\alien_game\\..\\pre_made\\hds\\@i@l@a_half_adder"
 )
 (vvPair
 variable "d_logical"
-value "P:\\kesa18\\git-repot\\new_digiharks_2k18\\iotre\\hdl_d\\pre_made\\hds\\ILA_half_adder"
+value "P:\\digital_design\\6\\alien_game\\..\\pre_made\\hds\\ILA_half_adder"
 )
 (vvPair
 variable "date"
-value " 9.01.2020"
+value "12.02.2020"
 )
 (vvPair
 variable "day"
-value "to"
+value "ke"
 )
 (vvPair
 variable "day_long"
-value "torstai"
+value "keskiviikko"
 )
 (vvPair
 variable "dd"
-value "09"
+value "12"
 )
 (vvPair
 variable "entity_name"
@@ -536,19 +536,23 @@ value "symbol"
 )
 (vvPair
 variable "graphical_source_author"
-value "kayra"
+value "phanq"
 )
 (vvPair
 variable "graphical_source_date"
-value "01/09/20"
+value "12.02.2020"
 )
 (vvPair
 variable "graphical_source_group"
 value "UNKNOWN"
 )
 (vvPair
+variable "graphical_source_host"
+value "HTC219-722-SPC"
+)
+(vvPair
 variable "graphical_source_time"
-value "13:03:14"
+value "10:23:25"
 )
 (vvPair
 variable "group"
@@ -556,7 +560,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "host"
-value "WS-11696-PC"
+value "HTC219-722-SPC"
 )
 (vvPair
 variable "language"
@@ -576,7 +580,7 @@ value "$HDS_PROJECT_DIR/pre_made/work"
 )
 (vvPair
 variable "mm"
-value "01"
+value "02"
 )
 (vvPair
 variable "module_name"
@@ -584,19 +588,19 @@ value "ILA_half_adder"
 )
 (vvPair
 variable "month"
-value "tammi"
+value "helmi"
 )
 (vvPair
 variable "month_long"
-value "tammikuu"
+value "helmikuu"
 )
 (vvPair
 variable "p"
-value "P:\\kesa18\\git-repot\\new_digiharks_2k18\\iotre\\hdl_d\\pre_made\\hds\\@i@l@a_half_adder\\symbol.sb"
+value "P:\\digital_design\\6\\alien_game\\..\\pre_made\\hds\\@i@l@a_half_adder\\symbol.sb"
 )
 (vvPair
 variable "p_logical"
-value "P:\\kesa18\\git-repot\\new_digiharks_2k18\\iotre\\hdl_d\\pre_made\\hds\\ILA_half_adder\\symbol.sb"
+value "P:\\digital_design\\6\\alien_game\\..\\pre_made\\hds\\ILA_half_adder\\symbol.sb"
 )
 (vvPair
 variable "package_name"
@@ -604,7 +608,7 @@ value "<Undefined Variable>"
 )
 (vvPair
 variable "project_name"
-value "new_digiharks_2k18"
+value "alien_game"
 )
 (vvPair
 variable "series"
@@ -652,7 +656,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "13:03:14"
+value "10:23:25"
 )
 (vvPair
 variable "unit"
@@ -660,11 +664,11 @@ value "ILA_half_adder"
 )
 (vvPair
 variable "user"
-value "kayra"
+value "phanq"
 )
 (vvPair
 variable "version"
-value "2012.2a (Build 3)"
+value "2019.3 (Build 4)"
 )
 (vvPair
 variable "view"
@@ -1685,6 +1689,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 478,0
+lastUid 501,0
 activeModelName "Symbol:CDM"
 )
