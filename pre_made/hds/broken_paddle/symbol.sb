@@ -15,8 +15,8 @@ libraryRefs [
 "ieee"
 ]
 )
-version "25.1"
-appVersion "2012.2a (Build 3)"
+version "27.1"
+appVersion "2019.3 (Build 4)"
 model (Symbol
 commonDM (CommonDM
 ldm (LogicalDM
@@ -193,25 +193,25 @@ uid 84,0
 )
 *27 (MRCItem
 litem &16
-pos 2
+pos 5
 dimension 20
 uid 86,0
 )
 *28 (MRCItem
 litem &17
-pos 3
+pos 2
 dimension 20
 uid 88,0
 )
 *29 (MRCItem
 litem &18
-pos 4
+pos 3
 dimension 20
 uid 90,0
 )
 *30 (MRCItem
 litem &19
-pos 5
+pos 4
 dimension 20
 uid 92,0
 )
@@ -444,23 +444,23 @@ VExpander (VariableExpander
 vvMap [
 (vvPair
 variable "HDLDir"
-value "C:\\Users\\saarines\\new_digiharks_2k18\\iotre\\hdl_d\\pre_made\\hdl"
+value "D:\\digital_design\\6\\alien_game\\..\\pre_made\\hdl"
 )
 (vvPair
 variable "HDSDir"
-value "C:\\Users\\saarines\\new_digiharks_2k18\\iotre\\hdl_d\\pre_made\\hds"
+value "D:\\digital_design\\6\\alien_game\\..\\pre_made\\hds"
 )
 (vvPair
 variable "SideDataDesignDir"
-value "C:\\Users\\saarines\\new_digiharks_2k18\\iotre\\hdl_d\\pre_made\\hds\\broken_paddle\\interface.info"
+value "D:\\digital_design\\6\\alien_game\\..\\pre_made\\hds\\broken_paddle\\symbol.sb.info"
 )
 (vvPair
 variable "SideDataUserDir"
-value "C:\\Users\\saarines\\new_digiharks_2k18\\iotre\\hdl_d\\pre_made\\hds\\broken_paddle\\interface.user"
+value "D:\\digital_design\\6\\alien_game\\..\\pre_made\\hds\\broken_paddle\\symbol.sb.user"
 )
 (vvPair
 variable "SourceDir"
-value "C:\\Users\\saarines\\new_digiharks_2k18\\iotre\\hdl_d\\pre_made\\hds"
+value "D:\\digital_design\\6\\alien_game\\..\\pre_made\\hds"
 )
 (vvPair
 variable "appl"
@@ -468,7 +468,7 @@ value "HDL Designer"
 )
 (vvPair
 variable "arch_name"
-value "interface"
+value "symbol"
 )
 (vvPair
 variable "config"
@@ -476,27 +476,27 @@ value "%(unit)_%(view)_config"
 )
 (vvPair
 variable "d"
-value "C:\\Users\\saarines\\new_digiharks_2k18\\iotre\\hdl_d\\pre_made\\hds\\broken_paddle"
+value "D:\\digital_design\\6\\alien_game\\..\\pre_made\\hds\\broken_paddle"
 )
 (vvPair
 variable "d_logical"
-value "C:\\Users\\saarines\\new_digiharks_2k18\\iotre\\hdl_d\\pre_made\\hds\\broken_paddle"
+value "D:\\digital_design\\6\\alien_game\\..\\pre_made\\hds\\broken_paddle"
 )
 (vvPair
 variable "date"
-value "12.07.2018"
+value "02/16/2020"
 )
 (vvPair
 variable "day"
-value "to"
+value "Sun"
 )
 (vvPair
 variable "day_long"
-value "torstai"
+value "Sunday"
 )
 (vvPair
 variable "dd"
-value "12"
+value "16"
 )
 (vvPair
 variable "entity_name"
@@ -508,31 +508,35 @@ value "<TBD>"
 )
 (vvPair
 variable "f"
-value "interface"
+value "symbol.sb"
 )
 (vvPair
 variable "f_logical"
-value "interface"
+value "symbol.sb"
 )
 (vvPair
 variable "f_noext"
-value "interface"
+value "symbol"
 )
 (vvPair
 variable "graphical_source_author"
-value "saarines"
+value "USER"
 )
 (vvPair
 variable "graphical_source_date"
-value "07/12/18"
+value "02/16/2020"
 )
 (vvPair
 variable "graphical_source_group"
-value "Domain Users"
+value "UNKNOWN"
+)
+(vvPair
+variable "graphical_source_host"
+value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "12:52:55"
+value "01:05:05"
 )
 (vvPair
 variable "group"
@@ -540,7 +544,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "host"
-value "WS-11697-PC"
+value "QUANG-PHAN"
 )
 (vvPair
 variable "language"
@@ -552,11 +556,11 @@ value "pre_made"
 )
 (vvPair
 variable "library_downstream_ModelSimCompiler"
-value "$HDS_PROJECT_DIR/pre_made/work"
+value "$HDS_PROJECT_DIR/../pre_made/work"
 )
 (vvPair
 variable "mm"
-value "07"
+value "02"
 )
 (vvPair
 variable "module_name"
@@ -564,19 +568,19 @@ value "broken_paddle"
 )
 (vvPair
 variable "month"
-value "heinä"
+value "Feb"
 )
 (vvPair
 variable "month_long"
-value "heinäkuu"
+value "February"
 )
 (vvPair
 variable "p"
-value "C:\\Users\\saarines\\new_digiharks_2k18\\iotre\\hdl_d\\pre_made\\hds\\broken_paddle\\interface"
+value "D:\\digital_design\\6\\alien_game\\..\\pre_made\\hds\\broken_paddle\\symbol.sb"
 )
 (vvPair
 variable "p_logical"
-value "C:\\Users\\saarines\\new_digiharks_2k18\\iotre\\hdl_d\\pre_made\\hds\\broken_paddle\\interface"
+value "D:\\digital_design\\6\\alien_game\\..\\pre_made\\hds\\broken_paddle\\symbol.sb"
 )
 (vvPair
 variable "package_name"
@@ -584,7 +588,7 @@ value "<Undefined Variable>"
 )
 (vvPair
 variable "project_name"
-value "new_digiharks_2k18"
+value "alien_game"
 )
 (vvPair
 variable "series"
@@ -600,7 +604,7 @@ value "<TBD>"
 )
 (vvPair
 variable "task_ModelSimPath"
-value "C:\\Apps\\MODELTECH_10.2C\\win32"
+value "C:\\Program Files\\ModelSim\\win32"
 )
 (vvPair
 variable "task_NC-SimPath"
@@ -620,19 +624,19 @@ value "<TBD>"
 )
 (vvPair
 variable "this_ext"
-value "<TBD>"
+value "sb"
 )
 (vvPair
 variable "this_file"
-value "interface"
+value "symbol"
 )
 (vvPair
 variable "this_file_logical"
-value "interface"
+value "symbol"
 )
 (vvPair
 variable "time"
-value "12:52:55"
+value "01:05:05"
 )
 (vvPair
 variable "unit"
@@ -640,23 +644,23 @@ value "broken_paddle"
 )
 (vvPair
 variable "user"
-value "saarines"
+value "USER"
 )
 (vvPair
 variable "version"
-value "2012.2a (Build 3)"
+value "2019.3 (Build 4)"
 )
 (vvPair
 variable "view"
-value "interface"
+value "symbol"
 )
 (vvPair
 variable "year"
-value "2018"
+value "2020"
 )
 (vvPair
 variable "yy"
-value "18"
+value "20"
 )
 ]
 )
@@ -698,8 +702,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,2000,70000,2800"
-st "btn     : IN     std_logic_vector (3 DOWNTO 0) ;
-"
+st "btn     : IN     std_logic_vector (3 DOWNTO 0) ;"
 )
 thePort (LogicalPort
 decl (Decl
@@ -745,8 +748,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,2800,60000,3600"
-st "clk     : IN     std_logic  ;
-"
+st "clk     : IN     std_logic  ;"
 )
 thePort (LogicalPort
 decl (Decl
@@ -791,8 +793,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,3600,60000,4400"
-st "rst_n   : IN     std_logic  ;
-"
+st "rst_n   : IN     std_logic  ;"
 )
 thePort (LogicalPort
 decl (Decl
@@ -835,8 +836,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,4400,60000,5200"
-st "w_rdy   : IN     std_logic  ;
-"
+st "w_rdy   : IN     std_logic  ;"
 )
 thePort (LogicalPort
 decl (Decl
@@ -880,8 +880,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,5200,60000,6000"
-st "write   : OUT    std_logic  ;
-"
+st "write   : OUT    std_logic  ;"
 )
 thePort (LogicalPort
 m 1
@@ -926,8 +925,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,6000,69000,6800"
-st "x_coord : OUT    std_logic_vector (7 DOWNTO 0)
-"
+st "x_coord : OUT    std_logic_vector (7 DOWNTO 0)"
 )
 thePort (LogicalPort
 m 1
@@ -1024,7 +1022,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "36200,48000,47100,49000"
+xt "36200,48000,45900,49000"
 st "
 by %user on %dd %month %year
 "
@@ -1178,7 +1176,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "57200,44000,64900,45000"
+xt "57200,44000,61900,45000"
 st "
 %project_name
 "
@@ -1302,7 +1300,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "36200,47000,49000,48000"
+xt "36200,47000,48600,48000"
 st "
 %library/%unit/%view
 "
@@ -1634,6 +1632,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 172,0
+lastUid 839,0
 activeModelName "Symbol:CDM"
 )
