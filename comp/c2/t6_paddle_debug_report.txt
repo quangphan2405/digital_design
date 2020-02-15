@@ -1,0 +1,9 @@
+The problems are:
+- Wrongly named reset signal "tst_n" => "rst_n".
+- Not only MSB or LSB of the coordinate is checked,
+but also the second MSB or second LSB is considered
+for preventing the paddle from escaping. The coordinate
+is not changed when the paddle reaches the edges, where
+x(7) = x(6) = 1 or x(0) = x(1) = 1. Therefore, it is
+allowed to shift when those conditions don't hold.
+=> Use two NAND gates for indicating restriction.
