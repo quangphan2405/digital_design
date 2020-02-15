@@ -172,7 +172,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "15:47:25"
+value "16:12:07"
 )
 (vvPair
 variable "group"
@@ -272,7 +272,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "15:47:25"
+value "16:12:07"
 )
 (vvPair
 variable "unit"
@@ -341,8 +341,8 @@ uid 14,0
 va (VaSet
 font "arial,8,0"
 )
-xt "-16300,16500,-8000,17500"
-st "input_to_your_design"
+xt "-10000,16500,-8000,17500"
+st "input"
 ju 2
 blo "-8000,17300"
 tm "WireNameMgr"
@@ -409,8 +409,8 @@ uid 36,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "22000,2800,49500,3600"
-st "result               : std_logic_vector(2 DOWNTO 0)
+xt "22000,2800,42000,3600"
+st "result : std_logic_vector(2 DOWNTO 0)
 "
 )
 )
@@ -1882,8 +1882,8 @@ uid 323,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "22000,7000,43000,7800"
-st "SIGNAL dout0                : std_logic
+xt "22000,7000,36000,7800"
+st "SIGNAL dout0  : std_logic
 "
 )
 )
@@ -1901,8 +1901,8 @@ uid 341,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "22000,4600,43000,5400"
-st "SIGNAL carry                : std_logic
+xt "22000,4600,36000,5400"
+st "SIGNAL carry  : std_logic
 "
 )
 )
@@ -1920,8 +1920,8 @@ uid 347,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "22000,5400,43000,6200"
-st "SIGNAL carry1               : std_logic
+xt "22000,5400,36000,6200"
+st "SIGNAL carry1 : std_logic
 "
 )
 )
@@ -1939,8 +1939,8 @@ uid 353,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "22000,7800,43000,8600"
-st "SIGNAL dout1                : std_logic
+xt "22000,7800,36000,8600"
+st "SIGNAL dout1  : std_logic
 "
 )
 )
@@ -1958,8 +1958,8 @@ uid 359,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "22000,8600,43000,9400"
-st "SIGNAL dout2                : std_logic
+xt "22000,8600,36000,9400"
+st "SIGNAL dout2  : std_logic
 "
 )
 )
@@ -2607,8 +2607,8 @@ uid 457,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "22000,6200,43000,7000"
-st "SIGNAL dout                 : std_logic
+xt "22000,6200,36000,7000"
+st "SIGNAL dout   : std_logic
 "
 )
 )
@@ -2626,8 +2626,8 @@ uid 465,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "22000,9400,43000,10200"
-st "SIGNAL r0                   : std_logic
+xt "22000,9400,36000,10200"
+st "SIGNAL r0     : std_logic
 "
 )
 )
@@ -2645,8 +2645,8 @@ uid 467,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "22000,10200,43000,11000"
-st "SIGNAL r1                   : std_logic
+xt "22000,10200,36000,11000"
+st "SIGNAL r1     : std_logic
 "
 )
 )
@@ -2664,28 +2664,28 @@ uid 469,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "22000,11000,43000,11800"
-st "SIGNAL r2                   : std_logic
+xt "22000,11000,36000,11800"
+st "SIGNAL r2     : std_logic
 "
 )
 )
 *93 (Net
-uid 511,0
+uid 538,0
 lang 2
 decl (Decl
-n "input_to_your_design"
+n "input"
 t "std_logic_vector"
 b "(2 DOWNTO 0)"
 o 1
-suid 18,0
+suid 19,0
 )
 declText (MLText
-uid 512,0
+uid 539,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "22000,2000,49500,2800"
-st "input_to_your_design : std_logic_vector(2 DOWNTO 0)
+xt "22000,2000,42000,2800"
+st "input  : std_logic_vector(2 DOWNTO 0)
 "
 )
 )
@@ -2722,8 +2722,8 @@ va (VaSet
 isHidden 1
 font "arial,8,0"
 )
-xt "-6000,16000,2300,17000"
-st "input_to_your_design"
+xt "-6000,16000,-4000,17000"
+st "input"
 blo "-6000,16800"
 tm "WireNameMgr"
 )
@@ -3233,10 +3233,10 @@ associable 1
 )
 windowSize "1920,0,3841,1176"
 viewArea "-44800,-26800,116237,64376"
-cachedDiagramExtent "-16300,0,57300,51000"
+cachedDiagramExtent "-10000,0,57300,51000"
 hasePageBreakOrigin 1
 pageBreakOrigin "-79000,0"
-lastUid 514,0
+lastUid 541,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0
@@ -4296,7 +4296,7 @@ tm "BdDeclarativeTextMgr"
 )
 commonDM (CommonDM
 ldm (LogicalDM
-suid 18,0
+suid 19,0
 usingSuid 1
 emptyRow *136 (LEmptyRow
 )
@@ -4470,14 +4470,14 @@ uid 486,0
 port (LogicalPort
 lang 2
 decl (Decl
-n "input_to_your_design"
+n "input"
 t "std_logic_vector"
 b "(2 DOWNTO 0)"
 o 1
-suid 18,0
+suid 19,0
 )
 )
-uid 513,0
+uid 540,0
 )
 ]
 )
@@ -4593,7 +4593,7 @@ uid 487,0
 litem &159
 pos 10
 dimension 20
-uid 514,0
+uid 541,0
 )
 ]
 )

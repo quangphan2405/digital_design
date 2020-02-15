@@ -21,7 +21,7 @@ appVersion "2019.3 (Build 4)"
 model (Symbol
 commonDM (CommonDM
 ldm (LogicalDM
-suid 3,0
+suid 4,0
 usingSuid 1
 emptyRow *1 (LEmptyRow
 )
@@ -78,14 +78,14 @@ uid 111,0
 port (LogicalPort
 lang 2
 decl (Decl
-n "input_to_your_design"
+n "input"
 t "std_logic_vector"
 b "(2 DOWNTO 0)"
 o 1
-suid 3,0
+suid 4,0
 )
 )
-uid 146,0
+uid 176,0
 )
 ]
 )
@@ -147,7 +147,7 @@ uid 110,0
 litem &15
 pos 1
 dimension 20
-uid 145,0
+uid 175,0
 )
 ]
 )
@@ -470,7 +470,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "15:47:25"
+value "16:12:07"
 )
 (vvPair
 variable "group"
@@ -570,7 +570,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "15:47:25"
+value "16:12:07"
 )
 (vvPair
 variable "unit"
@@ -637,8 +637,8 @@ uid 121,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "44000,2800,75500,3600"
-st "result               : OUT    std_logic_vector (2 DOWNTO 0)
+xt "44000,2800,68500,3600"
+st "result : OUT    std_logic_vector (2 DOWNTO 0)
 "
 )
 thePort (LogicalPort
@@ -654,10 +654,10 @@ suid 2,0
 )
 )
 *57 (CptPort
-uid 147,0
+uid 177,0
 ps "OnEdgeStrategy"
 shape (Triangle
-uid 148,0
+uid 178,0
 ro 90
 va (VaSet
 vasetType 1
@@ -666,37 +666,37 @@ fg "0,65535,0"
 xt "14250,6625,15000,7375"
 )
 tg (CPTG
-uid 149,0
+uid 179,0
 ps "CptPortTextPlaceStrategy"
 stg "VerticalLayoutStrategy"
 f (Text
-uid 150,0
+uid 180,0
 va (VaSet
 font "arial,8,0"
 )
-xt "16000,6500,26500,7500"
-st "input_to_your_design : (2:0)"
+xt "16000,6500,20600,7500"
+st "input : (2:0)"
 blo "16000,7300"
 tm "CptPortNameMgr"
 )
 )
 dt (MLText
-uid 151,0
+uid 181,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "44000,2000,76500,2800"
-st "input_to_your_design : IN     std_logic_vector (2 DOWNTO 0) ;
+xt "44000,2000,69500,2800"
+st "input  : IN     std_logic_vector (2 DOWNTO 0) ;
 "
 )
 thePort (LogicalPort
 lang 2
 decl (Decl
-n "input_to_your_design"
+n "input"
 t "std_logic_vector"
 b "(2 DOWNTO 0)"
 o 1
-suid 3,0
+suid 4,0
 )
 )
 )
@@ -1398,6 +1398,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 151,0
+lastUid 181,0
 activeModelName "Symbol:CDM"
 )
