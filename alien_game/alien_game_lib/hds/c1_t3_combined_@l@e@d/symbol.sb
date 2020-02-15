@@ -436,23 +436,23 @@ VExpander (VariableExpander
 vvMap [
 (vvPair
 variable "HDLDir"
-value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hdl"
+value "P:\\digital_design\\6\\alien_game\\alien_game_lib\\hdl"
 )
 (vvPair
 variable "HDSDir"
-value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds"
+value "P:\\digital_design\\6\\alien_game\\alien_game_lib\\hds"
 )
 (vvPair
 variable "SideDataDesignDir"
-value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c1_t3_combined_@l@e@d\\symbol.sb.info"
+value "P:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c1_t3_combined_@l@e@d\\symbol.sb.info"
 )
 (vvPair
 variable "SideDataUserDir"
-value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c1_t3_combined_@l@e@d\\symbol.sb.user"
+value "P:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c1_t3_combined_@l@e@d\\symbol.sb.user"
 )
 (vvPair
 variable "SourceDir"
-value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds"
+value "P:\\digital_design\\6\\alien_game\\alien_game_lib\\hds"
 )
 (vvPair
 variable "appl"
@@ -468,27 +468,27 @@ value "%(unit)_%(view)_config"
 )
 (vvPair
 variable "d"
-value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c1_t3_combined_@l@e@d"
+value "P:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c1_t3_combined_@l@e@d"
 )
 (vvPair
 variable "d_logical"
-value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c1_t3_combined_LED"
+value "P:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c1_t3_combined_LED"
 )
 (vvPair
 variable "date"
-value "02/11/2020"
+value "12.02.2020"
 )
 (vvPair
 variable "day"
-value "Tue"
+value "ke"
 )
 (vvPair
 variable "day_long"
-value "Tuesday"
+value "keskiviikko"
 )
 (vvPair
 variable "dd"
-value "11"
+value "12"
 )
 (vvPair
 variable "entity_name"
@@ -512,11 +512,11 @@ value "symbol"
 )
 (vvPair
 variable "graphical_source_author"
-value "USER"
+value "phanq"
 )
 (vvPair
 variable "graphical_source_date"
-value "02/11/2020"
+value "12.02.2020"
 )
 (vvPair
 variable "graphical_source_group"
@@ -524,11 +524,11 @@ value "UNKNOWN"
 )
 (vvPair
 variable "graphical_source_host"
-value "QUANG-PHAN"
+value "HTC219-722-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "01:27:47"
+value "11:39:55"
 )
 (vvPair
 variable "group"
@@ -536,7 +536,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "host"
-value "QUANG-PHAN"
+value "HTC219-722-SPC"
 )
 (vvPair
 variable "language"
@@ -560,19 +560,19 @@ value "c1_t3_combined_LED"
 )
 (vvPair
 variable "month"
-value "Feb"
+value "helmi"
 )
 (vvPair
 variable "month_long"
-value "February"
+value "helmikuu"
 )
 (vvPair
 variable "p"
-value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c1_t3_combined_@l@e@d\\symbol.sb"
+value "P:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c1_t3_combined_@l@e@d\\symbol.sb"
 )
 (vvPair
 variable "p_logical"
-value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c1_t3_combined_LED\\symbol.sb"
+value "P:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c1_t3_combined_LED\\symbol.sb"
 )
 (vvPair
 variable "package_name"
@@ -596,7 +596,7 @@ value "<TBD>"
 )
 (vvPair
 variable "task_ModelSimPath"
-value "C:\\Program Files\\ModelSim\\win32"
+value "C:\\Apps\\MODELTECH_10.2C\\win32"
 )
 (vvPair
 variable "task_NC-SimPath"
@@ -628,7 +628,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "01:27:47"
+value "11:39:55"
 )
 (vvPair
 variable "unit"
@@ -636,7 +636,7 @@ value "c1_t3_combined_LED"
 )
 (vvPair
 variable "user"
-value "USER"
+value "phanq"
 )
 (vvPair
 variable "version"
@@ -979,7 +979,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "31200,50000,40900,51000"
+xt "31200,50000,41300,51000"
 st "
 by %user on %dd %month %year
 "
@@ -1595,6 +1595,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 234,0
+lastUid 280,0
 activeModelName "Symbol:CDM"
 )

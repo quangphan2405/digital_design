@@ -1,14 +1,15 @@
 [ModelSim]
-alien_game_lib = $HDS_PROJECT_DIR\alien_game_lib\work
-tb_lib = $HDS_PROJECT_DIR\..\tb_lib\work
+alien_game_lib = $HDS_PROJECT_DIR/alien_game_lib/work
+pre_made = $HDS_PROJECT_DIR\..\pre_made\work
+tb_lib = $HDS_PROJECT_DIR/../tb_lib/work
 [hdl]
-alien_game_lib = $HDS_PROJECT_DIR\alien_game_lib\hdl
-pre_made = $HDS_PROJECT_DIR\..\pre_made\hdl
-tb_lib = $HDS_PROJECT_DIR\..\tb_lib\hdl
+alien_game_lib = $HDS_PROJECT_DIR/alien_game_lib/hdl
+pre_made = $HDS_PROJECT_DIR/../pre_made/hdl
+tb_lib = $HDS_PROJECT_DIR/../tb_lib/hdl
 [hds]
-alien_game_lib = $HDS_PROJECT_DIR\alien_game_lib\hds
-pre_made = $HDS_PROJECT_DIR\..\pre_made\hds
-tb_lib = $HDS_PROJECT_DIR\..\tb_lib\hds
+alien_game_lib = $HDS_PROJECT_DIR/alien_game_lib/hds
+pre_made = $HDS_PROJECT_DIR/../pre_made/hds
+tb_lib = $HDS_PROJECT_DIR/../tb_lib/hds
 [hds_settings]
 default_library = alien_game_lib
 version = 2

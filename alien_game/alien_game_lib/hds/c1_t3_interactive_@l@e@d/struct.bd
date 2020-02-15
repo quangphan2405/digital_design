@@ -116,23 +116,23 @@ VExpander (VariableExpander
 vvMap [
 (vvPair
 variable "HDLDir"
-value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hdl"
+value "P:\\digital_design\\6\\alien_game\\alien_game_lib\\hdl"
 )
 (vvPair
 variable "HDSDir"
-value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds"
+value "P:\\digital_design\\6\\alien_game\\alien_game_lib\\hds"
 )
 (vvPair
 variable "SideDataDesignDir"
-value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c1_t3_interactive_@l@e@d\\struct.bd.info"
+value "P:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c1_t3_interactive_@l@e@d\\struct.bd.info"
 )
 (vvPair
 variable "SideDataUserDir"
-value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c1_t3_interactive_@l@e@d\\struct.bd.user"
+value "P:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c1_t3_interactive_@l@e@d\\struct.bd.user"
 )
 (vvPair
 variable "SourceDir"
-value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds"
+value "P:\\digital_design\\6\\alien_game\\alien_game_lib\\hds"
 )
 (vvPair
 variable "appl"
@@ -148,27 +148,27 @@ value "%(unit)_%(view)_config"
 )
 (vvPair
 variable "d"
-value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c1_t3_interactive_@l@e@d"
+value "P:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c1_t3_interactive_@l@e@d"
 )
 (vvPair
 variable "d_logical"
-value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c1_t3_interactive_LED"
+value "P:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c1_t3_interactive_LED"
 )
 (vvPair
 variable "date"
-value "02/11/2020"
+value "12.02.2020"
 )
 (vvPair
 variable "day"
-value "Tue"
+value "ke"
 )
 (vvPair
 variable "day_long"
-value "Tuesday"
+value "keskiviikko"
 )
 (vvPair
 variable "dd"
-value "11"
+value "12"
 )
 (vvPair
 variable "entity_name"
@@ -192,11 +192,11 @@ value "struct"
 )
 (vvPair
 variable "graphical_source_author"
-value "USER"
+value "phanq"
 )
 (vvPair
 variable "graphical_source_date"
-value "02/11/2020"
+value "12.02.2020"
 )
 (vvPair
 variable "graphical_source_group"
@@ -204,11 +204,11 @@ value "UNKNOWN"
 )
 (vvPair
 variable "graphical_source_host"
-value "QUANG-PHAN"
+value "HTC219-722-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "01:07:50"
+value "11:48:38"
 )
 (vvPair
 variable "group"
@@ -216,7 +216,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "host"
-value "QUANG-PHAN"
+value "HTC219-722-SPC"
 )
 (vvPair
 variable "language"
@@ -240,19 +240,19 @@ value "c1_t3_interactive_LED"
 )
 (vvPair
 variable "month"
-value "Feb"
+value "helmi"
 )
 (vvPair
 variable "month_long"
-value "February"
+value "helmikuu"
 )
 (vvPair
 variable "p"
-value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c1_t3_interactive_@l@e@d\\struct.bd"
+value "P:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c1_t3_interactive_@l@e@d\\struct.bd"
 )
 (vvPair
 variable "p_logical"
-value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c1_t3_interactive_LED\\struct.bd"
+value "P:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c1_t3_interactive_LED\\struct.bd"
 )
 (vvPair
 variable "package_name"
@@ -276,7 +276,7 @@ value "<TBD>"
 )
 (vvPair
 variable "task_ModelSimPath"
-value "C:\\Program Files\\ModelSim\\win32"
+value "C:\\Apps\\MODELTECH_10.2C\\win32"
 )
 (vvPair
 variable "task_NC-SimPath"
@@ -308,7 +308,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "01:07:50"
+value "11:48:38"
 )
 (vvPair
 variable "unit"
@@ -316,7 +316,7 @@ value "c1_t3_interactive_LED"
 )
 (vvPair
 variable "user"
-value "USER"
+value "phanq"
 )
 (vvPair
 variable "version"
@@ -457,7 +457,7 @@ decl (Decl
 n "color_BGR"
 t "std_logic_vector"
 b "(23 DOWNTO 0)"
-o 4
+o 2
 suid 2,0
 )
 declText (MLText
@@ -522,7 +522,7 @@ decl (Decl
 n "x_coord"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 2
+o 3
 suid 3,0
 k 1
 )
@@ -588,7 +588,7 @@ decl (Decl
 n "y_coord"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 3
+o 4
 suid 4,0
 )
 declText (MLText
@@ -613,7 +613,7 @@ va (VaSet
 vasetType 1
 fg "65280,65280,46080"
 )
-xt "26000,50000,43000,51000"
+xt "31000,48000,48000,49000"
 )
 oxt "18000,70000,35000,71000"
 text (MLText
@@ -622,7 +622,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "26200,50000,35900,51000"
+xt "31200,48000,41500,49000"
 st "
 by Quang on %dd %month %year
 "
@@ -644,7 +644,7 @@ va (VaSet
 vasetType 1
 fg "65280,65280,46080"
 )
-xt "43000,46000,47000,47000"
+xt "48000,44000,52000,45000"
 )
 oxt "35000,66000,39000,67000"
 text (MLText
@@ -653,7 +653,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "43200,46000,46200,47000"
+xt "48200,44000,51200,45000"
 st "
 Project:
 "
@@ -675,7 +675,7 @@ va (VaSet
 vasetType 1
 fg "65280,65280,46080"
 )
-xt "26000,48000,43000,49000"
+xt "31000,46000,48000,47000"
 )
 oxt "18000,68000,35000,69000"
 text (MLText
@@ -684,7 +684,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "26200,48000,35000,49000"
+xt "31200,46000,40000,47000"
 st "
 c1_t3_interactive_LED
 "
@@ -706,7 +706,7 @@ va (VaSet
 vasetType 1
 fg "65280,65280,46080"
 )
-xt "22000,48000,26000,49000"
+xt "27000,46000,31000,47000"
 )
 oxt "14000,68000,18000,69000"
 text (MLText
@@ -715,7 +715,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "22200,48000,24300,49000"
+xt "27200,46000,29300,47000"
 st "
 Title:
 "
@@ -737,7 +737,7 @@ va (VaSet
 vasetType 1
 fg "65280,65280,46080"
 )
-xt "43000,47000,63000,51000"
+xt "48000,45000,68000,49000"
 )
 oxt "35000,67000,55000,71000"
 text (MLText
@@ -746,7 +746,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "43200,47200,56900,48200"
+xt "48200,45200,61900,46200"
 st "
 Interactive LED controlled by buttons.
 "
@@ -767,7 +767,7 @@ va (VaSet
 vasetType 1
 fg "65280,65280,46080"
 )
-xt "47000,46000,63000,47000"
+xt "52000,44000,68000,45000"
 )
 oxt "39000,66000,55000,67000"
 text (MLText
@@ -776,7 +776,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "47200,46000,51900,47000"
+xt "52200,44000,56900,45000"
 st "
 %project_name
 "
@@ -798,7 +798,7 @@ va (VaSet
 vasetType 1
 fg "65280,65280,46080"
 )
-xt "22000,46000,43000,48000"
+xt "27000,44000,48000,46000"
 )
 oxt "14000,66000,35000,68000"
 text (MLText
@@ -806,7 +806,7 @@ uid 95,0
 va (VaSet
 fg "32768,0,0"
 )
-xt "31350,46500,33650,47500"
+xt "36350,44500,38650,45500"
 st "
 TUNI
 "
@@ -829,7 +829,7 @@ va (VaSet
 vasetType 1
 fg "65280,65280,46080"
 )
-xt "22000,49000,26000,50000"
+xt "27000,47000,31000,48000"
 )
 oxt "14000,69000,18000,70000"
 text (MLText
@@ -838,7 +838,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "22200,49000,24300,50000"
+xt "27200,47000,29300,48000"
 st "
 Path:
 "
@@ -860,7 +860,7 @@ va (VaSet
 vasetType 1
 fg "65280,65280,46080"
 )
-xt "22000,50000,26000,51000"
+xt "27000,48000,31000,49000"
 )
 oxt "14000,70000,18000,71000"
 text (MLText
@@ -869,7 +869,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "22200,50000,24900,51000"
+xt "27200,48000,29900,49000"
 st "
 Edited:
 "
@@ -891,7 +891,7 @@ va (VaSet
 vasetType 1
 fg "65280,65280,46080"
 )
-xt "26000,49000,43000,50000"
+xt "31000,47000,48000,48000"
 )
 oxt "18000,69000,35000,70000"
 text (MLText
@@ -900,7 +900,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "26200,49000,42800,50000"
+xt "31200,47000,47800,48000"
 st "
 %library/%unit/%view
 "
@@ -922,7 +922,7 @@ fg "65535,65535,65535"
 lineStyle 2
 lineWidth 2
 )
-xt "22000,46000,63000,51000"
+xt "27000,44000,68000,49000"
 )
 oxt "14000,66000,55000,71000"
 )
@@ -992,7 +992,7 @@ decl (Decl
 n "dout"
 t "std_logic_vector"
 b "(23 DOWNTO 0)"
-o 8
+o 5
 suid 1,0
 )
 )
@@ -1120,7 +1120,7 @@ optionalChildren [
 *28 (Property
 pclass "param"
 pname "value"
-pvalue "255"
+pvalue "6687725"
 ptn "String"
 )
 ]
@@ -1324,7 +1324,7 @@ optionalChildren [
 *37 (Property
 pclass "param"
 pname "value"
-pvalue "204"
+pvalue "1234567"
 ptn "String"
 )
 ]
@@ -1936,7 +1936,7 @@ optionalChildren [
 *64 (Property
 pclass "param"
 pname "value"
-pvalue "01000000"
+pvalue "00001000"
 ptn "String"
 )
 ]
@@ -2140,7 +2140,7 @@ optionalChildren [
 *73 (Property
 pclass "param"
 pname "value"
-pvalue "00001000"
+pvalue "00000010"
 ptn "String"
 )
 ]
@@ -2214,7 +2214,7 @@ decl (Decl
 n "din0"
 t "std_logic_vector"
 b "(23 DOWNTO 0)"
-o 8
+o 5
 suid 1,0
 )
 )
@@ -2288,7 +2288,7 @@ decl (Decl
 n "dout"
 t "std_logic_vector"
 b "(23 DOWNTO 0)"
-o 4
+o 2
 suid 2,0
 )
 )
@@ -2420,7 +2420,7 @@ lang 2
 decl (Decl
 n "sel"
 t "std_logic"
-o 5
+o 6
 suid 4,0
 )
 )
@@ -2818,7 +2818,7 @@ decl (Decl
 n "dout"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 2
+o 3
 suid 2,0
 k 1
 )
@@ -2951,7 +2951,7 @@ lang 2
 decl (Decl
 n "sel"
 t "std_logic"
-o 6
+o 7
 suid 4,0
 )
 )
@@ -3349,7 +3349,7 @@ decl (Decl
 n "dout"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 3
+o 4
 suid 2,0
 )
 )
@@ -3481,7 +3481,7 @@ lang 2
 decl (Decl
 n "sel"
 t "std_logic"
-o 7
+o 8
 suid 4,0
 )
 )
@@ -4004,7 +4004,7 @@ m 1
 decl (Decl
 n "dout0"
 t "std_logic"
-o 5
+o 6
 suid 1,0
 )
 )
@@ -4045,7 +4045,7 @@ m 1
 decl (Decl
 n "dout1"
 t "std_logic"
-o 6
+o 7
 suid 2,0
 )
 )
@@ -4086,7 +4086,7 @@ m 1
 decl (Decl
 n "dout2"
 t "std_logic"
-o 7
+o 8
 suid 1,0
 )
 )
@@ -4219,7 +4219,7 @@ lang 2
 decl (Decl
 n "dout0"
 t "std_logic"
-o 5
+o 6
 suid 5,0
 )
 declText (MLText
@@ -4238,7 +4238,7 @@ lang 2
 decl (Decl
 n "dout1"
 t "std_logic"
-o 6
+o 7
 suid 6,0
 )
 declText (MLText
@@ -4257,7 +4257,7 @@ lang 2
 decl (Decl
 n "dout2"
 t "std_logic"
-o 7
+o 8
 suid 7,0
 )
 declText (MLText
@@ -4277,7 +4277,7 @@ decl (Decl
 n "dout"
 t "std_logic_vector"
 b "(23 DOWNTO 0)"
-o 8
+o 5
 suid 8,0
 )
 declText (MLText
@@ -4464,8 +4464,8 @@ va (VaSet
 isHidden 1
 font "arial,8,0"
 )
-xt "54000,16000,61200,17000"
-st "color_BGR : (23:0)"
+xt "54000,16000,58200,17000"
+st "color_BGR"
 blo "54000,16800"
 tm "WireNameMgr"
 )
@@ -4546,8 +4546,8 @@ va (VaSet
 isHidden 1
 font "arial,8,0"
 )
-xt "54000,32000,59700,33000"
-st "y_coord : (7:0)"
+xt "54000,32000,57100,33000"
+st "y_coord"
 blo "54000,32800"
 tm "WireNameMgr"
 )
@@ -5034,12 +5034,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "1912,-8,3848,1168"
-viewArea "-31585,-1187,93587,69113"
-cachedDiagramExtent "-4400,0,63000,51000"
+windowSize "621,0,2561,1176"
+viewArea "-31600,-16400,93376,60104"
+cachedDiagramExtent "-4400,0,68000,49000"
 hasePageBreakOrigin 1
 pageBreakOrigin "-5000,0"
-lastUid 627,0
+lastUid 719,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0
@@ -6159,7 +6159,7 @@ decl (Decl
 n "x_coord"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 2
+o 3
 suid 3,0
 k 1
 )
@@ -6174,7 +6174,7 @@ decl (Decl
 n "y_coord"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 3
+o 4
 suid 4,0
 )
 )
@@ -6188,7 +6188,7 @@ decl (Decl
 n "color_BGR"
 t "std_logic_vector"
 b "(23 DOWNTO 0)"
-o 4
+o 2
 suid 2,0
 )
 )
@@ -6201,7 +6201,7 @@ m 4
 decl (Decl
 n "dout0"
 t "std_logic"
-o 5
+o 6
 suid 5,0
 )
 )
@@ -6214,7 +6214,7 @@ m 4
 decl (Decl
 n "dout1"
 t "std_logic"
-o 6
+o 7
 suid 6,0
 )
 )
@@ -6227,7 +6227,7 @@ m 4
 decl (Decl
 n "dout2"
 t "std_logic"
-o 7
+o 8
 suid 7,0
 )
 )
@@ -6241,7 +6241,7 @@ decl (Decl
 n "dout"
 t "std_logic_vector"
 b "(23 DOWNTO 0)"
-o 8
+o 5
 suid 8,0
 )
 )
