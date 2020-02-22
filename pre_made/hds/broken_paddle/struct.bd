@@ -130,15 +130,6 @@ mwi 1
 uid 2576,0
 )
 (Instance
-name "U_8"
-duLibraryName "moduleware"
-duName "and"
-elements [
-]
-mwi 1
-uid 3241,0
-)
-(Instance
 name "U_2"
 duLibraryName "moduleware"
 duName "and"
@@ -146,6 +137,15 @@ elements [
 ]
 mwi 1
 uid 3184,0
+)
+(Instance
+name "U_8"
+duLibraryName "moduleware"
+duName "and"
+elements [
+]
+mwi 1
+uid 3241,0
 )
 ]
 libraryRefs [
@@ -200,19 +200,19 @@ value "D:\\digital_design\\6\\alien_game\\..\\pre_made\\hds\\broken_paddle"
 )
 (vvPair
 variable "date"
-value "02/16/2020"
+value "02/18/2020"
 )
 (vvPair
 variable "day"
-value "Sun"
+value "Tue"
 )
 (vvPair
 variable "day_long"
-value "Sunday"
+value "Tuesday"
 )
 (vvPair
 variable "dd"
-value "16"
+value "18"
 )
 (vvPair
 variable "entity_name"
@@ -240,7 +240,7 @@ value "USER"
 )
 (vvPair
 variable "graphical_source_date"
-value "02/16/2020"
+value "02/18/2020"
 )
 (vvPair
 variable "graphical_source_group"
@@ -252,7 +252,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "01:05:05"
+value "22:50:21"
 )
 (vvPair
 variable "group"
@@ -356,7 +356,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "01:05:05"
+value "22:50:21"
 )
 (vvPair
 variable "unit"
@@ -402,8 +402,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "-74000,-16600,-49500,-15800"
-st "btn            : std_logic_vector(3 DOWNTO 0)
-"
+st "btn            : std_logic_vector(3 DOWNTO 0)"
 )
 )
 *2 (PortIoIn
@@ -465,8 +464,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "-74000,-14200,-59500,-13400"
-st "w_rdy          : std_logic
-"
+st "w_rdy          : std_logic"
 )
 )
 *4 (PortIoOut
@@ -4263,8 +4261,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "-74000,-12600,-49500,-11800"
-st "x_coord        : std_logic_vector(7 DOWNTO 0)
-"
+st "x_coord        : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *165 (Net
@@ -4281,8 +4278,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "-74000,-15800,-59500,-15000"
-st "clk            : std_logic
-"
+st "clk            : std_logic"
 )
 )
 *166 (MWC
@@ -5211,8 +5207,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "-74000,-13400,-59500,-12600"
-st "write          : std_logic
-"
+st "write          : std_logic"
 )
 )
 *212 (MWC
@@ -5766,8 +5761,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "-74000,-7600,-46000,-6800"
-st "SIGNAL deb_btn        : std_logic_vector(3 DOWNTO 0)
-"
+st "SIGNAL deb_btn        : std_logic_vector(3 DOWNTO 0)"
 )
 )
 *239 (SaComponent
@@ -6209,8 +6203,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "-74000,-9200,-56000,-8400"
-st "SIGNAL any_button     : std_logic
-"
+st "SIGNAL any_button     : std_logic"
 )
 )
 *256 (Net
@@ -6227,8 +6220,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "-74000,-2000,-56000,-1200"
-st "SIGNAL wr_btn         : std_logic
-"
+st "SIGNAL wr_btn         : std_logic"
 )
 )
 *257 (Net
@@ -6246,8 +6238,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "-74000,-3600,-46000,-2800"
-st "SIGNAL sel            : std_logic_vector(1 DOWNTO 0)
-"
+st "SIGNAL sel            : std_logic_vector(1 DOWNTO 0)"
 )
 )
 *258 (Net
@@ -6265,8 +6256,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "-74000,-8400,-46000,-7600"
-st "SIGNAL coord_to_ff    : std_logic_vector(7 DOWNTO 0)
-"
+st "SIGNAL coord_to_ff    : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *259 (Net
@@ -6283,8 +6273,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "-74000,-2800,-56000,-2000"
-st "SIGNAL shift_amount   : std_logic
-"
+st "SIGNAL shift_amount   : std_logic"
 )
 )
 *260 (Net
@@ -6301,8 +6290,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "-74000,-10000,-56000,-9200"
-st "SIGNAL and_r_to_merge : std_logic
-"
+st "SIGNAL and_r_to_merge : std_logic"
 )
 )
 *261 (Net
@@ -6319,8 +6307,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "-74000,-10800,-56000,-10000"
-st "SIGNAL and_l_to_merge : std_logic
-"
+st "SIGNAL and_l_to_merge : std_logic"
 )
 )
 *262 (Net
@@ -6337,8 +6324,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "-74000,-15000,-59500,-14200"
-st "rst_n          : std_logic
-"
+st "rst_n          : std_logic"
 )
 )
 *263 (Net
@@ -6356,8 +6342,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "-74000,-4400,-46000,-3600"
-st "SIGNAL r_shift_coord  : std_logic_vector(7 DOWNTO 0)
-"
+st "SIGNAL r_shift_coord  : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *264 (Net
@@ -6375,8 +6360,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "-74000,-5200,-46000,-4400"
-st "SIGNAL l_shift_coord  : std_logic_vector(7 DOWNTO 0)
-"
+st "SIGNAL l_shift_coord  : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *265 (Net
@@ -6393,8 +6377,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "-74000,-6800,-56000,-6000"
-st "SIGNAL dout           : std_logic
-"
+st "SIGNAL dout           : std_logic"
 )
 )
 *266 (MWC
@@ -7155,8 +7138,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "-74000,-6000,-56000,-5200"
-st "SIGNAL dout1          : std_logic
-"
+st "SIGNAL dout1          : std_logic"
 )
 )
 *303 (Wire
@@ -8947,7 +8929,7 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "0,0,1921,1176"
+windowSize "1920,24,3841,1200"
 viewArea "-95700,-54700,41274,22852"
 cachedDiagramExtent "-78100,-321000,30100,17000"
 pageSetupInfo (PageSetupInfo
@@ -8972,7 +8954,7 @@ exportStdPackageRefs 1
 )
 hasePageBreakOrigin 1
 pageBreakOrigin "-79000,-379000"
-lastUid 3375,0
+lastUid 3400,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0

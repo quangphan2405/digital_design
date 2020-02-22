@@ -87,7 +87,7 @@ value "D:\\digital_design\\6\\alien_game\\..\\tb_lib\\hds\\tb_incrementer"
 )
 (vvPair
 variable "date"
-value "02/15/2020"
+value "02/22/2020"
 )
 (vvPair
 variable "day"
@@ -99,7 +99,7 @@ value "Saturday"
 )
 (vvPair
 variable "dd"
-value "15"
+value "22"
 )
 (vvPair
 variable "entity_name"
@@ -127,7 +127,7 @@ value "USER"
 )
 (vvPair
 variable "graphical_source_date"
-value "02/15/2020"
+value "02/22/2020"
 )
 (vvPair
 variable "graphical_source_group"
@@ -139,7 +139,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "15:48:05"
+value "20:58:39"
 )
 (vvPair
 variable "group"
@@ -239,7 +239,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "15:48:05"
+value "20:58:39"
 )
 (vvPair
 variable "unit"
@@ -610,7 +610,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,3800,46500,4600"
-st "SIGNAL result  : std_logic_vector(2 DOWNTO 0)"
+st "SIGNAL result  : std_logic_vector(2 DOWNTO 0)
+"
 )
 )
 *13 (Net
@@ -628,7 +629,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,4600,46500,5400"
-st "SIGNAL to_duv  : std_logic_vector(2 DOWNTO 0)"
+st "SIGNAL to_duv  : std_logic_vector(2 DOWNTO 0)
+"
 )
 )
 *14 (Net
@@ -645,7 +647,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,3000,36500,3800"
-st "SIGNAL correct : std_logic"
+st "SIGNAL correct : std_logic
+"
 )
 )
 *15 (SaComponent
@@ -890,10 +893,10 @@ suid 2,0
 )
 )
 *24 (CptPort
-uid 721,0
+uid 756,0
 ps "OnEdgeStrategy"
 shape (Triangle
-uid 722,0
+uid 757,0
 ro 90
 va (VaSet
 vasetType 1
@@ -902,27 +905,27 @@ fg "0,65535,0"
 xt "36250,18625,37000,19375"
 )
 tg (CPTG
-uid 723,0
+uid 758,0
 ps "CptPortTextPlaceStrategy"
 stg "VerticalLayoutStrategy"
 f (Text
-uid 724,0
+uid 759,0
 va (VaSet
 font "arial,8,0"
 )
-xt "38000,18500,48500,19500"
-st "input_to_your_design : (2:0)"
+xt "38000,18500,42600,19500"
+st "input : (2:0)"
 blo "38000,19300"
 )
 )
 thePort (LogicalPort
 lang 2
 decl (Decl
-n "input_to_your_design"
+n "input"
 t "std_logic_vector"
 b "(2 DOWNTO 0)"
 o 1
-suid 3,0
+suid 4,0
 )
 )
 )
@@ -1247,12 +1250,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "1912,-8,3848,1168"
-viewArea "-14148,-14636,116472,58724"
+windowSize "1920,0,3841,1176"
+viewArea "-16443,-10880,108407,59808"
 cachedDiagramExtent "0,0,73000,49000"
 hasePageBreakOrigin 1
 pageBreakOrigin "0,0"
-lastUid 730,0
+lastUid 759,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0

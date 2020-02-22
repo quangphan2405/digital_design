@@ -39,10 +39,10 @@ VIEW struct.bd
 GRAPHIC 0,0 40 2 
 DESIGN c2_t2_full_adder
 VIEW struct.bd
-GRAPHIC 306,0 45 0 
+GRAPHIC 349,0 45 0 
 DESIGN c2_t2_full_adder
 VIEW struct.bd
-GRAPHIC 312,0 46 0 
+GRAPHIC 347,0 46 0 
 DESIGN c2_t2_full_adder
 VIEW struct.bd
 GRAPHIC 249,0 47 0 
