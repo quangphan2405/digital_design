@@ -1,1 +1,5 @@
 281249: 8h
+
+D&V seems okay if browsing from the alien_game_lib folder, but I do
+not know why alien_game_libindex.html opened nothing. I tried to
+repeat this several times and check each criteria in tutorial page.
