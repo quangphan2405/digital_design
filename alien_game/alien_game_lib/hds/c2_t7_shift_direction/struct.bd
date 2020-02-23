@@ -138,19 +138,19 @@ value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c2_t7_shift_direc
 )
 (vvPair
 variable "date"
-value "02/22/2020"
+value "02/23/2020"
 )
 (vvPair
 variable "day"
-value "Sat"
+value "Sun"
 )
 (vvPair
 variable "day_long"
-value "Saturday"
+value "Sunday"
 )
 (vvPair
 variable "dd"
-value "22"
+value "23"
 )
 (vvPair
 variable "entity_name"
@@ -178,7 +178,7 @@ value "USER"
 )
 (vvPair
 variable "graphical_source_date"
-value "02/22/2020"
+value "02/23/2020"
 )
 (vvPair
 variable "graphical_source_group"
@@ -190,7 +190,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "23:44:28"
+value "00:08:27"
 )
 (vvPair
 variable "group"
@@ -290,7 +290,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "23:44:28"
+value "00:08:27"
 )
 (vvPair
 variable "unit"
@@ -474,8 +474,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "26000,-5800,46500,-5000"
-st "x_coord : std_logic_vector(7 DOWNTO 0)
-"
+st "x_coord : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *5 (Grouping
@@ -1024,8 +1023,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "26000,-5000,46500,-4200"
-st "dir     : std_logic_vector(1 DOWNTO 0)
-"
+st "dir     : std_logic_vector(1 DOWNTO 0)"
 )
 )
 *26 (PortIoIn
@@ -1089,8 +1087,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "26000,-6600,36500,-5800"
-st "rst_n   : std_logic
-"
+st "rst_n   : std_logic"
 )
 )
 *28 (PortIoIn
@@ -1154,8 +1151,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "26000,-8200,36500,-7400"
-st "clk     : std_logic
-"
+st "clk     : std_logic"
 )
 )
 *30 (MWC
@@ -1725,8 +1721,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "26000,-3200,50500,-2400"
-st "SIGNAL dout    : std_logic_vector(1 DOWNTO 0)
-"
+st "SIGNAL dout    : std_logic_vector(1 DOWNTO 0)"
 )
 )
 *57 (MWC
@@ -2727,8 +2722,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "26000,-2400,40500,-1600"
-st "SIGNAL dout1   : std_logic
-"
+st "SIGNAL dout1   : std_logic"
 )
 )
 *102 (Net
@@ -2747,8 +2741,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "26000,-1600,50500,-800"
-st "SIGNAL dout2   : std_logic_vector(1 DOWNTO 0)
-"
+st "SIGNAL dout2   : std_logic_vector(1 DOWNTO 0)"
 )
 )
 *103 (MWC
@@ -3296,8 +3289,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "26000,-7400,36500,-6600"
-st "enable  : std_logic
-"
+st "enable  : std_logic"
 )
 )
 *125 (MWC
@@ -4298,8 +4290,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "26000,-800,40500,0"
-st "SIGNAL dout3   : std_logic
-"
+st "SIGNAL dout3   : std_logic"
 )
 )
 *170 (Net
@@ -4318,8 +4309,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "26000,0,50500,800"
-st "SIGNAL dout4   : std_logic_vector(1 DOWNTO 0)
-"
+st "SIGNAL dout4   : std_logic_vector(1 DOWNTO 0)"
 )
 )
 *171 (MWC
@@ -4889,8 +4879,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "26000,800,50500,1600"
-st "SIGNAL q       : std_logic_vector(1 DOWNTO 0)
-"
+st "SIGNAL q       : std_logic_vector(1 DOWNTO 0)"
 )
 )
 *198 (Net
@@ -4909,8 +4898,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "26000,2400,50500,3200"
-st "SIGNAL qb      : std_logic_vector(1 DOWNTO 0)
-"
+st "SIGNAL qb      : std_logic_vector(1 DOWNTO 0)"
 )
 )
 *199 (Net
@@ -4929,8 +4917,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "26000,1600,50500,2400"
-st "SIGNAL q1      : std_logic_vector(1 DOWNTO 0)
-"
+st "SIGNAL q1      : std_logic_vector(1 DOWNTO 0)"
 )
 )
 *200 (Net
@@ -4949,8 +4936,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "26000,3200,50500,4000"
-st "SIGNAL qb1     : std_logic_vector(1 DOWNTO 0)
-"
+st "SIGNAL qb1     : std_logic_vector(1 DOWNTO 0)"
 )
 )
 *201 (Wire
@@ -6027,12 +6013,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "182,59,1629,1052"
-viewArea "-9900,-5476,73128,51440"
+windowSize "182,59,1630,1052"
+viewArea "-9900,-5500,73060,51416"
 cachedDiagramExtent "-6100,-10200,73300,51000"
 hasePageBreakOrigin 1
 pageBreakOrigin "-7000,-51000"
-lastUid 3179,0
+lastUid 3204,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0

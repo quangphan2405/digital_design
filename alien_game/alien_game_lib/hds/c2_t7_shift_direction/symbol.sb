@@ -472,19 +472,19 @@ value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c2_t7_shift_direc
 )
 (vvPair
 variable "date"
-value "02/22/2020"
+value "02/23/2020"
 )
 (vvPair
 variable "day"
-value "Sat"
+value "Sun"
 )
 (vvPair
 variable "day_long"
-value "Saturday"
+value "Sunday"
 )
 (vvPair
 variable "dd"
-value "22"
+value "23"
 )
 (vvPair
 variable "entity_name"
@@ -512,7 +512,7 @@ value "USER"
 )
 (vvPair
 variable "graphical_source_date"
-value "02/22/2020"
+value "02/23/2020"
 )
 (vvPair
 variable "graphical_source_group"
@@ -524,7 +524,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "23:44:28"
+value "00:08:27"
 )
 (vvPair
 variable "group"
@@ -624,7 +624,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "23:44:28"
+value "00:08:27"
 )
 (vvPair
 variable "unit"
@@ -1585,6 +1585,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 1651,0
+lastUid 1674,0
 activeModelName "Symbol:CDM"
 )
