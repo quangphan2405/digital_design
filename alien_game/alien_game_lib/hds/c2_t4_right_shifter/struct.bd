@@ -93,19 +93,19 @@ value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c2_t4_right_shift
 )
 (vvPair
 variable "date"
-value "02/15/2020"
+value "03/16/2020"
 )
 (vvPair
 variable "day"
-value "Sat"
+value "Mon"
 )
 (vvPair
 variable "day_long"
-value "Saturday"
+value "Monday"
 )
 (vvPair
 variable "dd"
-value "15"
+value "16"
 )
 (vvPair
 variable "entity_name"
@@ -133,7 +133,7 @@ value "USER"
 )
 (vvPair
 variable "graphical_source_date"
-value "02/15/2020"
+value "03/16/2020"
 )
 (vvPair
 variable "graphical_source_group"
@@ -145,7 +145,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "16:54:24"
+value "20:35:22"
 )
 (vvPair
 variable "group"
@@ -169,7 +169,7 @@ value "$HDS_PROJECT_DIR/alien_game_lib/work"
 )
 (vvPair
 variable "mm"
-value "02"
+value "03"
 )
 (vvPair
 variable "module_name"
@@ -177,11 +177,11 @@ value "c2_t4_right_shifter"
 )
 (vvPair
 variable "month"
-value "Feb"
+value "Mar"
 )
 (vvPair
 variable "month_long"
-value "February"
+value "March"
 )
 (vvPair
 variable "p"
@@ -245,7 +245,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "16:54:24"
+value "20:35:22"
 )
 (vvPair
 variable "unit"
@@ -338,8 +338,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,2000,43000,2800"
-st "data_in  : std_logic_vector(7 DOWNTO 0)
-"
+st "data_in  : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *3 (PortIoOut
@@ -403,8 +402,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,2800,43000,3600"
-st "data_out : std_logic_vector(7 DOWNTO 0)
-"
+st "data_out : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *5 (Grouping
@@ -2199,8 +2197,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,4600,37000,5400"
-st "SIGNAL dout     : std_logic
-"
+st "SIGNAL dout     : std_logic"
 )
 )
 *71 (Net
@@ -2218,8 +2215,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,10200,37000,11000"
-st "SIGNAL dout7    : std_logic
-"
+st "SIGNAL dout7    : std_logic"
 )
 )
 *72 (Net
@@ -2237,8 +2233,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,9400,37000,10200"
-st "SIGNAL dout6    : std_logic
-"
+st "SIGNAL dout6    : std_logic"
 )
 )
 *73 (Net
@@ -2256,8 +2251,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,8600,37000,9400"
-st "SIGNAL dout5    : std_logic
-"
+st "SIGNAL dout5    : std_logic"
 )
 )
 *74 (Net
@@ -2275,8 +2269,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,7800,37000,8600"
-st "SIGNAL dout4    : std_logic
-"
+st "SIGNAL dout4    : std_logic"
 )
 )
 *75 (Net
@@ -2294,8 +2287,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,7000,37000,7800"
-st "SIGNAL dout3    : std_logic
-"
+st "SIGNAL dout3    : std_logic"
 )
 )
 *76 (Net
@@ -2313,8 +2305,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,6200,37000,7000"
-st "SIGNAL dout2    : std_logic
-"
+st "SIGNAL dout2    : std_logic"
 )
 )
 *77 (Net
@@ -2332,8 +2323,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,5400,37000,6200"
-st "SIGNAL dout1    : std_logic
-"
+st "SIGNAL dout1    : std_logic"
 )
 )
 *78 (Wire
@@ -2844,12 +2834,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "1912,-8,3848,1168"
-viewArea "-41748,-26832,118728,63296"
+windowSize "1920,0,3841,1176"
+viewArea "-41700,-26800,119337,61940"
 cachedDiagramExtent "0,0,62000,51000"
 hasePageBreakOrigin 1
 pageBreakOrigin "-6000,0"
-lastUid 607,0
+lastUid 630,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0
