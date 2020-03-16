@@ -246,7 +246,7 @@ uid 116,0
 )
 *32 (MRCItem
 litem &19
-pos 5
+pos 7
 dimension 20
 uid 118,0
 )
@@ -258,7 +258,7 @@ uid 120,0
 )
 *34 (MRCItem
 litem &21
-pos 7
+pos 5
 dimension 20
 uid 122,0
 )
@@ -583,7 +583,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "20:35:25"
+value "21:41:28"
 )
 (vvPair
 variable "group"
@@ -683,7 +683,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "20:35:25"
+value "21:41:28"
 )
 (vvPair
 variable "unit"
@@ -1786,6 +1786,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 393,0
+lastUid 1152,0
 activeModelName "Symbol:CDM"
 )

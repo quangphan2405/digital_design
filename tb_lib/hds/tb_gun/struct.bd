@@ -144,7 +144,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "20:35:26"
+value "21:41:21"
 )
 (vvPair
 variable "group"
@@ -244,7 +244,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "20:35:26"
+value "21:41:21"
 )
 (vvPair
 variable "unit"
@@ -2315,12 +2315,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "1912,-8,3848,1168"
-viewArea "-13316,-7912,107974,60208"
+windowSize "1920,0,3841,1176"
+viewArea "-13300,-7900,108866,61268"
 cachedDiagramExtent "0,0,73100,49000"
 hasePageBreakOrigin 1
 pageBreakOrigin "0,0"
-lastUid 881,0
+lastUid 931,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0
