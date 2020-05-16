@@ -101,19 +101,19 @@ value "D:\\digital_design\\6\\alien_game\\..\\pre_made\\hds\\HELLO_ALIEN"
 )
 (vvPair
 variable "date"
-value "03/17/2020"
+value "05/16/2020"
 )
 (vvPair
 variable "day"
-value "Tue"
+value "Sat"
 )
 (vvPair
 variable "day_long"
-value "Tuesday"
+value "Saturday"
 )
 (vvPair
 variable "dd"
-value "17"
+value "16"
 )
 (vvPair
 variable "entity_name"
@@ -141,7 +141,7 @@ value "USER"
 )
 (vvPair
 variable "graphical_source_date"
-value "03/17/2020"
+value "05/16/2020"
 )
 (vvPair
 variable "graphical_source_group"
@@ -153,7 +153,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "18:17:41"
+value "14:34:52"
 )
 (vvPair
 variable "group"
@@ -181,7 +181,7 @@ value "$HDS_PROJECT_DIR/../pre_made/work"
 )
 (vvPair
 variable "mm"
-value "03"
+value "05"
 )
 (vvPair
 variable "module_name"
@@ -189,11 +189,11 @@ value "HELLO_ALIEN"
 )
 (vvPair
 variable "month"
-value "Mar"
+value "May"
 )
 (vvPair
 variable "month_long"
-value "March"
+value "May"
 )
 (vvPair
 variable "p"
@@ -257,7 +257,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "18:17:41"
+value "14:34:52"
 )
 (vvPair
 variable "unit"
@@ -309,7 +309,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "36200,48000,46000,49000"
+xt "36200,48000,46100,49000"
 st "
 by %user on %dd %month %year
 "
@@ -2622,7 +2622,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "22250,28625,23000,29375"
+xt "21250,28625,22000,29375"
 )
 tg (CPTG
 uid 1872,0
@@ -2633,9 +2633,9 @@ uid 1873,0
 va (VaSet
 font "arial,8,0"
 )
-xt "24000,28500,26600,29500"
+xt "23000,28500,25600,29500"
 st "enable"
-blo "24000,29300"
+blo "23000,29300"
 )
 )
 thePort (LogicalPort
@@ -2658,7 +2658,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "22250,33625,23000,34375"
+xt "21250,33625,22000,34375"
 )
 tg (CPTG
 uid 1876,0
@@ -2669,9 +2669,9 @@ uid 1877,0
 va (VaSet
 font "arial,8,0"
 )
-xt "24000,33500,25200,34500"
+xt "23000,33500,24200,34500"
 st "hit"
-blo "24000,34300"
+blo "23000,34300"
 )
 )
 thePort (LogicalPort
@@ -2694,7 +2694,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "22250,27625,23000,28375"
+xt "21250,27625,22000,28375"
 )
 tg (CPTG
 uid 1880,0
@@ -2705,9 +2705,9 @@ uid 1881,0
 va (VaSet
 font "arial,8,0"
 )
-xt "24000,27500,26100,28500"
+xt "23000,27500,25100,28500"
 st "rst_n"
-blo "24000,28300"
+blo "23000,28300"
 )
 )
 thePort (LogicalPort
@@ -2730,7 +2730,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "22250,26625,23000,27375"
+xt "21250,26625,22000,27375"
 )
 tg (CPTG
 uid 1884,0
@@ -2741,9 +2741,9 @@ uid 1885,0
 va (VaSet
 font "arial,8,0"
 )
-xt "24000,26500,25400,27500"
+xt "23000,26500,24400,27500"
 st "clk"
-blo "24000,27300"
+blo "23000,27300"
 )
 )
 thePort (LogicalPort
@@ -2882,7 +2882,7 @@ fg "0,65535,0"
 lineColor "0,32896,0"
 lineWidth 2
 )
-xt "23000,26000,33000,39000"
+xt "22000,26000,33000,39000"
 )
 oxt "15000,6000,33000,26000"
 ttg (MlTextGroup
@@ -2895,9 +2895,9 @@ uid 1901,0
 va (VaSet
 font "arial,8,1"
 )
-xt "25200,30000,31400,31000"
+xt "26200,29000,32400,30000"
 st "alien_game_lib"
-blo "25200,30800"
+blo "26200,29800"
 tm "BdLibraryNameMgr"
 )
 *96 (Text
@@ -2905,9 +2905,9 @@ uid 1902,0
 va (VaSet
 font "arial,8,1"
 )
-xt "25200,31000,31300,32000"
+xt "26200,30000,32300,31000"
 st "c2_t7_x_coord"
-blo "25200,31800"
+blo "26200,30800"
 tm "CptNameMgr"
 )
 *97 (Text
@@ -2915,9 +2915,9 @@ uid 1903,0
 va (VaSet
 font "arial,8,1"
 )
-xt "25200,32000,27000,33000"
+xt "26200,31000,28000,32000"
 st "U_1"
-blo "25200,32800"
+blo "26200,31800"
 tm "InstanceNameMgr"
 )
 ]
@@ -2946,7 +2946,7 @@ va (VaSet
 vasetType 1
 fg "49152,49152,49152"
 )
-xt "23250,37250,24750,38750"
+xt "22250,37250,23750,38750"
 iconName "BlockDiagram.png"
 iconMaskName "BlockDiagram.msk"
 ftype 1
@@ -3449,11 +3449,11 @@ uid 1030,0
 va (VaSet
 vasetType 3
 )
-xt "17000,5000,22250,27000"
+xt "17000,5000,21250,27000"
 pts [
 "17000,5000"
 "17000,27000"
-"22250,27000"
+"21250,27000"
 ]
 )
 start &103
@@ -3472,9 +3472,9 @@ f (Text
 uid 1034,0
 va (VaSet
 )
-xt "19000,26000,20400,27000"
+xt "18000,26000,19400,27000"
 st "clk"
-blo "19000,26800"
+blo "18000,26800"
 tm "WireNameMgr"
 )
 )
@@ -3487,11 +3487,11 @@ uid 1038,0
 va (VaSet
 vasetType 3
 )
-xt "16000,6000,22250,28000"
+xt "16000,6000,21250,28000"
 pts [
 "16000,6000"
 "16000,28000"
-"22250,28000"
+"21250,28000"
 ]
 )
 start &99
@@ -3510,9 +3510,9 @@ f (Text
 uid 1042,0
 va (VaSet
 )
-xt "19000,27000,21100,28000"
+xt "18000,27000,20100,28000"
 st "rst_n"
-blo "19000,27800"
+blo "18000,27800"
 tm "WireNameMgr"
 )
 )
@@ -3601,12 +3601,12 @@ uid 1536,0
 va (VaSet
 vasetType 3
 )
-xt "11750,22000,22250,29000"
+xt "11750,22000,21250,29000"
 pts [
 "11750,22000"
 "15000,22000"
 "15000,29000"
-"22250,29000"
+"21250,29000"
 ]
 )
 start &81
@@ -3636,18 +3636,18 @@ on &75
 uid 1549,0
 optionalChildren [
 *121 (Ripper
-uid 1571,0
+uid 1980,0
 ps "OnConnectorStrategy"
 shape (Line2D
 pts [
-"8980,35000"
-"9980,34000"
+"9000,35000"
+"10000,34000"
 ]
-uid 1572,0
+uid 1981,0
 va (VaSet
 vasetType 3
 )
-xt "8980,34000,9980,35000"
+xt "9000,34000,10000,35000"
 )
 )
 ]
@@ -3728,43 +3728,6 @@ tm "WireNameMgr"
 on &72
 )
 *123 (Wire
-uid 1567,0
-shape (OrthoPolyLine
-uid 1568,0
-va (VaSet
-vasetType 3
-)
-xt "9980,34000,22250,34000"
-pts [
-"9980,34000"
-"22250,34000"
-]
-)
-start &121
-end &89
-sat 32
-eat 32
-stc 0
-st 0
-sf 1
-si 0
-tg (WTG
-uid 1569,0
-ps "ConnStartEndStrategy"
-stg "STSignalDisplayStrategy"
-f (Text
-uid 1570,0
-va (VaSet
-)
-xt "20250,33000,21650,34000"
-st "btn"
-blo "20250,33800"
-tm "WireNameMgr"
-)
-)
-on &74
-)
-*124 (Wire
 uid 1581,0
 shape (OrthoPolyLine
 uid 1582,0
@@ -3802,7 +3765,7 @@ tm "WireNameMgr"
 )
 on &76
 )
-*125 (Wire
+*124 (Wire
 uid 1587,0
 shape (OrthoPolyLine
 uid 1588,0
@@ -3840,7 +3803,7 @@ tm "WireNameMgr"
 )
 on &77
 )
-*126 (Wire
+*125 (Wire
 uid 1593,0
 shape (OrthoPolyLine
 uid 1594,0
@@ -3878,7 +3841,7 @@ tm "WireNameMgr"
 )
 on &78
 )
-*127 (Wire
+*126 (Wire
 uid 1710,0
 shape (OrthoPolyLine
 uid 1711,0
@@ -3916,7 +3879,7 @@ tm "WireNameMgr"
 )
 on &41
 )
-*128 (Wire
+*127 (Wire
 uid 1724,0
 shape (OrthoPolyLine
 uid 1725,0
@@ -3955,6 +3918,45 @@ tm "WireNameMgr"
 )
 )
 on &42
+)
+*128 (Wire
+uid 1976,0
+shape (OrthoPolyLine
+uid 1977,0
+va (VaSet
+vasetType 3
+)
+xt "10000,34000,21250,34000"
+pts [
+"10000,34000"
+"16000,34000"
+"21250,34000"
+]
+)
+start &121
+end &89
+sat 32
+eat 32
+sl "(0)"
+stc 0
+st 0
+sf 1
+si 0
+tg (WTG
+uid 1978,0
+ps "ConnStartEndStrategy"
+stg "STSignalDisplayStrategy"
+f (Text
+uid 1979,0
+va (VaSet
+)
+xt "18250,33000,20650,34000"
+st "btn(0)"
+blo "18250,33800"
+tm "WireNameMgr"
+)
+)
+on &74
 )
 ]
 bg "65535,65535,65535"
@@ -4066,8 +4068,8 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "0,0,1921,1200"
-viewArea "-18200,-18800,105817,53024"
+windowSize "0,0,1537,864"
+viewArea "-18200,-5176,119698,64008"
 cachedDiagramExtent "0,0,73000,49000"
 pageSetupInfo (PageSetupInfo
 ptrCmd ""
@@ -4080,7 +4082,7 @@ exportStdPackageRefs 1
 )
 hasePageBreakOrigin 1
 pageBreakOrigin "0,0"
-lastUid 1925,0
+lastUid 2006,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0
