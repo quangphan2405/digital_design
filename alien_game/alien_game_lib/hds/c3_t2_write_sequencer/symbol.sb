@@ -548,19 +548,19 @@ value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c3_t2_write_seque
 )
 (vvPair
 variable "date"
-value "05/17/2020"
+value "05/18/2020"
 )
 (vvPair
 variable "day"
-value "Sun"
+value "Mon"
 )
 (vvPair
 variable "day_long"
-value "Sunday"
+value "Monday"
 )
 (vvPair
 variable "dd"
-value "17"
+value "18"
 )
 (vvPair
 variable "entity_name"
@@ -588,7 +588,7 @@ value "USER"
 )
 (vvPair
 variable "graphical_source_date"
-value "05/17/2020"
+value "05/18/2020"
 )
 (vvPair
 variable "graphical_source_group"
@@ -600,7 +600,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "20:00:41"
+value "14:59:16"
 )
 (vvPair
 variable "group"
@@ -700,7 +700,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "20:00:41"
+value "14:59:16"
 )
 (vvPair
 variable "unit"
@@ -1849,6 +1849,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 269,0
+lastUid 614,0
 activeModelName "Symbol:CDM"
 )
