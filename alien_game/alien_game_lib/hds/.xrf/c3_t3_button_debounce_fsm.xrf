@@ -1,0 +1,240 @@
+DESIGN c3_t3_button_debounce
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN c3_t3_button_debounce
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN c3_t3_button_debounce
+VIEW symbol.sb
+GRAPHIC 179,0 14 0 
+DESIGN c3_t3_button_debounce
+VIEW symbol.sb
+GRAPHIC 112,0 15 0 
+DESIGN c3_t3_button_debounce
+VIEW symbol.sb
+GRAPHIC 117,0 16 0 
+DESIGN c3_t3_button_debounce
+VIEW symbol.sb
+GRAPHIC 184,0 17 0 
+DESIGN c3_t3_button_debounce
+VIEW symbol.sb
+GRAPHIC 1,0 20 0 
+DESIGN c3_t3_button_debounce
+VIEW symbol.sb
+GRAPHIC 1,0 21 0 
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 31,0 33 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+NO_GRAPHIC 36
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 2,0 49 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+NO_GRAPHIC 50
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 242,0 53 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+NO_GRAPHIC 54
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 2,0 61 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+NO_GRAPHIC 62
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 2,0 65 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+NO_GRAPHIC 66
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 70,0 67 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 60,0 70 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+NO_GRAPHIC 71
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 30,0 74 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+NO_GRAPHIC 75
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 2,0 76 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+NO_GRAPHIC 77
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 2,0 79 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+NO_GRAPHIC 80
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 242,0 87 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 2,0 88 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 43,0 89 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 225,0 90 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 203,0 91 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 237,0 92 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 43,0 93 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+NO_GRAPHIC 94
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 43,0 95 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+NO_GRAPHIC 96
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 203,0 97 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 242,0 98 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 274,0 101 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 43,0 102 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+NO_GRAPHIC 103
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 242,0 104 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+NO_GRAPHIC 105
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 93,0 106 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+NO_GRAPHIC 108
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 2,0 109 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+NO_GRAPHIC 110
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 2,0 112 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+NO_GRAPHIC 113
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 30,0 118 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+NO_GRAPHIC 119
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 2,0 121 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 203,0 122 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 218,0 123 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+NO_GRAPHIC 124
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 2,0 126 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+NO_GRAPHIC 128
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 2,0 130 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+NO_GRAPHIC 134
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 2,0 137 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+NO_GRAPHIC 155
