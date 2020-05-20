@@ -69,23 +69,19 @@ GRAPHIC 70,0 67 0
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-GRAPHIC 60,0 70 0
+NO_GRAPHIC 70
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-NO_GRAPHIC 71
+GRAPHIC 60,0 72 0
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-GRAPHIC 30,0 74 0
+NO_GRAPHIC 73
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-NO_GRAPHIC 75
-LIBRARY alien_game_lib
-DESIGN c3_t3_button_debounce
-VIEW fsm.sm
-GRAPHIC 2,0 76 0
+GRAPHIC 30,0 76 0
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
@@ -93,31 +89,31 @@ NO_GRAPHIC 77
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-GRAPHIC 2,0 79 0
+GRAPHIC 2,0 78 0
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-NO_GRAPHIC 80
+NO_GRAPHIC 79
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-GRAPHIC 242,0 87 0
+GRAPHIC 2,0 81 0
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-GRAPHIC 2,0 88 0
+NO_GRAPHIC 82
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-GRAPHIC 43,0 89 0
+GRAPHIC 242,0 89 0
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-GRAPHIC 225,0 90 0
+GRAPHIC 2,0 90 0
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-GRAPHIC 203,0 91 0
+GRAPHIC 43,0 91 0
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
@@ -129,11 +125,11 @@ GRAPHIC 43,0 93 0
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-NO_GRAPHIC 94
+GRAPHIC 389,0 94 0
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-GRAPHIC 43,0 95 0
+GRAPHIC 203,0 95 0
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
@@ -141,27 +137,27 @@ NO_GRAPHIC 96
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-GRAPHIC 203,0 97 0
+GRAPHIC 43,0 97 0
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-GRAPHIC 242,0 98 0
+NO_GRAPHIC 98
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-GRAPHIC 274,0 101 0
+GRAPHIC 203,0 99 0
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-GRAPHIC 43,0 102 0
+GRAPHIC 242,0 100 0
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-NO_GRAPHIC 103
+GRAPHIC 409,0 103 0
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-GRAPHIC 242,0 104 0
+GRAPHIC 43,0 104 0
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
@@ -169,15 +165,15 @@ NO_GRAPHIC 105
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-GRAPHIC 93,0 106 0
+GRAPHIC 242,0 106 0
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-NO_GRAPHIC 108
+NO_GRAPHIC 107
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-GRAPHIC 2,0 109 0
+GRAPHIC 93,0 108 0
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
@@ -185,39 +181,47 @@ NO_GRAPHIC 110
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-GRAPHIC 2,0 112 0
+GRAPHIC 2,0 111 0
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-NO_GRAPHIC 113
+NO_GRAPHIC 112
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-GRAPHIC 30,0 118 0
+GRAPHIC 2,0 114 0
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-NO_GRAPHIC 119
+NO_GRAPHIC 115
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-GRAPHIC 2,0 121 0
+GRAPHIC 30,0 120 0
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-GRAPHIC 203,0 122 0
+NO_GRAPHIC 121
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-GRAPHIC 218,0 123 0
+GRAPHIC 2,0 123 0
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-NO_GRAPHIC 124
+GRAPHIC 43,0 124 0
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-GRAPHIC 2,0 126 0
+GRAPHIC 58,0 125 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 203,0 126 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 218,0 127 0
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
@@ -229,12 +233,20 @@ GRAPHIC 2,0 130 0
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-NO_GRAPHIC 134
+NO_GRAPHIC 132
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-GRAPHIC 2,0 137 0
+GRAPHIC 2,0 134 0
 LIBRARY alien_game_lib
 DESIGN c3_t3_button_debounce
 VIEW fsm.sm
-NO_GRAPHIC 155
+NO_GRAPHIC 138
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+GRAPHIC 2,0 141 0
+LIBRARY alien_game_lib
+DESIGN c3_t3_button_debounce
+VIEW fsm.sm
+NO_GRAPHIC 159
