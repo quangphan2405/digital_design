@@ -74,19 +74,19 @@ value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c3_t2_write_seque
 )
 (vvPair
 variable "date"
-value "05/18/2020"
+value "05/20/2020"
 )
 (vvPair
 variable "day"
-value "Mon"
+value "Wed"
 )
 (vvPair
 variable "day_long"
-value "Monday"
+value "Wednesday"
 )
 (vvPair
 variable "dd"
-value "18"
+value "20"
 )
 (vvPair
 variable "entity_name"
@@ -114,7 +114,7 @@ value "USER"
 )
 (vvPair
 variable "graphical_source_date"
-value "05/18/2020"
+value "05/20/2020"
 )
 (vvPair
 variable "graphical_source_group"
@@ -126,7 +126,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "17:01:57"
+value "15:49:32"
 )
 (vvPair
 variable "group"
@@ -226,7 +226,7 @@ value "fsm"
 )
 (vvPair
 variable "time"
-value "17:01:57"
+value "15:49:32"
 )
 (vvPair
 variable "unit"
@@ -811,7 +811,7 @@ bg "0,0,32768"
 )
 xt "31125,71649,41025,72649"
 st "
-by %user on %dd %month %year
+by Quang on %dd %month %year
 "
 tm "CommentText"
 wrapOption 3
@@ -871,9 +871,9 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "31125,69649,41125,70649"
+xt "31125,69649,40125,70649"
 st "
-<enter diagram title here>
+c3_t2_write_sequencer
 "
 tm "CommentText"
 wrapOption 3
@@ -933,9 +933,9 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "48125,68849,57525,69849"
+xt "48125,68849,57625,69849"
 st "
-<enter comments here>
+FSM for write controller.
 "
 tm "CommentText"
 wrapOption 3
@@ -993,9 +993,10 @@ uid 146,0
 va (VaSet
 fg "32768,0,0"
 )
-xt "33925,68149,40925,69149"
+xt "35975,68149,38875,69149"
 st "
-<company name>
+TUNI   
+
 "
 ju 0
 tm "CommentText"
@@ -4142,8 +4143,8 @@ tm "SmCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "5,0,1542,830"
-viewArea "-12283,-7463,112980,52479"
+windowSize "-8,-8,1544,832"
+viewArea "-12300,22420,113670,82940"
 cachedDiagramExtent "0,-1000,75957,72649"
 hasePageBreakOrigin 1
 pageBreakOrigin "0,-2000"
@@ -4535,7 +4536,7 @@ stateOrder [
 name "csm"
 )
 ]
-lastUid 790,0
+lastUid 819,0
 commonDM (CommonDM
 ldm (LogicalDM
 emptyRow *77 (LEmptyRow
