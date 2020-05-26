@@ -582,7 +582,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "21:14:46"
+value "21:54:06"
 )
 (vvPair
 variable "group"
@@ -682,7 +682,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "21:14:46"
+value "21:54:06"
 )
 (vvPair
 variable "unit"
@@ -1785,6 +1785,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 232,0
+lastUid 462,0
 activeModelName "Symbol:CDM"
 )
