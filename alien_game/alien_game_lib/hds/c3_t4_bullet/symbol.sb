@@ -530,19 +530,19 @@ value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c3_t4_bullet"
 )
 (vvPair
 variable "date"
-value "05/20/2020"
+value "05/26/2020"
 )
 (vvPair
 variable "day"
-value "Wed"
+value "Tue"
 )
 (vvPair
 variable "day_long"
-value "Wednesday"
+value "Tuesday"
 )
 (vvPair
 variable "dd"
-value "20"
+value "26"
 )
 (vvPair
 variable "entity_name"
@@ -570,7 +570,7 @@ value "USER"
 )
 (vvPair
 variable "graphical_source_date"
-value "05/20/2020"
+value "05/26/2020"
 )
 (vvPair
 variable "graphical_source_group"
@@ -582,7 +582,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "17:18:10"
+value "21:14:46"
 )
 (vvPair
 variable "group"
@@ -682,7 +682,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "17:18:10"
+value "21:14:46"
 )
 (vvPair
 variable "unit"
@@ -1785,6 +1785,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 186,0
+lastUid 232,0
 activeModelName "Symbol:CDM"
 )
