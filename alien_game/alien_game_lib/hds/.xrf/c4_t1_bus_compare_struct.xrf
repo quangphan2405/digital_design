@@ -1,0 +1,191 @@
+DESIGN c4_t1_bus_compare
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN c4_t1_bus_compare
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN c4_t1_bus_compare
+VIEW symbol.sb
+GRAPHIC 114,0 14 0 
+DESIGN c4_t1_bus_compare
+VIEW symbol.sb
+GRAPHIC 119,0 15 0 
+DESIGN c4_t1_bus_compare
+VIEW symbol.sb
+GRAPHIC 124,0 16 0 
+DESIGN c4_t1_bus_compare
+VIEW symbol.sb
+GRAPHIC 1,0 19 0 
+DESIGN c4_t1_bus_compare
+VIEW symbol.sb
+GRAPHIC 1,0 20 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+NO_GRAPHIC 23
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 89,0 32 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+NO_GRAPHIC 35
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 0,0 38 2 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 904,0 43 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 906,0 44 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 908,0 45 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 910,0 46 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 912,0 47 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 914,0 48 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 916,0 49 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 918,0 50 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+NO_GRAPHIC 51
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+NO_GRAPHIC 52
+LIBRARY alien_game_lib
+DESIGN c4_t1_bit_compare
+VIEW struct
+GRAPHIC 169,0 54 0 
+DESIGN c4_t1_bit_compare
+VIEW symbol.sb
+GRAPHIC 114,0 56 0 
+DESIGN c4_t1_bit_compare
+VIEW symbol.sb
+GRAPHIC 119,0 57 0 
+DESIGN c4_t1_bit_compare
+VIEW symbol.sb
+GRAPHIC 124,0 58 0 
+LIBRARY alien_game_lib
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+NO_GRAPHIC 61
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 169,0 64 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+NO_GRAPHIC 67
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 637,0 69 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+NO_GRAPHIC 73
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 169,0 75 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 487,0 77 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 603,0 78 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 858,0 79 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 333,0 81 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 493,0 83 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 597,0 84 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 864,0 85 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 355,0 87 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 585,0 89 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 591,0 90 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 870,0 91 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 377,0 93 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 579,0 95 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 573,0 96 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 876,0 97 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 399,0 99 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 511,0 101 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 553,0 102 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 882,0 103 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 421,0 105 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 517,0 107 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 547,0 108 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 888,0 109 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 443,0 111 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 523,0 113 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 541,0 114 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 894,0 115 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 465,0 117 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 529,0 119 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 535,0 120 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+GRAPHIC 900,0 121 0 
+DESIGN c4_t1_bus_compare
+VIEW struct.bd
+NO_GRAPHIC 124
