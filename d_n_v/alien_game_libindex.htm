@@ -1263,6 +1263,71 @@ function initialise() {
                    'BlockDiagramDef', 'struct',
                    'alien_game_lib/c2_t7_x_coord/struct_bd.htm',
                    'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c3_t1_gun_module',
+                   '',
+                   'c3_t1_gun_module');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c3_t1_gun_module/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'BlockDiagramDef', 'struct',
+                   'alien_game_lib/c3_t1_gun_module/struct_bd.htm',
+                   'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c3_t2_top_level',
+                   '',
+                   'c3_t2_top_level');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c3_t2_top_level/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'BlockDiagramDef', 'struct',
+                   'alien_game_lib/c3_t2_top_level/struct_bd.htm',
+                   'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c3_t2_write_sequencer',
+                   '',
+                   'c3_t2_write_sequencer');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c3_t2_write_sequencer/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'StateDiagramDef', 'fsm',
+                   'alien_game_lib/c3_t2_write_sequencer/fsm_sm.htm',
+                   'fsm');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c3_t3_button_debounce',
+                   '',
+                   'c3_t3_button_debounce');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c3_t3_button_debounce/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'StateDiagramDef', 'fsm',
+                   'alien_game_lib/c3_t3_button_debounce/fsm_sm.htm',
+                   'fsm');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c3_t4_bullet',
+                   '',
+                   'c3_t4_bullet');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c3_t4_bullet/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'StateDiagramDef', 'fsm',
+                   'alien_game_lib/c3_t4_bullet/fsm_sm.htm',
+                   'fsm');
    nodes[2] = theMenu.addChild(nodes[1],
                    'Folder', 'HDL Files',
                    '',
