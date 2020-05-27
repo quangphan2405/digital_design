@@ -83,19 +83,19 @@ value "D:\\digital_design\\6\\alien_game\\..\\tb_lib\\hds\\tb_bullet"
 )
 (vvPair
 variable "date"
-value "05/26/2020"
+value "05/27/2020"
 )
 (vvPair
 variable "day"
-value "Tue"
+value "Wed"
 )
 (vvPair
 variable "day_long"
-value "Tuesday"
+value "Wednesday"
 )
 (vvPair
 variable "dd"
-value "26"
+value "27"
 )
 (vvPair
 variable "entity_name"
@@ -123,7 +123,7 @@ value "USER"
 )
 (vvPair
 variable "graphical_source_date"
-value "05/26/2020"
+value "05/27/2020"
 )
 (vvPair
 variable "graphical_source_group"
@@ -135,7 +135,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "22:25:35"
+value "14:31:36"
 )
 (vvPair
 variable "group"
@@ -235,7 +235,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "22:25:35"
+value "14:31:36"
 )
 (vvPair
 variable "unit"
@@ -1999,11 +1999,11 @@ tm "BdCompilerDirectivesTextMgr"
 associable 1
 )
 windowSize "0,0,1537,864"
-viewArea "-1000,8660,100223,59444"
+viewArea "-1000,-5790,100223,43062"
 cachedDiagramExtent "0,0,73000,49000"
 hasePageBreakOrigin 1
 pageBreakOrigin "0,0"
-lastUid 841,0
+lastUid 866,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0
