@@ -1,2 +1,2 @@
-DEFAULT_ARCHITECTURE atom struct
-DEFAULT_FILE atom c4_t2_victory/struct.bd
+DEFAULT_ARCHITECTURE atom fsm
+DEFAULT_FILE atom c4_t2_victory/fsm.sm

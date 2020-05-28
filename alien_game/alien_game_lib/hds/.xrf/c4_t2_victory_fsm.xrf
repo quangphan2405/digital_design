@@ -1,0 +1,347 @@
+DESIGN c4_t2_victory
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN c4_t2_victory
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN c4_t2_victory
+VIEW symbol.sb
+GRAPHIC 118,0 14 0 
+DESIGN c4_t2_victory
+VIEW symbol.sb
+GRAPHIC 123,0 15 0 
+DESIGN c4_t2_victory
+VIEW symbol.sb
+GRAPHIC 138,0 16 0 
+DESIGN c4_t2_victory
+VIEW symbol.sb
+GRAPHIC 128,0 17 0 
+DESIGN c4_t2_victory
+VIEW symbol.sb
+GRAPHIC 133,0 18 0 
+DESIGN c4_t2_victory
+VIEW symbol.sb
+GRAPHIC 1,0 21 0 
+DESIGN c4_t2_victory
+VIEW symbol.sb
+GRAPHIC 1,0 22 0 
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 31,0 34 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+NO_GRAPHIC 37
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 2,0 72 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+NO_GRAPHIC 73
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 2,0 76 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+NO_GRAPHIC 77
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 70,0 78 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 60,0 80 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+NO_GRAPHIC 81
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 30,0 83 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+NO_GRAPHIC 86
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 2,0 87 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+NO_GRAPHIC 88
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 2,0 90 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+NO_GRAPHIC 91
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 2,0 95 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 43,0 96 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 183,0 97 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 200,0 99 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 217,0 101 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 234,0 103 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 251,0 105 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 268,0 107 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 285,0 109 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 319,0 111 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 336,0 113 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 353,0 115 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 370,0 117 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 387,0 119 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 404,0 121 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 421,0 123 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 438,0 125 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 455,0 127 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 43,0 129 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 93,0 130 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+NO_GRAPHIC 132
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 2,0 133 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+NO_GRAPHIC 134
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 2,0 136 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+NO_GRAPHIC 137
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 30,0 142 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+NO_GRAPHIC 145
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 2,0 147 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 43,0 148 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 58,0 149 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 183,0 152 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 198,0 153 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 200,0 156 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 215,0 157 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 217,0 160 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 232,0 161 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 234,0 164 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 249,0 165 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 251,0 168 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 266,0 169 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 268,0 172 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 283,0 173 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 285,0 176 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 300,0 177 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 319,0 180 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 334,0 181 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 336,0 184 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 351,0 185 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 353,0 188 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 368,0 189 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 370,0 192 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 385,0 193 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 387,0 196 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 402,0 197 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 404,0 200 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 419,0 201 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 421,0 204 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 436,0 205 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 438,0 208 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 453,0 209 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 455,0 212 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 470,0 213 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+NO_GRAPHIC 216
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+GRAPHIC 2,0 218 0
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory
+VIEW fsm.sm
+NO_GRAPHIC 220

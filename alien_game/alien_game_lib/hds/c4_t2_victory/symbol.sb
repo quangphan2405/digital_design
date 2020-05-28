@@ -475,19 +475,19 @@ value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c4_t2_victory"
 )
 (vvPair
 variable "date"
-value "05/27/2020"
+value "05/28/2020"
 )
 (vvPair
 variable "day"
-value "Wed"
+value "Thu"
 )
 (vvPair
 variable "day_long"
-value "Wednesday"
+value "Thursday"
 )
 (vvPair
 variable "dd"
-value "27"
+value "28"
 )
 (vvPair
 variable "entity_name"
@@ -515,7 +515,7 @@ value "USER"
 )
 (vvPair
 variable "graphical_source_date"
-value "05/27/2020"
+value "05/28/2020"
 )
 (vvPair
 variable "graphical_source_group"
@@ -527,7 +527,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "21:07:27"
+value "10:43:02"
 )
 (vvPair
 variable "group"
@@ -627,7 +627,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "21:07:27"
+value "10:43:02"
 )
 (vvPair
 variable "unit"
@@ -694,8 +694,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,2000,60000,2800"
-st "clk     : IN     std_logic  ;
-"
+st "clk     : IN     std_logic  ;"
 )
 thePort (LogicalPort
 lang 2
@@ -740,8 +739,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,2800,60000,3600"
-st "rst_n   : IN     std_logic  ;
-"
+st "rst_n   : IN     std_logic  ;"
 )
 thePort (LogicalPort
 lang 2
@@ -787,8 +785,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,4400,70000,5200"
-st "x_coord : OUT    std_logic_vector (7 DOWNTO 0) ;
-"
+st "x_coord : OUT    std_logic_vector (7 DOWNTO 0) ;"
 )
 thePort (LogicalPort
 lang 2
@@ -836,8 +833,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,5200,69000,6000"
-st "y_coord : OUT    std_logic_vector (7 DOWNTO 0)
-"
+st "y_coord : OUT    std_logic_vector (7 DOWNTO 0)"
 )
 thePort (LogicalPort
 lang 2
@@ -885,8 +881,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,3600,70500,4400"
-st "color   : OUT    std_logic_vector (23 DOWNTO 0) ;
-"
+st "color   : OUT    std_logic_vector (23 DOWNTO 0) ;"
 )
 thePort (LogicalPort
 lang 2
@@ -1598,6 +1593,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 142,0
+lastUid 326,0
 activeModelName "Symbol:CDM"
 )
