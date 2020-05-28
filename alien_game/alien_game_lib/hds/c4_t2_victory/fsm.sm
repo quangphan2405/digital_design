@@ -126,7 +126,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "10:43:02"
+value "10:46:39"
 )
 (vvPair
 variable "group"
@@ -226,7 +226,7 @@ value "fsm"
 )
 (vvPair
 variable "time"
-value "10:43:02"
+value "10:46:39"
 )
 (vvPair
 variable "unit"
@@ -877,9 +877,9 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "31200,46000,41200,47000"
+xt "31200,46000,36500,47000"
 st "
-<enter diagram title here>
+c4_t2_victory
 "
 tm "CommentText"
 wrapOption 3
@@ -939,9 +939,9 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "48200,45200,57600,46200"
+xt "48200,45200,61600,46200"
 st "
-<enter comments here>
+Output a TUNI logo as victory effect.
 "
 tm "CommentText"
 wrapOption 3
@@ -999,9 +999,9 @@ uid 146,0
 va (VaSet
 fg "32768,0,0"
 )
-xt "34000,44500,41000,45500"
+xt "36350,44500,38650,45500"
 st "
-<company name>
+TUNI
 "
 ju 0
 tm "CommentText"
@@ -5623,7 +5623,7 @@ tm "SmCompilerDirectivesTextMgr"
 associable 1
 )
 windowSize "152,86,1168,776"
-viewArea "6603,-3779,72161,31426"
+viewArea "6603,27406,72161,62611"
 cachedDiagramExtent "0,-1000,82490,49000"
 hasePageBreakOrigin 1
 pageBreakOrigin "0,-2000"
