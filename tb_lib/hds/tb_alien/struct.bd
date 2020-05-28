@@ -175,7 +175,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "15:15:16"
+value "16:46:43"
 )
 (vvPair
 variable "group"
@@ -275,7 +275,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "15:15:16"
+value "16:46:43"
 )
 (vvPair
 variable "unit"
