@@ -74,19 +74,19 @@ value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c3_t4_bullet"
 )
 (vvPair
 variable "date"
-value "05/27/2020"
+value "05/28/2020"
 )
 (vvPair
 variable "day"
-value "Wed"
+value "Thu"
 )
 (vvPair
 variable "day_long"
-value "Wednesday"
+value "Thursday"
 )
 (vvPair
 variable "dd"
-value "27"
+value "28"
 )
 (vvPair
 variable "entity_name"
@@ -114,7 +114,7 @@ value "USER"
 )
 (vvPair
 variable "graphical_source_date"
-value "05/27/2020"
+value "05/28/2020"
 )
 (vvPair
 variable "graphical_source_group"
@@ -126,7 +126,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "15:24:41"
+value "16:29:34"
 )
 (vvPair
 variable "group"
@@ -226,7 +226,7 @@ value "fsm"
 )
 (vvPair
 variable "time"
-value "15:24:41"
+value "16:29:34"
 )
 (vvPair
 variable "unit"
@@ -397,10 +397,10 @@ va (VaSet
 font "arial,8,0"
 )
 xt "33330,15577,51830,19577"
-st "x_coord <= \"00000000\";
+st "x_coord <=gun_x_coord;
 bullet_x_coord_int <= \"00000000\";
 bullet_y_coord_int <= \"01000000\";
-bullet_color_int <= \"000000000000000011001100\";"
+bullet_color_int <= \"100000001000000010000000\";"
 tm "Actions"
 )
 exitActions (MLText
@@ -3921,8 +3921,8 @@ tm "SmCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "0,0,1537,840"
-viewArea "-10190,3132,98368,53748"
+windowSize "0,24,1537,864"
+viewArea "-23742,-10053,111955,55806"
 cachedDiagramExtent "-1006,-1000,88146,63472"
 hasePageBreakOrigin 1
 pageBreakOrigin "-68000,-2000"
@@ -4309,7 +4309,7 @@ stateOrder [
 name "csm"
 )
 ]
-lastUid 960,0
+lastUid 989,0
 commonDM (CommonDM
 ldm (LogicalDM
 emptyRow *75 (LEmptyRow
