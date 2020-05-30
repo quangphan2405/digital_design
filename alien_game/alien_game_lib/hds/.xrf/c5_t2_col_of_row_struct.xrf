@@ -15,435 +15,426 @@ VIEW symbol.sb
 GRAPHIC 135,0 16 0 
 DESIGN c5_t2_col_of_row
 VIEW symbol.sb
-GRAPHIC 792,0 17 0 
+GRAPHIC 165,0 17 0 
 DESIGN c5_t2_col_of_row
 VIEW symbol.sb
-GRAPHIC 165,0 18 0 
+GRAPHIC 140,0 18 0 
 DESIGN c5_t2_col_of_row
 VIEW symbol.sb
-GRAPHIC 140,0 19 0 
+GRAPHIC 150,0 19 0 
 DESIGN c5_t2_col_of_row
 VIEW symbol.sb
-GRAPHIC 150,0 20 0 
+GRAPHIC 145,0 20 0 
 DESIGN c5_t2_col_of_row
 VIEW symbol.sb
-GRAPHIC 145,0 21 0 
+GRAPHIC 155,0 21 0 
 DESIGN c5_t2_col_of_row
 VIEW symbol.sb
-GRAPHIC 155,0 22 0 
+GRAPHIC 180,0 22 0 
 DESIGN c5_t2_col_of_row
 VIEW symbol.sb
-GRAPHIC 180,0 23 0 
+GRAPHIC 1,0 25 0 
 DESIGN c5_t2_col_of_row
 VIEW symbol.sb
 GRAPHIC 1,0 26 0 
 DESIGN c5_t2_col_of_row
-VIEW symbol.sb
-GRAPHIC 1,0 27 0 
+VIEW struct.bd
+NO_GRAPHIC 29
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-NO_GRAPHIC 30
+GRAPHIC 217,0 38 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 217,0 39 0 
+NO_GRAPHIC 41
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-NO_GRAPHIC 42
+GRAPHIC 0,0 44 2 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 0,0 45 2 
+GRAPHIC 4569,0 49 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4569,0 50 0 
+GRAPHIC 4551,0 50 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4551,0 51 0 
+GRAPHIC 4565,0 51 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 5506,0 52 0 
+GRAPHIC 4571,0 52 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4565,0 53 0 
+GRAPHIC 4547,0 53 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4571,0 54 0 
+GRAPHIC 4545,0 54 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4547,0 55 0 
+GRAPHIC 5779,0 55 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4545,0 56 0 
+GRAPHIC 5743,0 56 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 5779,0 57 0 
+GRAPHIC 5749,0 57 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 5743,0 58 0 
+GRAPHIC 5755,0 58 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 5749,0 59 0 
+GRAPHIC 5761,0 59 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 5755,0 60 0 
+GRAPHIC 5767,0 60 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 5761,0 61 0 
+GRAPHIC 5773,0 61 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 5767,0 62 0 
+GRAPHIC 4543,0 62 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 5773,0 63 0 
+GRAPHIC 4555,0 63 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4543,0 64 0 
+GRAPHIC 4553,0 64 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4555,0 65 0 
+GRAPHIC 4563,0 65 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4553,0 66 0 
+GRAPHIC 4549,0 66 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4563,0 67 0 
+GRAPHIC 4573,0 67 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4549,0 68 0 
+GRAPHIC 4561,0 68 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4573,0 69 0 
+GRAPHIC 4557,0 69 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4561,0 70 0 
+GRAPHIC 4567,0 70 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4557,0 71 0 
+GRAPHIC 4559,0 71 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4567,0 72 0 
+GRAPHIC 6024,0 72 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4559,0 73 0 
+NO_GRAPHIC 73
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 5164,0 74 0 
-DESIGN c5_t2_col_of_row
-VIEW struct.bd
-NO_GRAPHIC 75
-DESIGN c5_t2_col_of_row
-VIEW struct.bd
-NO_GRAPHIC 76
+NO_GRAPHIC 74
 LIBRARY alien_game_lib
 DESIGN c5_t2_row_px
 VIEW struct
-GRAPHIC 313,0 78 0 
+GRAPHIC 313,0 76 0 
 DESIGN c5_t2_row_px
 VIEW symbol.sb
-GRAPHIC 122,0 80 0 
+GRAPHIC 122,0 78 0 
 DESIGN c5_t2_row_px
 VIEW symbol.sb
-GRAPHIC 142,0 81 0 
+GRAPHIC 142,0 79 0 
 DESIGN c5_t2_row_px
 VIEW symbol.sb
-GRAPHIC 127,0 82 0 
+GRAPHIC 127,0 80 0 
 DESIGN c5_t2_row_px
 VIEW symbol.sb
-GRAPHIC 389,0 83 0 
+GRAPHIC 389,0 81 0 
 DESIGN c5_t2_row_px
 VIEW symbol.sb
-GRAPHIC 147,0 84 0 
+GRAPHIC 147,0 82 0 
 DESIGN c5_t2_row_px
 VIEW symbol.sb
-GRAPHIC 132,0 85 0 
+GRAPHIC 132,0 83 0 
 DESIGN c5_t2_row_px
 VIEW symbol.sb
-GRAPHIC 137,0 86 0 
+GRAPHIC 137,0 84 0 
 DESIGN c5_t2_row_px
 VIEW symbol.sb
-GRAPHIC 152,0 87 0 
+GRAPHIC 152,0 85 0 
 LIBRARY alien_game_lib
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-NO_GRAPHIC 90
+NO_GRAPHIC 88
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 313,0 93 0 
+GRAPHIC 313,0 91 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-NO_GRAPHIC 96
+NO_GRAPHIC 94
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 5042,0 98 0 
+GRAPHIC 5210,0 96 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 5210,0 101 0 
+GRAPHIC 5247,0 99 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 5247,0 104 0 
+GRAPHIC 5512,0 102 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 5512,0 107 0 
+GRAPHIC 5549,0 105 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 5549,0 110 0 
+GRAPHIC 5586,0 108 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 5586,0 113 0 
+GRAPHIC 5623,0 111 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 5623,0 116 0 
+GRAPHIC 5660,0 114 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 5660,0 119 0 
+GRAPHIC 5697,0 117 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 5697,0 122 0 
+GRAPHIC 3982,0 120 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 3982,0 125 0 
+GRAPHIC 4001,0 123 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4001,0 128 0 
+GRAPHIC 4052,0 133 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4052,0 138 0 
+GRAPHIC 4103,0 143 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4103,0 148 0 
+GRAPHIC 4154,0 153 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4154,0 158 0 
+GRAPHIC 4205,0 163 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4205,0 168 0 
+GRAPHIC 4256,0 173 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4256,0 178 0 
+GRAPHIC 4307,0 183 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4307,0 188 0 
+GRAPHIC 4358,0 193 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4358,0 198 0 
+NO_GRAPHIC 203
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-NO_GRAPHIC 208
+GRAPHIC 313,0 205 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 313,0 210 0 
+GRAPHIC 15,0 207 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 15,0 212 0 
+GRAPHIC 43,0 208 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 43,0 213 0 
+GRAPHIC 71,0 209 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 71,0 214 0 
+GRAPHIC 969,0 210 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 969,0 215 0 
+GRAPHIC 6018,0 211 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 5065,0 216 0 
+GRAPHIC 113,0 212 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 113,0 217 0 
+GRAPHIC 127,0 213 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 127,0 218 0 
+GRAPHIC 4409,0 214 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4409,0 219 0 
+GRAPHIC 323,0 216 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 323,0 221 0 
+GRAPHIC 595,0 218 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 595,0 223 0 
+GRAPHIC 895,0 219 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 895,0 224 0 
+GRAPHIC 637,0 220 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 637,0 225 0 
+GRAPHIC 975,0 221 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 975,0 226 0 
+GRAPHIC 5202,0 222 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 5202,0 227 0 
+GRAPHIC 721,0 223 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 721,0 228 0 
+GRAPHIC 4998,0 224 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4998,0 229 0 
+GRAPHIC 4537,0 225 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4537,0 230 0 
+GRAPHIC 361,0 227 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 361,0 232 0 
+GRAPHIC 601,0 229 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 601,0 234 0 
+GRAPHIC 901,0 230 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 901,0 235 0 
+GRAPHIC 643,0 231 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 643,0 236 0 
+GRAPHIC 981,0 232 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 981,0 237 0 
+GRAPHIC 5196,0 233 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 5196,0 238 0 
+GRAPHIC 727,0 234 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 727,0 239 0 
+GRAPHIC 855,0 235 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 855,0 240 0 
+GRAPHIC 4485,0 236 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4485,0 241 0 
+GRAPHIC 399,0 238 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 399,0 243 0 
+GRAPHIC 607,0 240 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 607,0 245 0 
+GRAPHIC 907,0 241 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 907,0 246 0 
+GRAPHIC 649,0 242 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 649,0 247 0 
+GRAPHIC 987,0 243 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 987,0 248 0 
+GRAPHIC 5190,0 244 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 5190,0 249 0 
+GRAPHIC 733,0 245 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 733,0 250 0 
+GRAPHIC 855,0 246 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 855,0 251 0 
+GRAPHIC 4491,0 247 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4491,0 252 0 
+GRAPHIC 437,0 249 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 437,0 254 0 
+GRAPHIC 613,0 251 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 613,0 256 0 
+GRAPHIC 913,0 252 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 913,0 257 0 
+GRAPHIC 655,0 253 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 655,0 258 0 
+GRAPHIC 993,0 254 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 993,0 259 0 
+GRAPHIC 5184,0 255 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 5184,0 260 0 
+GRAPHIC 739,0 256 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 739,0 261 0 
+GRAPHIC 875,0 257 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 875,0 262 0 
+GRAPHIC 4513,0 258 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4513,0 263 0 
+GRAPHIC 475,0 260 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 475,0 265 0 
+GRAPHIC 619,0 262 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 619,0 267 0 
+GRAPHIC 919,0 263 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 919,0 268 0 
+GRAPHIC 661,0 264 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 661,0 269 0 
+GRAPHIC 999,0 265 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 999,0 270 0 
+GRAPHIC 5178,0 266 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 5178,0 271 0 
+GRAPHIC 745,0 267 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 745,0 272 0 
+GRAPHIC 869,0 268 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 869,0 273 0 
+GRAPHIC 4475,0 269 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4475,0 274 0 
+GRAPHIC 513,0 271 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 513,0 276 0 
+GRAPHIC 625,0 273 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 625,0 278 0 
+GRAPHIC 925,0 274 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 925,0 279 0 
+GRAPHIC 667,0 275 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 667,0 280 0 
+GRAPHIC 1005,0 276 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 1005,0 281 0 
+GRAPHIC 5172,0 277 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 5172,0 282 0 
+GRAPHIC 751,0 278 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 751,0 283 0 
+GRAPHIC 861,0 279 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 861,0 284 0 
+GRAPHIC 4507,0 280 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4507,0 285 0 
+GRAPHIC 551,0 282 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 551,0 287 0 
+GRAPHIC 631,0 284 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 631,0 289 0 
+GRAPHIC 931,0 285 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 931,0 290 0 
+GRAPHIC 673,0 286 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 673,0 291 0 
+GRAPHIC 1011,0 287 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 1011,0 292 0 
+GRAPHIC 5166,0 288 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 5166,0 293 0 
+GRAPHIC 799,0 289 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 799,0 294 0 
+GRAPHIC 805,0 290 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 805,0 295 0 
+GRAPHIC 4449,0 291 0 
 DESIGN c5_t2_col_of_row
 VIEW struct.bd
-GRAPHIC 4449,0 296 0 
-DESIGN c5_t2_col_of_row
-VIEW struct.bd
-NO_GRAPHIC 299
+NO_GRAPHIC 294

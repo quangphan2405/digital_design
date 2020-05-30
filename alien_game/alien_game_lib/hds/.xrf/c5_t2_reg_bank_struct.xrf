@@ -100,155 +100,146 @@ VIEW symbol.sb
 GRAPHIC 135,0 72 0 
 DESIGN c5_t2_col_of_row
 VIEW symbol.sb
-GRAPHIC 792,0 73 0 
+GRAPHIC 165,0 73 0 
 DESIGN c5_t2_col_of_row
 VIEW symbol.sb
-GRAPHIC 165,0 74 0 
+GRAPHIC 140,0 74 0 
 DESIGN c5_t2_col_of_row
 VIEW symbol.sb
-GRAPHIC 140,0 75 0 
+GRAPHIC 150,0 75 0 
 DESIGN c5_t2_col_of_row
 VIEW symbol.sb
-GRAPHIC 150,0 76 0 
+GRAPHIC 145,0 76 0 
 DESIGN c5_t2_col_of_row
 VIEW symbol.sb
-GRAPHIC 145,0 77 0 
+GRAPHIC 155,0 77 0 
 DESIGN c5_t2_col_of_row
 VIEW symbol.sb
-GRAPHIC 155,0 78 0 
-DESIGN c5_t2_col_of_row
-VIEW symbol.sb
-GRAPHIC 180,0 79 0 
+GRAPHIC 180,0 78 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 1093,0 82 0 
+GRAPHIC 1093,0 81 0 
 DESIGN c5_t2_w_rdy
 VIEW symbol.sb
-GRAPHIC 116,0 84 0 
+GRAPHIC 116,0 83 0 
 DESIGN c5_t2_w_rdy
 VIEW symbol.sb
-GRAPHIC 126,0 85 0 
+GRAPHIC 126,0 84 0 
 DESIGN c5_t2_w_rdy
 VIEW symbol.sb
-GRAPHIC 121,0 86 0 
+GRAPHIC 121,0 85 0 
 DESIGN c5_t2_w_rdy
 VIEW symbol.sb
-GRAPHIC 131,0 87 0 
+GRAPHIC 131,0 86 0 
 LIBRARY alien_game_lib
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-NO_GRAPHIC 90
+NO_GRAPHIC 89
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 329,0 93 0 
+GRAPHIC 329,0 92 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 1093,0 94 0 
+GRAPHIC 1093,0 93 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-NO_GRAPHIC 97
+NO_GRAPHIC 96
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 484,0 99 0 
+GRAPHIC 484,0 98 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 927,0 111 0 
+GRAPHIC 927,0 110 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 734,0 122 0 
+GRAPHIC 734,0 121 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 771,0 125 0 
+GRAPHIC 771,0 124 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 682,0 128 0 
+GRAPHIC 682,0 127 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 864,0 138 0 
+GRAPHIC 864,0 137 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-NO_GRAPHIC 148
+NO_GRAPHIC 147
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 329,0 150 0 
+GRAPHIC 329,0 149 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 15,0 152 0 
+GRAPHIC 15,0 151 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 43,0 153 0 
+GRAPHIC 43,0 152 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 71,0 154 0 
+GRAPHIC 71,0 153 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 1141,0 155 0 
+GRAPHIC 802,0 154 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 802,0 156 0 
+GRAPHIC 113,0 155 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 113,0 157 0 
+GRAPHIC 127,0 156 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 127,0 158 0 
+GRAPHIC 141,0 157 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 141,0 159 0 
+GRAPHIC 155,0 158 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 155,0 160 0 
+GRAPHIC 885,0 159 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 885,0 161 0 
+GRAPHIC 339,0 161 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 339,0 163 0 
+GRAPHIC 399,0 163 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 399,0 165 0 
+GRAPHIC 435,0 164 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 435,0 166 0 
+GRAPHIC 393,0 165 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 393,0 167 0 
+GRAPHIC 808,0 166 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 1147,0 168 0 
+GRAPHIC 405,0 167 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 808,0 169 0 
+GRAPHIC 417,0 168 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 405,0 170 0 
+GRAPHIC 411,0 169 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 417,0 171 0 
+GRAPHIC 429,0 170 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 411,0 172 0 
+GRAPHIC 891,0 171 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 429,0 173 0 
+GRAPHIC 1093,0 173 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 891,0 174 0 
+GRAPHIC 1115,0 175 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 1093,0 176 0 
+GRAPHIC 1161,0 176 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 1115,0 178 0 
+GRAPHIC 1109,0 177 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 1161,0 179 0 
+GRAPHIC 85,0 178 0 
 DESIGN c5_t2_reg_bank
 VIEW struct.bd
-GRAPHIC 1109,0 180 0 
-DESIGN c5_t2_reg_bank
-VIEW struct.bd
-GRAPHIC 85,0 181 0 
-DESIGN c5_t2_reg_bank
-VIEW struct.bd
-NO_GRAPHIC 184
+NO_GRAPHIC 181

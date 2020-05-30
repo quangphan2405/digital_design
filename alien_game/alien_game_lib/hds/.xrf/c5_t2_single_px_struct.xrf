@@ -42,13 +42,13 @@ VIEW struct.bd
 GRAPHIC 0,0 40 2 
 DESIGN c5_t2_single_px
 VIEW struct.bd
-GRAPHIC 503,0 45 0 
+GRAPHIC 651,0 45 0 
 DESIGN c5_t2_single_px
 VIEW struct.bd
-GRAPHIC 495,0 46 0 
+GRAPHIC 657,0 46 0 
 DESIGN c5_t2_single_px
 VIEW struct.bd
-GRAPHIC 505,0 47 0 
+GRAPHIC 677,0 47 0 
 DESIGN c5_t2_single_px
 VIEW struct.bd
 NO_GRAPHIC 48
@@ -72,7 +72,7 @@ VIEW struct.bd
 GRAPHIC 388,0 72 0 
 DESIGN c5_t2_single_px
 VIEW struct.bd
-GRAPHIC 439,0 82 0 
+GRAPHIC 600,0 82 0 
 DESIGN c5_t2_single_px
 VIEW struct.bd
 NO_GRAPHIC 92
