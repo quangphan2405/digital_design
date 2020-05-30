@@ -174,19 +174,19 @@ value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c2_t7_x_coord"
 )
 (vvPair
 variable "date"
-value "05/18/2020"
+value "05/30/2020"
 )
 (vvPair
 variable "day"
-value "Mon"
+value "Sat"
 )
 (vvPair
 variable "day_long"
-value "Monday"
+value "Saturday"
 )
 (vvPair
 variable "dd"
-value "18"
+value "30"
 )
 (vvPair
 variable "entity_name"
@@ -214,7 +214,7 @@ value "USER"
 )
 (vvPair
 variable "graphical_source_date"
-value "05/18/2020"
+value "05/30/2020"
 )
 (vvPair
 variable "graphical_source_group"
@@ -226,7 +226,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "16:29:50"
+value "21:12:37"
 )
 (vvPair
 variable "group"
@@ -326,7 +326,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "16:29:50"
+value "21:12:37"
 )
 (vvPair
 variable "unit"
@@ -2893,7 +2893,7 @@ optionalChildren [
 *100 (Property
 pclass "param"
 pname "value"
-pvalue "16711680"
+pvalue "207"
 ptn "String"
 )
 ]
@@ -5312,7 +5312,7 @@ ptn "String"
 *205 (Property
 pclass "param"
 pname "rst_val"
-pvalue "207"
+pvalue "16711680"
 ptn "String"
 )
 ]
@@ -7385,11 +7385,11 @@ tm "BdCompilerDirectivesTextMgr"
 associable 1
 )
 windowSize "0,0,1537,864"
-viewArea "-34600,51400,84227,111016"
+viewArea "-34600,44758,84227,104374"
 cachedDiagramExtent "-6000,-6000,71400,102000"
 hasePageBreakOrigin 1
 pageBreakOrigin "-6000,-51000"
-lastUid 1885,0
+lastUid 1908,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0
