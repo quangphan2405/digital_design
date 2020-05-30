@@ -147,19 +147,19 @@ value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c3_t2_top_level"
 )
 (vvPair
 variable "date"
-value "05/28/2020"
+value "05/30/2020"
 )
 (vvPair
 variable "day"
-value "Thu"
+value "Sat"
 )
 (vvPair
 variable "day_long"
-value "Thursday"
+value "Saturday"
 )
 (vvPair
 variable "dd"
-value "28"
+value "30"
 )
 (vvPair
 variable "entity_name"
@@ -187,7 +187,7 @@ value "USER"
 )
 (vvPair
 variable "graphical_source_date"
-value "05/28/2020"
+value "05/30/2020"
 )
 (vvPair
 variable "graphical_source_group"
@@ -199,7 +199,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "20:41:06"
+value "19:47:43"
 )
 (vvPair
 variable "group"
@@ -299,7 +299,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "20:41:06"
+value "19:47:43"
 )
 (vvPair
 variable "unit"
@@ -7915,11 +7915,11 @@ tm "BdCompilerDirectivesTextMgr"
 associable 1
 )
 windowSize "0,24,1537,864"
-viewArea "-56488,-31440,69674,27384"
+viewArea "-53909,-20763,103793,55777"
 cachedDiagramExtent "-36100,-51000,95500,74000"
 hasePageBreakOrigin 1
 pageBreakOrigin "-68000,-51000"
-lastUid 1234,0
+lastUid 1259,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0

@@ -56,33 +56,33 @@ DESIGN tb_write_sequencer
 VIEW struct.bd
 NO_GRAPHIC 48
 LIBRARY alien_game_lib
-DESIGN c3_t2_write_sequencer
+DESIGN c3_t2_write_seq
 VIEW fsm
-GRAPHIC 691,0 50 0 
-DESIGN c3_t2_write_sequencer
+GRAPHIC 866,0 50 0 
+DESIGN c3_t2_write_seq
 VIEW symbol.sb
-GRAPHIC 126,0 52 0 
-DESIGN c3_t2_write_sequencer
+GRAPHIC 124,0 52 0 
+DESIGN c3_t2_write_seq
 VIEW symbol.sb
-GRAPHIC 196,0 53 0 
-DESIGN c3_t2_write_sequencer
+GRAPHIC 129,0 53 0 
+DESIGN c3_t2_write_seq
 VIEW symbol.sb
-GRAPHIC 136,0 54 0 
-DESIGN c3_t2_write_sequencer
+GRAPHIC 134,0 54 0 
+DESIGN c3_t2_write_seq
 VIEW symbol.sb
-GRAPHIC 166,0 55 0 
-DESIGN c3_t2_write_sequencer
+GRAPHIC 149,0 55 0 
+DESIGN c3_t2_write_seq
 VIEW symbol.sb
-GRAPHIC 161,0 56 0 
-DESIGN c3_t2_write_sequencer
+GRAPHIC 144,0 56 0 
+DESIGN c3_t2_write_seq
 VIEW symbol.sb
-GRAPHIC 151,0 57 0 
-DESIGN c3_t2_write_sequencer
+GRAPHIC 159,0 57 0 
+DESIGN c3_t2_write_seq
 VIEW symbol.sb
-GRAPHIC 146,0 58 0 
-DESIGN c3_t2_write_sequencer
+GRAPHIC 154,0 58 0 
+DESIGN c3_t2_write_seq
 VIEW symbol.sb
-GRAPHIC 156,0 59 0 
+GRAPHIC 139,0 59 0 
 LIBRARY tb_lib
 DESIGN wr_seq_tester
 VIEW testbench
@@ -96,7 +96,7 @@ VIEW struct.bd
 NO_GRAPHIC 73
 DESIGN tb_write_sequencer
 VIEW struct.bd
-GRAPHIC 691,0 76 0 
+GRAPHIC 866,0 76 0 
 DESIGN tb_write_sequencer
 VIEW struct.bd
 GRAPHIC 606,0 77 0 
@@ -117,7 +117,7 @@ VIEW struct.bd
 NO_GRAPHIC 91
 DESIGN tb_write_sequencer
 VIEW struct.bd
-GRAPHIC 691,0 93 0 
+GRAPHIC 866,0 93 0 
 DESIGN tb_write_sequencer
 VIEW struct.bd
 GRAPHIC 231,0 95 0 
