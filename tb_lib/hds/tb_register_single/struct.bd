@@ -83,19 +83,19 @@ value "D:\\digital_design\\6\\alien_game\\..\\tb_lib\\hds\\tb_register_single"
 )
 (vvPair
 variable "date"
-value "05/29/2020"
+value "05/30/2020"
 )
 (vvPair
 variable "day"
-value "Fri"
+value "Sat"
 )
 (vvPair
 variable "day_long"
-value "Friday"
+value "Saturday"
 )
 (vvPair
 variable "dd"
-value "29"
+value "30"
 )
 (vvPair
 variable "entity_name"
@@ -123,7 +123,7 @@ value "USER"
 )
 (vvPair
 variable "graphical_source_date"
-value "05/29/2020"
+value "05/30/2020"
 )
 (vvPair
 variable "graphical_source_group"
@@ -135,7 +135,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "21:40:19"
+value "10:52:01"
 )
 (vvPair
 variable "group"
@@ -235,7 +235,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "21:40:19"
+value "10:52:01"
 )
 (vvPair
 variable "unit"
@@ -1173,7 +1173,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "53000,23625,53750,24375"
+xt "53000,22625,53750,23375"
 )
 tg (CPTG
 uid 511,0
@@ -1184,10 +1184,10 @@ uid 512,0
 va (VaSet
 font "arial,8,0"
 )
-xt "45800,23500,52000,24500"
+xt "45800,22500,52000,23500"
 st "pixd_out : (23:0)"
 ju 2
-blo "52000,24300"
+blo "52000,23300"
 )
 )
 thePort (LogicalPort
@@ -1517,14 +1517,14 @@ va (VaSet
 vasetType 3
 lineWidth 2
 )
-xt "5000,9000,67000,24000"
+xt "5000,9000,67000,23000"
 pts [
 "9250,21000"
 "5000,21000"
 "5000,9000"
 "67000,9000"
-"67000,24000"
-"53750,24000"
+"67000,23000"
+"53750,23000"
 ]
 )
 start &22
@@ -1544,9 +1544,9 @@ uid 453,0
 va (VaSet
 font "arial,8,0"
 )
-xt "57000,23000,62400,24000"
+xt "57000,22000,62400,23000"
 st "pix_from_duv"
-blo "57000,23800"
+blo "57000,22800"
 tm "WireNameMgr"
 )
 )
@@ -1666,12 +1666,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "4,0,1537,864"
-viewArea "-8300,-8168,114592,53656"
+windowSize "3,0,1537,864"
+viewArea "-8300,-8200,114676,51272"
 cachedDiagramExtent "0,0,73000,49000"
 hasePageBreakOrigin 1
 pageBreakOrigin "0,0"
-lastUid 526,0
+lastUid 549,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0

@@ -1,0 +1,254 @@
+DESIGN c5_t2_reg_bank
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN c5_t2_reg_bank
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN c5_t2_reg_bank
+VIEW symbol.sb
+GRAPHIC 130,0 14 0 
+DESIGN c5_t2_reg_bank
+VIEW symbol.sb
+GRAPHIC 170,0 15 0 
+DESIGN c5_t2_reg_bank
+VIEW symbol.sb
+GRAPHIC 160,0 16 0 
+DESIGN c5_t2_reg_bank
+VIEW symbol.sb
+GRAPHIC 135,0 17 0 
+DESIGN c5_t2_reg_bank
+VIEW symbol.sb
+GRAPHIC 165,0 18 0 
+DESIGN c5_t2_reg_bank
+VIEW symbol.sb
+GRAPHIC 140,0 19 0 
+DESIGN c5_t2_reg_bank
+VIEW symbol.sb
+GRAPHIC 150,0 20 0 
+DESIGN c5_t2_reg_bank
+VIEW symbol.sb
+GRAPHIC 145,0 21 0 
+DESIGN c5_t2_reg_bank
+VIEW symbol.sb
+GRAPHIC 155,0 22 0 
+DESIGN c5_t2_reg_bank
+VIEW symbol.sb
+GRAPHIC 180,0 23 0 
+DESIGN c5_t2_reg_bank
+VIEW symbol.sb
+GRAPHIC 175,0 24 0 
+DESIGN c5_t2_reg_bank
+VIEW symbol.sb
+GRAPHIC 1,0 27 0 
+DESIGN c5_t2_reg_bank
+VIEW symbol.sb
+GRAPHIC 1,0 28 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+NO_GRAPHIC 31
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 217,0 40 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+NO_GRAPHIC 43
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 0,0 46 2 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 798,0 51 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 812,0 52 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 814,0 53 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 895,0 54 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 897,0 55 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 919,0 56 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 702,0 57 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 1123,0 58 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+NO_GRAPHIC 59
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+NO_GRAPHIC 66
+LIBRARY alien_game_lib
+DESIGN c5_t2_col_of_row
+VIEW struct
+GRAPHIC 329,0 68 0 
+DESIGN c5_t2_col_of_row
+VIEW symbol.sb
+GRAPHIC 130,0 70 0 
+DESIGN c5_t2_col_of_row
+VIEW symbol.sb
+GRAPHIC 160,0 71 0 
+DESIGN c5_t2_col_of_row
+VIEW symbol.sb
+GRAPHIC 135,0 72 0 
+DESIGN c5_t2_col_of_row
+VIEW symbol.sb
+GRAPHIC 792,0 73 0 
+DESIGN c5_t2_col_of_row
+VIEW symbol.sb
+GRAPHIC 165,0 74 0 
+DESIGN c5_t2_col_of_row
+VIEW symbol.sb
+GRAPHIC 140,0 75 0 
+DESIGN c5_t2_col_of_row
+VIEW symbol.sb
+GRAPHIC 150,0 76 0 
+DESIGN c5_t2_col_of_row
+VIEW symbol.sb
+GRAPHIC 145,0 77 0 
+DESIGN c5_t2_col_of_row
+VIEW symbol.sb
+GRAPHIC 155,0 78 0 
+DESIGN c5_t2_col_of_row
+VIEW symbol.sb
+GRAPHIC 180,0 79 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 1093,0 82 0 
+DESIGN c5_t2_w_rdy
+VIEW symbol.sb
+GRAPHIC 116,0 84 0 
+DESIGN c5_t2_w_rdy
+VIEW symbol.sb
+GRAPHIC 126,0 85 0 
+DESIGN c5_t2_w_rdy
+VIEW symbol.sb
+GRAPHIC 121,0 86 0 
+DESIGN c5_t2_w_rdy
+VIEW symbol.sb
+GRAPHIC 131,0 87 0 
+LIBRARY alien_game_lib
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+NO_GRAPHIC 90
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 329,0 93 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 1093,0 94 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+NO_GRAPHIC 97
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 484,0 99 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 927,0 111 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 734,0 122 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 771,0 125 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 682,0 128 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 864,0 138 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+NO_GRAPHIC 148
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 329,0 150 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 15,0 152 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 43,0 153 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 71,0 154 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 1141,0 155 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 802,0 156 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 113,0 157 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 127,0 158 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 141,0 159 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 155,0 160 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 885,0 161 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 339,0 163 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 399,0 165 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 435,0 166 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 393,0 167 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 1147,0 168 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 808,0 169 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 405,0 170 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 417,0 171 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 411,0 172 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 429,0 173 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 891,0 174 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 1093,0 176 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 1115,0 178 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 1161,0 179 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 1109,0 180 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+GRAPHIC 85,0 181 0 
+DESIGN c5_t2_reg_bank
+VIEW struct.bd
+NO_GRAPHIC 184

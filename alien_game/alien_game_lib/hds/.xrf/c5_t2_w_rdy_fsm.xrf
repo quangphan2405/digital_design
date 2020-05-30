@@ -1,0 +1,252 @@
+DESIGN c5_t2_w_rdy
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN c5_t2_w_rdy
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN c5_t2_w_rdy
+VIEW symbol.sb
+GRAPHIC 116,0 14 0 
+DESIGN c5_t2_w_rdy
+VIEW symbol.sb
+GRAPHIC 126,0 15 0 
+DESIGN c5_t2_w_rdy
+VIEW symbol.sb
+GRAPHIC 121,0 16 0 
+DESIGN c5_t2_w_rdy
+VIEW symbol.sb
+GRAPHIC 131,0 17 0 
+DESIGN c5_t2_w_rdy
+VIEW symbol.sb
+GRAPHIC 1,0 20 0 
+DESIGN c5_t2_w_rdy
+VIEW symbol.sb
+GRAPHIC 1,0 21 0 
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 31,0 33 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+NO_GRAPHIC 36
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 2,0 49 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+NO_GRAPHIC 50
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 242,0 53 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+NO_GRAPHIC 54
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 2,0 61 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+NO_GRAPHIC 62
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 2,0 65 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+NO_GRAPHIC 66
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 70,0 67 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+NO_GRAPHIC 70
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 60,0 72 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+NO_GRAPHIC 73
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 30,0 76 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+NO_GRAPHIC 77
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 2,0 78 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+NO_GRAPHIC 79
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 2,0 81 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+NO_GRAPHIC 82
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 242,0 89 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 2,0 90 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 43,0 91 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 210,0 92 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 43,0 93 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 237,0 94 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 215,0 95 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+NO_GRAPHIC 96
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 43,0 97 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+NO_GRAPHIC 98
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 215,0 99 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 242,0 100 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 274,0 103 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 43,0 104 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+NO_GRAPHIC 105
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 242,0 106 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+NO_GRAPHIC 107
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 93,0 108 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+NO_GRAPHIC 110
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 2,0 111 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+NO_GRAPHIC 112
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 2,0 114 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+NO_GRAPHIC 115
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 30,0 120 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+NO_GRAPHIC 121
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 2,0 123 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 215,0 124 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 230,0 125 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 242,0 126 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 257,0 127 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+NO_GRAPHIC 128
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 2,0 130 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+NO_GRAPHIC 132
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 2,0 134 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+NO_GRAPHIC 138
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+GRAPHIC 2,0 141 0
+LIBRARY alien_game_lib
+DESIGN c5_t2_w_rdy
+VIEW fsm.sm
+NO_GRAPHIC 159
