@@ -543,19 +543,19 @@ value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c3_t2_simple_top_
 )
 (vvPair
 variable "date"
-value "05/30/2020"
+value "05/31/2020"
 )
 (vvPair
 variable "day"
-value "Sat"
+value "Sun"
 )
 (vvPair
 variable "day_long"
-value "Saturday"
+value "Sunday"
 )
 (vvPair
 variable "dd"
-value "30"
+value "31"
 )
 (vvPair
 variable "entity_name"
@@ -583,7 +583,7 @@ value "USER"
 )
 (vvPair
 variable "graphical_source_date"
-value "05/30/2020"
+value "05/31/2020"
 )
 (vvPair
 variable "graphical_source_group"
@@ -595,7 +595,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "21:30:16"
+value "13:05:48"
 )
 (vvPair
 variable "group"
@@ -695,7 +695,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "21:30:16"
+value "13:05:48"
 )
 (vvPair
 variable "unit"
@@ -762,8 +762,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,2800,63500,3600"
-st "clk            : IN     std_logic  ;
-"
+st "clk            : IN     std_logic  ;"
 )
 thePort (LogicalPort
 lang 2
@@ -808,8 +807,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,3600,63500,4400"
-st "rst_n          : IN     std_logic  ;
-"
+st "rst_n          : IN     std_logic  ;"
 )
 thePort (LogicalPort
 lang 2
@@ -854,8 +852,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,2000,73500,2800"
-st "btn            : IN     std_logic_vector (3 DOWNTO 0) ;
-"
+st "btn            : IN     std_logic_vector (3 DOWNTO 0) ;"
 )
 thePort (LogicalPort
 lang 2
@@ -902,8 +899,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,5200,63500,6000"
-st "iotre_will     : OUT    std_logic  ;
-"
+st "iotre_will     : OUT    std_logic  ;"
 )
 thePort (LogicalPort
 m 1
@@ -949,8 +945,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,6000,63500,6800"
-st "like_this      : OUT    std_logic  ;
-"
+st "like_this      : OUT    std_logic  ;"
 )
 thePort (LogicalPort
 m 1
@@ -996,8 +991,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,7600,63500,8400"
-st "throw_you_out  : OUT    std_logic  ;
-"
+st "throw_you_out  : OUT    std_logic  ;"
 )
 thePort (LogicalPort
 m 1
@@ -1043,8 +1037,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,8400,62500,9200"
-st "your_signals   : OUT    std_logic 
-"
+st "your_signals   : OUT    std_logic "
 )
 thePort (LogicalPort
 m 1
@@ -1090,8 +1083,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,4400,73500,5200"
-st "if_you_name    : OUT    std_logic_vector (7 DOWNTO 0) ;
-"
+st "if_you_name    : OUT    std_logic_vector (7 DOWNTO 0) ;"
 )
 thePort (LogicalPort
 m 1
@@ -1138,8 +1130,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,6800,63500,7600"
-st "of_this_course : OUT    std_logic  ;
-"
+st "of_this_course : OUT    std_logic  ;"
 )
 thePort (LogicalPort
 m 1
@@ -1849,6 +1840,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 216,0
+lastUid 377,0
 activeModelName "Symbol:CDM"
 )
