@@ -15,445 +15,406 @@ VIEW symbol.sb
 GRAPHIC 147,0 16 0 
 DESIGN c3_t2_top_level
 VIEW symbol.sb
-GRAPHIC 110,0 17 0 
+GRAPHIC 680,0 17 0 
 DESIGN c3_t2_top_level
 VIEW symbol.sb
-GRAPHIC 1,0 20 0 
+GRAPHIC 685,0 18 0 
 DESIGN c3_t2_top_level
 VIEW symbol.sb
-GRAPHIC 1,0 21 0 
+GRAPHIC 695,0 19 0 
+DESIGN c3_t2_top_level
+VIEW symbol.sb
+GRAPHIC 690,0 20 0 
+DESIGN c3_t2_top_level
+VIEW symbol.sb
+GRAPHIC 675,0 21 0 
+DESIGN c3_t2_top_level
+VIEW symbol.sb
+GRAPHIC 110,0 22 0 
+DESIGN c3_t2_top_level
+VIEW symbol.sb
+GRAPHIC 1,0 25 0 
+DESIGN c3_t2_top_level
+VIEW symbol.sb
+GRAPHIC 1,0 26 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-NO_GRAPHIC 24
+NO_GRAPHIC 29
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 41,0 33 0 
+GRAPHIC 41,0 38 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-NO_GRAPHIC 36
+NO_GRAPHIC 41
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 0,0 40 2 
+GRAPHIC 0,0 45 2 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1313,0 45 0 
+GRAPHIC 2176,0 50 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1186,0 46 0 
+GRAPHIC 2152,0 51 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1291,0 47 0 
+GRAPHIC 2186,0 52 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1319,0 48 0 
+GRAPHIC 2585,0 53 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1010,0 49 0 
+GRAPHIC 2573,0 54 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 980,0 50 0 
+GRAPHIC 2579,0 55 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 998,0 51 0 
+GRAPHIC 2178,0 56 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1137,0 52 0 
+GRAPHIC 2158,0 57 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 932,0 53 0 
+GRAPHIC 2180,0 58 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 668,0 54 0 
+GRAPHIC 2160,0 59 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1333,0 55 0 
+GRAPHIC 2148,0 60 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 644,0 56 0 
+GRAPHIC 2154,0 61 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1339,0 57 0 
+GRAPHIC 2188,0 62 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1341,0 58 0 
+GRAPHIC 2172,0 63 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1227,0 59 0 
+GRAPHIC 2170,0 64 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 626,0 60 0 
+GRAPHIC 2591,0 65 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1129,0 61 0 
+GRAPHIC 2146,0 66 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1125,0 62 0 
+GRAPHIC 2166,0 67 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1127,0 63 0 
-DESIGN c3_t2_top_level
-VIEW struct.bd
-GRAPHIC 674,0 64 0 
-DESIGN c3_t2_top_level
-VIEW struct.bd
-GRAPHIC 662,0 65 0 
-DESIGN c3_t2_top_level
-VIEW struct.bd
-GRAPHIC 1141,0 66 0 
-DESIGN c3_t2_top_level
-VIEW struct.bd
-GRAPHIC 1139,0 67 0 
-DESIGN c3_t2_top_level
-VIEW struct.bd
-NO_GRAPHIC 68
+GRAPHIC 2182,0 68 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
 NO_GRAPHIC 69
+DESIGN c3_t2_top_level
+VIEW struct.bd
+NO_GRAPHIC 70
 LIBRARY alien_game_lib
-DESIGN c3_t1_gun_module
+DESIGN c2_t7_x_coord
 VIEW struct
-GRAPHIC 213,0 71 0 
-DESIGN c3_t1_gun_module
+GRAPHIC 1543,0 72 0 
+DESIGN c2_t7_x_coord
 VIEW symbol.sb
-GRAPHIC 124,0 73 0 
-DESIGN c3_t1_gun_module
+GRAPHIC 137,0 74 0 
+DESIGN c2_t7_x_coord
 VIEW symbol.sb
-GRAPHIC 139,0 74 0 
-DESIGN c3_t1_gun_module
+GRAPHIC 122,0 75 0 
+DESIGN c2_t7_x_coord
 VIEW symbol.sb
-GRAPHIC 134,0 75 0 
-DESIGN c3_t1_gun_module
+GRAPHIC 127,0 76 0 
+DESIGN c2_t7_x_coord
 VIEW symbol.sb
-GRAPHIC 129,0 76 0 
-DESIGN c3_t1_gun_module
+GRAPHIC 132,0 77 0 
+DESIGN c2_t7_x_coord
 VIEW symbol.sb
-GRAPHIC 144,0 77 0 
-DESIGN c3_t1_gun_module
+GRAPHIC 152,0 78 0 
+DESIGN c2_t7_x_coord
 VIEW symbol.sb
-GRAPHIC 159,0 78 0 
-DESIGN c3_t1_gun_module
+GRAPHIC 142,0 79 0 
+DESIGN c2_t7_x_coord
 VIEW symbol.sb
-GRAPHIC 149,0 79 0 
-DESIGN c3_t1_gun_module
-VIEW symbol.sb
-GRAPHIC 154,0 80 0 
+GRAPHIC 147,0 80 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 259,0 83 0 
-DESIGN c3_t2_write_sequencer
+GRAPHIC 1581,0 83 0 
+DESIGN c3_t1_gun_module
 VIEW symbol.sb
-GRAPHIC 126,0 85 0 
-DESIGN c3_t2_write_sequencer
+GRAPHIC 124,0 85 0 
+DESIGN c3_t1_gun_module
 VIEW symbol.sb
-GRAPHIC 854,0 86 0 
-DESIGN c3_t2_write_sequencer
+GRAPHIC 1622,0 86 0 
+DESIGN c3_t1_gun_module
 VIEW symbol.sb
-GRAPHIC 999,0 87 0 
-DESIGN c3_t2_write_sequencer
+GRAPHIC 134,0 87 0 
+DESIGN c3_t1_gun_module
 VIEW symbol.sb
-GRAPHIC 196,0 88 0 
-DESIGN c3_t2_write_sequencer
+GRAPHIC 129,0 88 0 
+DESIGN c3_t1_gun_module
 VIEW symbol.sb
-GRAPHIC 136,0 89 0 
-DESIGN c3_t2_write_sequencer
+GRAPHIC 1339,0 89 0 
+DESIGN c3_t1_gun_module
 VIEW symbol.sb
-GRAPHIC 166,0 90 0 
-DESIGN c3_t2_write_sequencer
+GRAPHIC 159,0 90 0 
+DESIGN c3_t1_gun_module
 VIEW symbol.sb
-GRAPHIC 161,0 91 0 
-DESIGN c3_t2_write_sequencer
+GRAPHIC 2234,0 91 0 
+DESIGN c3_t1_gun_module
 VIEW symbol.sb
-GRAPHIC 151,0 92 0 
-DESIGN c3_t2_write_sequencer
+GRAPHIC 149,0 92 0 
+DESIGN c3_t1_gun_module
 VIEW symbol.sb
-GRAPHIC 146,0 93 0 
-DESIGN c3_t2_write_sequencer
-VIEW symbol.sb
-GRAPHIC 156,0 94 0 
+GRAPHIC 154,0 93 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 892,0 97 0 
-DESIGN c3_t4_bullet
+GRAPHIC 2493,0 96 0 
+DESIGN c3_t2_write_sequencer
 VIEW symbol.sb
-GRAPHIC 139,0 99 0 
-DESIGN c3_t4_bullet
+GRAPHIC 126,0 98 0 
+DESIGN c3_t2_write_sequencer
 VIEW symbol.sb
-GRAPHIC 124,0 100 0 
-DESIGN c3_t4_bullet
+GRAPHIC 196,0 99 0 
+DESIGN c3_t2_write_sequencer
 VIEW symbol.sb
-GRAPHIC 144,0 101 0 
-DESIGN c3_t4_bullet
+GRAPHIC 136,0 100 0 
+DESIGN c3_t2_write_sequencer
 VIEW symbol.sb
-GRAPHIC 134,0 102 0 
-DESIGN c3_t4_bullet
+GRAPHIC 166,0 101 0 
+DESIGN c3_t2_write_sequencer
 VIEW symbol.sb
-GRAPHIC 129,0 103 0 
-DESIGN c3_t4_bullet
+GRAPHIC 161,0 102 0 
+DESIGN c3_t2_write_sequencer
 VIEW symbol.sb
-GRAPHIC 159,0 104 0 
-DESIGN c3_t4_bullet
+GRAPHIC 151,0 103 0 
+DESIGN c3_t2_write_sequencer
 VIEW symbol.sb
-GRAPHIC 149,0 105 0 
-DESIGN c3_t4_bullet
+GRAPHIC 146,0 104 0 
+DESIGN c3_t2_write_sequencer
 VIEW symbol.sb
-GRAPHIC 154,0 106 0 
+GRAPHIC 156,0 105 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 922,0 109 0 
-DESIGN c4_t2_victory
+GRAPHIC 2535,0 108 0 
+DESIGN c3_t4_bullet
 VIEW symbol.sb
-GRAPHIC 118,0 111 0 
-DESIGN c4_t2_victory
+GRAPHIC 139,0 110 0 
+DESIGN c3_t4_bullet
 VIEW symbol.sb
-GRAPHIC 123,0 112 0 
-DESIGN c4_t2_victory
+GRAPHIC 124,0 111 0 
+DESIGN c3_t4_bullet
 VIEW symbol.sb
-GRAPHIC 138,0 113 0 
-DESIGN c4_t2_victory
+GRAPHIC 144,0 112 0 
+DESIGN c3_t4_bullet
 VIEW symbol.sb
-GRAPHIC 128,0 114 0 
-DESIGN c4_t2_victory
+GRAPHIC 134,0 113 0 
+DESIGN c3_t4_bullet
 VIEW symbol.sb
-GRAPHIC 133,0 115 0 
-DESIGN c3_t2_top_level
-VIEW struct.bd
-GRAPHIC 1095,0 118 0 
-DESIGN c4_t3_improved_alien
+GRAPHIC 129,0 114 0 
+DESIGN c3_t4_bullet
 VIEW symbol.sb
-GRAPHIC 112,0 120 0 
-DESIGN c4_t3_improved_alien
+GRAPHIC 159,0 115 0 
+DESIGN c3_t4_bullet
 VIEW symbol.sb
-GRAPHIC 165,0 121 0 
-DESIGN c4_t3_improved_alien
+GRAPHIC 149,0 116 0 
+DESIGN c3_t4_bullet
 VIEW symbol.sb
-GRAPHIC 170,0 122 0 
-DESIGN c4_t3_improved_alien
-VIEW symbol.sb
-GRAPHIC 117,0 123 0 
-DESIGN c4_t3_improved_alien
-VIEW symbol.sb
-GRAPHIC 160,0 124 0 
-DESIGN c4_t3_improved_alien
-VIEW symbol.sb
-GRAPHIC 596,0 125 0 
-DESIGN c4_t3_improved_alien
-VIEW symbol.sb
-GRAPHIC 1822,0 126 0 
-DESIGN c4_t3_improved_alien
-VIEW symbol.sb
-GRAPHIC 155,0 127 0 
-DESIGN c4_t3_improved_alien
-VIEW symbol.sb
-GRAPHIC 175,0 128 0 
+GRAPHIC 154,0 117 0 
 LIBRARY pre_made
 DESIGN z_black_box_y
 VIEW struct
-GRAPHIC 109,0 131 0 
+GRAPHIC 1854,0 120 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-NO_GRAPHIC 147
+NO_GRAPHIC 136
 LIBRARY alien_game_lib
 DESIGN c3_t2_top_level
 VIEW struct.bd
-NO_GRAPHIC 149
+NO_GRAPHIC 138
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 213,0 152 0 
+GRAPHIC 1543,0 141 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 259,0 153 0 
+GRAPHIC 1581,0 142 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 892,0 154 0 
+GRAPHIC 2493,0 143 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 922,0 155 0 
+GRAPHIC 2535,0 144 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1095,0 156 0 
+GRAPHIC 1854,0 145 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 109,0 157 0 
+NO_GRAPHIC 148
 DESIGN c3_t2_top_level
 VIEW struct.bd
-NO_GRAPHIC 160
+GRAPHIC 1665,0 150 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 455,0 162 0 
+GRAPHIC 1728,0 162 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 353,0 175 0 
+GRAPHIC 1791,0 174 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 404,0 188 0 
+NO_GRAPHIC 186
 DESIGN c3_t2_top_level
 VIEW struct.bd
-NO_GRAPHIC 201
+GRAPHIC 1543,0 188 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 213,0 203 0 
+GRAPHIC 2012,0 190 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 786,0 205 0 
+GRAPHIC 2058,0 191 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1367,0 206 0 
+GRAPHIC 2054,0 192 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 934,0 207 0 
+GRAPHIC 2034,0 193 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 646,0 208 0 
+GRAPHIC 2076,0 194 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 754,0 209 0 
+GRAPHIC 2084,0 195 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1335,0 210 0 
+GRAPHIC 2140,0 196 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1323,0 211 0 
+GRAPHIC 1581,0 198 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1329,0 212 0 
+GRAPHIC 2048,0 200 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 259,0 214 0 
+GRAPHIC 2018,0 201 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1397,0 216 0 
+GRAPHIC 2064,0 202 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1188,0 217 0 
+GRAPHIC 2112,0 203 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1229,0 218 0 
+GRAPHIC 2044,0 204 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 760,0 219 0 
+GRAPHIC 2108,0 205 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 676,0 220 0 
+GRAPHIC 2593,0 206 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 934,0 221 0 
+GRAPHIC 2136,0 207 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 670,0 222 0 
+GRAPHIC 2072,0 208 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 646,0 223 0 
+GRAPHIC 2493,0 210 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 628,0 224 0 
+GRAPHIC 2004,0 212 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 664,0 225 0 
+GRAPHIC 2026,0 213 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 892,0 227 0 
+GRAPHIC 2132,0 214 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 974,0 229 0 
+GRAPHIC 2058,0 215 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 962,0 230 0 
+GRAPHIC 2080,0 216 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 944,0 231 0 
+GRAPHIC 2112,0 217 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1409,0 232 0 
+GRAPHIC 1988,0 218 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 950,0 233 0 
+GRAPHIC 2104,0 219 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1012,0 234 0 
+GRAPHIC 2535,0 221 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 982,0 235 0 
+GRAPHIC 2545,0 223 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1000,0 236 0 
+GRAPHIC 2551,0 224 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 922,0 238 0 
+GRAPHIC 2563,0 225 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 968,0 240 0 
+GRAPHIC 2593,0 226 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 956,0 241 0 
+GRAPHIC 2557,0 227 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1018,0 242 0 
+GRAPHIC 2587,0 228 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 994,0 243 0 
+GRAPHIC 2575,0 229 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1006,0 244 0 
+GRAPHIC 2581,0 230 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1095,0 246 0 
+GRAPHIC 1854,0 232 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 962,0 248 0 
+GRAPHIC 2022,0 234 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 938,0 249 0 
+GRAPHIC 2100,0 235 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 790,0 250 0 
+GRAPHIC 2080,0 236 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 744,0 251 0 
+GRAPHIC 2040,0 237 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1315,0 252 0 
+GRAPHIC 2104,0 238 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1188,0 253 0 
+GRAPHIC 2124,0 239 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1229,0 254 0 
+GRAPHIC 2116,0 240 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1287,0 255 0 
+GRAPHIC 2092,0 241 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1303,0 256 0 
+GRAPHIC 2096,0 242 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 109,0 258 0 
+GRAPHIC 2120,0 243 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 1403,0 260 0 
+GRAPHIC 2088,0 244 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 592,0 261 0 
+GRAPHIC 2068,0 245 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 670,0 262 0 
+GRAPHIC 2132,0 246 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 766,0 263 0 
+GRAPHIC 2128,0 247 0 
 DESIGN c3_t2_top_level
 VIEW struct.bd
-GRAPHIC 664,0 264 0 
-DESIGN c3_t2_top_level
-VIEW struct.bd
-GRAPHIC 604,0 265 0 
-DESIGN c3_t2_top_level
-VIEW struct.bd
-GRAPHIC 598,0 266 0 
-DESIGN c3_t2_top_level
-VIEW struct.bd
-GRAPHIC 676,0 272 0 
-DESIGN c3_t2_top_level
-VIEW struct.bd
-GRAPHIC 309,0 273 0 
-DESIGN c3_t2_top_level
-VIEW struct.bd
-NO_GRAPHIC 276
+NO_GRAPHIC 250

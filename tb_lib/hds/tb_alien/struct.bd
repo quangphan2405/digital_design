@@ -123,19 +123,19 @@ value "D:\\digital_design\\6\\alien_game\\..\\tb_lib\\hds\\tb_alien"
 )
 (vvPair
 variable "date"
-value "05/28/2020"
+value "05/31/2020"
 )
 (vvPair
 variable "day"
-value "Thu"
+value "Sun"
 )
 (vvPair
 variable "day_long"
-value "Thursday"
+value "Sunday"
 )
 (vvPair
 variable "dd"
-value "28"
+value "31"
 )
 (vvPair
 variable "entity_name"
@@ -163,7 +163,7 @@ value "USER"
 )
 (vvPair
 variable "graphical_source_date"
-value "05/28/2020"
+value "05/31/2020"
 )
 (vvPair
 variable "graphical_source_group"
@@ -175,7 +175,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "20:43:29"
+value "17:22:24"
 )
 (vvPair
 variable "group"
@@ -275,7 +275,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "20:43:29"
+value "17:22:24"
 )
 (vvPair
 variable "unit"
@@ -2530,30 +2530,30 @@ suid 8,0
 )
 )
 *86 (CptPort
-uid 1313,0
+uid 1367,0
 ps "OnEdgeStrategy"
 shape (Triangle
-uid 1314,0
+uid 1368,0
 ro 90
 va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "56000,34625,56750,35375"
+xt "56000,33625,56750,34375"
 )
 tg (CPTG
-uid 1315,0
+uid 1369,0
 ps "CptPortTextPlaceStrategy"
 stg "RightVerticalLayoutStrategy"
 f (Text
-uid 1316,0
+uid 1370,0
 va (VaSet
 font "arial,8,0"
 )
-xt "51800,34500,55000,35500"
+xt "51800,33500,55000,34500"
 st "hit_once"
 ju 2
-blo "55000,35300"
+blo "55000,34300"
 )
 )
 thePort (LogicalPort
@@ -2563,7 +2563,7 @@ decl (Decl
 n "hit_once"
 t "std_logic"
 o 7
-suid 9,0
+suid 10,0
 )
 )
 )
@@ -3282,12 +3282,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "232,0,1537,864"
-viewArea "-1400,8400,78875,54550"
+windowSize "230,0,1537,865"
+viewArea "-1400,13000,79005,57395"
 cachedDiagramExtent "0,0,73000,49000"
 hasePageBreakOrigin 1
 pageBreakOrigin "0,0"
-lastUid 1316,0
+lastUid 1370,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0

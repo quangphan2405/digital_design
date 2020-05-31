@@ -74,19 +74,19 @@ value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c3_t4_bullet"
 )
 (vvPair
 variable "date"
-value "05/28/2020"
+value "05/31/2020"
 )
 (vvPair
 variable "day"
-value "Thu"
+value "Sun"
 )
 (vvPair
 variable "day_long"
-value "Thursday"
+value "Sunday"
 )
 (vvPair
 variable "dd"
-value "28"
+value "31"
 )
 (vvPair
 variable "entity_name"
@@ -114,7 +114,7 @@ value "USER"
 )
 (vvPair
 variable "graphical_source_date"
-value "05/28/2020"
+value "05/31/2020"
 )
 (vvPair
 variable "graphical_source_group"
@@ -126,7 +126,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "16:29:34"
+value "20:36:59"
 )
 (vvPair
 variable "group"
@@ -226,7 +226,7 @@ value "fsm"
 )
 (vvPair
 variable "time"
-value "16:29:34"
+value "20:36:59"
 )
 (vvPair
 variable "unit"
@@ -2172,7 +2172,7 @@ lineColor "39936,56832,65280"
 lineWidth -1
 fillStyle 1
 )
-xt "49136,7562,67836,11762"
+xt "55207,6550,73907,10750"
 )
 autoResize 1
 tline (Line
@@ -2183,10 +2183,10 @@ isHidden 1
 lineColor "39936,56832,65280"
 lineWidth -1
 )
-xt "49236,7462,67736,7462"
+xt "55307,6450,73807,6450"
 pts [
-"49236,7462"
-"67736,7462"
+"55307,6450"
+"73807,6450"
 ]
 )
 bline (Line
@@ -2197,10 +2197,10 @@ isHidden 1
 lineColor "39936,56832,65280"
 lineWidth -1
 )
-xt "49236,9062,67736,9062"
+xt "55307,8050,73807,8050"
 pts [
-"49236,9062"
-"67736,9062"
+"55307,8050"
+"73807,8050"
 ]
 )
 ttri (Triangle
@@ -2214,7 +2214,7 @@ bg "0,0,0"
 lineColor "39936,56832,65280"
 lineWidth -1
 )
-xt "48786,7087,49136,7437"
+xt "54857,6075,55207,6425"
 )
 btri (Triangle
 uid 937,0
@@ -2227,14 +2227,14 @@ bg "0,0,0"
 lineColor "39936,56832,65280"
 lineWidth -1
 )
-xt "48786,6287,49136,6637"
+xt "54857,5275,55207,5625"
 )
 entryActions (MLText
 uid 938,0
 va (VaSet
 font "arial,8,0"
 )
-xt "49236,7262,49236,7262"
+xt "55307,6250,55307,6250"
 tm "Actions"
 )
 inActions (MLText
@@ -2242,7 +2242,7 @@ uid 939,0
 va (VaSet
 font "arial,8,0"
 )
-xt "49236,7662,67736,11662"
+xt "55307,6650,73807,10650"
 st "x_coord <= gun_x_coord;
 bullet_x_coord_int <= \"00000000\";
 bullet_y_coord_int <= \"01000000\";
@@ -2254,7 +2254,7 @@ uid 940,0
 va (VaSet
 font "arial,8,0"
 )
-xt "54486,6462,54486,6462"
+xt "60557,5450,60557,5450"
 tm "Actions"
 )
 )
@@ -2475,7 +2475,6 @@ arrow 1
 )
 start &2
 end &2
-cond "btn = '0'"
 tb (TransitionBlock
 uid 709,0
 ps "CenterOffsetStrategy"
@@ -2483,11 +2482,12 @@ shape (Rectangle
 uid 710,0
 va (VaSet
 vasetType 1
+isHidden 1
 fg "65535,65535,65535"
 bg "0,0,0"
 lineColor "0,32768,49152"
 )
-xt "30472,5773,34572,7773"
+xt "30472,6268,34572,7278"
 )
 autoResize 1
 lineShape (Line
@@ -2508,7 +2508,6 @@ va (VaSet
 font "arial,8,0"
 )
 xt "30972,6273,34072,7273"
-st "btn = '0'"
 tm "Condition"
 )
 actions (MLText
@@ -2539,7 +2538,7 @@ va (VaSet
 font "arial,8,0"
 )
 xt "39399,7800,40199,8800"
-st "1"
+st "2"
 ju 0
 blo "39799,8600"
 tm "TransitionPriority"
@@ -3645,7 +3644,7 @@ arrow 1
 )
 start &2
 end &25
-cond "btn = '1'"
+cond "btn = '1' AND en = '1'"
 tb (TransitionBlock
 uid 943,0
 ps "CenterOffsetStrategy"
@@ -3657,7 +3656,7 @@ fg "65535,65535,65535"
 bg "0,0,0"
 lineColor "0,32768,49152"
 )
-xt "43584,9069,47684,11069"
+xt "43584,9069,53084,11069"
 )
 autoResize 1
 lineShape (Line
@@ -3677,8 +3676,8 @@ uid 946,0
 va (VaSet
 font "arial,8,0"
 )
-xt "44084,9569,47184,10569"
-st "btn = '1'"
+xt "44084,9569,52584,10569"
+st "btn = '1' AND en = '1'"
 tm "Condition"
 )
 actions (MLText
@@ -3686,7 +3685,7 @@ uid 947,0
 va (VaSet
 font "arial,8,0"
 )
-xt "45634,10969,45634,10969"
+xt "48334,10969,48334,10969"
 tm "Actions"
 )
 )
@@ -3709,7 +3708,7 @@ va (VaSet
 font "arial,8,0"
 )
 xt "41814,11605,42614,12605"
-st "2"
+st "1"
 ju 0
 blo "42214,12405"
 tm "TransitionPriority"
@@ -3922,7 +3921,7 @@ tm "SmCompilerDirectivesTextMgr"
 associable 1
 )
 windowSize "0,24,1537,864"
-viewArea "-23742,-10053,111955,55806"
+viewArea "703,4672,88019,47050"
 cachedDiagramExtent "-1006,-1000,88146,63472"
 hasePageBreakOrigin 1
 pageBreakOrigin "-68000,-2000"
@@ -4309,7 +4308,7 @@ stateOrder [
 name "csm"
 )
 ]
-lastUid 989,0
+lastUid 1018,0
 commonDM (CommonDM
 ldm (LogicalDM
 emptyRow *75 (LEmptyRow

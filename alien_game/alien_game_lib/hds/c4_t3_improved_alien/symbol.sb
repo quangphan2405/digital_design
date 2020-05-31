@@ -21,7 +21,7 @@ appVersion "2019.3 (Build 4)"
 model (Symbol
 commonDM (CommonDM
 ldm (LogicalDM
-suid 9,0
+suid 10,0
 usingSuid 1
 emptyRow *1 (LEmptyRow
 )
@@ -171,10 +171,10 @@ decl (Decl
 n "hit_once"
 t "std_logic"
 o 7
-suid 9,0
+suid 10,0
 )
 )
-uid 1821,0
+uid 2012,0
 )
 ]
 )
@@ -278,7 +278,7 @@ uid 594,0
 litem &22
 pos 8
 dimension 20
-uid 1820,0
+uid 2011,0
 )
 ]
 )
@@ -549,19 +549,19 @@ value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c4_t3_improved_al
 )
 (vvPair
 variable "date"
-value "05/28/2020"
+value "05/31/2020"
 )
 (vvPair
 variable "day"
-value "Thu"
+value "Sun"
 )
 (vvPair
 variable "day_long"
-value "Thursday"
+value "Sunday"
 )
 (vvPair
 variable "dd"
-value "28"
+value "31"
 )
 (vvPair
 variable "entity_name"
@@ -589,7 +589,7 @@ value "USER"
 )
 (vvPair
 variable "graphical_source_date"
-value "05/28/2020"
+value "05/31/2020"
 )
 (vvPair
 variable "graphical_source_group"
@@ -601,7 +601,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "20:43:27"
+value "19:55:27"
 )
 (vvPair
 variable "group"
@@ -701,7 +701,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "20:43:27"
+value "19:55:27"
 )
 (vvPair
 variable "unit"
@@ -1107,10 +1107,10 @@ suid 8,0
 )
 )
 *78 (CptPort
-uid 1822,0
+uid 2013,0
 ps "OnEdgeStrategy"
 shape (Triangle
-uid 1823,0
+uid 2014,0
 ro 90
 va (VaSet
 vasetType 1
@@ -1119,11 +1119,11 @@ fg "0,65535,0"
 xt "33000,10625,33750,11375"
 )
 tg (CPTG
-uid 1824,0
+uid 2015,0
 ps "CptPortTextPlaceStrategy"
 stg "RightVerticalLayoutStrategy"
 f (Text
-uid 1825,0
+uid 2016,0
 va (VaSet
 font "arial,8,0"
 )
@@ -1135,7 +1135,7 @@ tm "CptPortNameMgr"
 )
 )
 dt (MLText
-uid 1826,0
+uid 2017,0
 va (VaSet
 font "Courier New,8,0"
 )
@@ -1149,7 +1149,7 @@ decl (Decl
 n "hit_once"
 t "std_logic"
 o 7
-suid 9,0
+suid 10,0
 )
 )
 )
@@ -1851,6 +1851,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 1895,0
+lastUid 2270,0
 activeModelName "Symbol:CDM"
 )
