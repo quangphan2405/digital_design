@@ -66,216 +66,228 @@ VIEW struct.bd
 GRAPHIC 1904,0 53 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 1898,0 54 0 
+GRAPHIC 3354,0 54 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 2209,0 55 0 
+GRAPHIC 1898,0 55 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 3197,0 56 0 
+GRAPHIC 2209,0 56 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 1908,0 57 0 
+GRAPHIC 3197,0 57 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 3217,0 58 0 
+GRAPHIC 1908,0 58 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 2676,0 59 0 
+GRAPHIC 3217,0 59 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 2682,0 60 0 
+GRAPHIC 2676,0 60 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 2688,0 61 0 
+GRAPHIC 2682,0 61 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 1884,0 62 0 
+GRAPHIC 2688,0 62 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 2988,0 63 0 
+GRAPHIC 3321,0 63 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 2722,0 64 0 
+GRAPHIC 1884,0 64 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 1910,0 65 0 
+GRAPHIC 2988,0 65 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 1896,0 66 0 
+GRAPHIC 2722,0 66 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 1900,0 67 0 
+GRAPHIC 1910,0 67 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-NO_GRAPHIC 68
+GRAPHIC 1896,0 68 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 1834,0 70 0 
+GRAPHIC 1900,0 69 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 2754,0 71 0 
+NO_GRAPHIC 70
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 3229,0 72 0 
+GRAPHIC 3327,0 72 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 2529,0 73 0 
+GRAPHIC 3368,0 73 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-NO_GRAPHIC 96
+GRAPHIC 3229,0 74 0 
+DESIGN c4_t3_improved_alien
+VIEW struct.bd
+GRAPHIC 2529,0 75 0 
+DESIGN c4_t3_improved_alien
+VIEW struct.bd
+NO_GRAPHIC 98
 LIBRARY alien_game_lib
 DESIGN c2_t3_left_shifter
 VIEW struct
-GRAPHIC 1459,0 98 0 
+GRAPHIC 1459,0 100 0 
 DESIGN c2_t3_left_shifter
 VIEW symbol.sb
-GRAPHIC 112,0 100 0 
+GRAPHIC 112,0 102 0 
 DESIGN c2_t3_left_shifter
 VIEW symbol.sb
-GRAPHIC 117,0 101 0 
+GRAPHIC 117,0 103 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 1441,0 104 0 
+GRAPHIC 1441,0 106 0 
 DESIGN c2_t4_right_shifter
 VIEW symbol.sb
-GRAPHIC 112,0 106 0 
+GRAPHIC 112,0 108 0 
 DESIGN c2_t4_right_shifter
 VIEW symbol.sb
-GRAPHIC 117,0 107 0 
+GRAPHIC 117,0 109 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 1368,0 110 0 
+GRAPHIC 1368,0 112 0 
 DESIGN c2_t7_shift_direction
 VIEW symbol.sb
-GRAPHIC 2229,0 112 0 
+GRAPHIC 2229,0 114 0 
 DESIGN c2_t7_shift_direction
 VIEW symbol.sb
-GRAPHIC 114,0 113 0 
+GRAPHIC 114,0 115 0 
 DESIGN c2_t7_shift_direction
 VIEW symbol.sb
-GRAPHIC 124,0 114 0 
+GRAPHIC 124,0 116 0 
 LIBRARY alien_game_lib
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-NO_GRAPHIC 117
+NO_GRAPHIC 119
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 1459,0 120 0 
+GRAPHIC 1459,0 122 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 1441,0 121 0 
+GRAPHIC 1441,0 123 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 1368,0 122 0 
+GRAPHIC 1368,0 124 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-NO_GRAPHIC 125
+NO_GRAPHIC 127
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 1534,0 127 0 
+GRAPHIC 1534,0 129 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 1335,0 138 0 
+GRAPHIC 1335,0 140 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 1713,0 149 0 
+GRAPHIC 1713,0 151 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 1598,0 160 0 
+GRAPHIC 1598,0 162 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 1998,0 171 0 
+GRAPHIC 1998,0 173 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 2237,0 183 0 
+GRAPHIC 2237,0 185 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 3107,0 194 0 
+GRAPHIC 3107,0 196 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 2086,0 205 0 
+GRAPHIC 2086,0 207 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 2200,0 208 0 
+GRAPHIC 2200,0 210 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 3058,0 211 0 
+GRAPHIC 3058,0 213 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 2370,0 214 0 
+GRAPHIC 3335,0 216 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 1694,0 217 0 
+GRAPHIC 2370,0 219 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 1579,0 220 0 
+GRAPHIC 1694,0 222 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 2497,0 223 0 
+GRAPHIC 1579,0 225 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 1637,0 226 0 
+GRAPHIC 2497,0 228 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 1483,0 236 0 
+GRAPHIC 1637,0 231 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 2334,0 246 0 
+GRAPHIC 1483,0 241 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 2663,0 256 0 
+GRAPHIC 2334,0 251 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 3146,0 266 0 
+GRAPHIC 2663,0 261 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 1390,0 276 0 
+GRAPHIC 3146,0 271 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-NO_GRAPHIC 286
+GRAPHIC 3270,0 281 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 1459,0 288 0 
+GRAPHIC 1390,0 292 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 1766,0 290 0 
+NO_GRAPHIC 302
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 1846,0 291 0 
+GRAPHIC 1459,0 304 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 1441,0 293 0 
+GRAPHIC 1766,0 306 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 2482,0 295 0 
+GRAPHIC 1846,0 307 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 1842,0 296 0 
+GRAPHIC 1441,0 309 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 1368,0 298 0 
+GRAPHIC 2482,0 311 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 1824,0 300 0 
+GRAPHIC 1842,0 312 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 2529,0 301 0 
+GRAPHIC 1368,0 314 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 1870,0 302 0 
+GRAPHIC 1824,0 316 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 1834,0 306 0 
+GRAPHIC 2529,0 317 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 2754,0 307 0 
+GRAPHIC 1870,0 318 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 3229,0 308 0 
+GRAPHIC 3327,0 322 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-GRAPHIC 2529,0 309 0 
+GRAPHIC 3368,0 323 0 
 DESIGN c4_t3_improved_alien
 VIEW struct.bd
-NO_GRAPHIC 311
+GRAPHIC 3229,0 324 0 
+DESIGN c4_t3_improved_alien
+VIEW struct.bd
+GRAPHIC 2529,0 325 0 
+DESIGN c4_t3_improved_alien
+VIEW struct.bd
+NO_GRAPHIC 327
