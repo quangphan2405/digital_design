@@ -123,19 +123,19 @@ value "D:\\digital_design\\6\\alien_game\\..\\tb_lib\\hds\\tb_alien"
 )
 (vvPair
 variable "date"
-value "05/31/2020"
+value "06/ 4/2020"
 )
 (vvPair
 variable "day"
-value "Sun"
+value "Thu"
 )
 (vvPair
 variable "day_long"
-value "Sunday"
+value "Thursday"
 )
 (vvPair
 variable "dd"
-value "31"
+value "04"
 )
 (vvPair
 variable "entity_name"
@@ -163,7 +163,7 @@ value "USER"
 )
 (vvPair
 variable "graphical_source_date"
-value "05/31/2020"
+value "06/ 4/2020"
 )
 (vvPair
 variable "graphical_source_group"
@@ -175,7 +175,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "22:16:47"
+value "21:56:46"
 )
 (vvPair
 variable "group"
@@ -199,7 +199,7 @@ value "$HDS_PROJECT_DIR/../tb_lib/work"
 )
 (vvPair
 variable "mm"
-value "05"
+value "06"
 )
 (vvPair
 variable "module_name"
@@ -207,11 +207,11 @@ value "tb_alien"
 )
 (vvPair
 variable "month"
-value "May"
+value "Jun"
 )
 (vvPair
 variable "month_long"
-value "May"
+value "June"
 )
 (vvPair
 variable "p"
@@ -275,7 +275,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "22:16:47"
+value "21:56:46"
 )
 (vvPair
 variable "unit"
@@ -327,7 +327,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "36200,48000,46100,49000"
+xt "36200,48000,45800,49000"
 st "
 by %user on %dd %month %year
 "
@@ -1728,7 +1728,7 @@ optionalChildren [
 *54 (Property
 pclass "param"
 pname "value"
-pvalue "16711680"
+pvalue "207"
 ptn "String"
 )
 ]
@@ -3282,12 +3282,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "229,0,1537,864"
-viewArea "-1400,13000,79070,57330"
+windowSize "228,0,1537,864"
+viewArea "-1400,13000,78594,65540"
 cachedDiagramExtent "0,0,73000,49000"
 hasePageBreakOrigin 1
 pageBreakOrigin "0,0"
-lastUid 1395,0
+lastUid 1420,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0

@@ -543,19 +543,19 @@ value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c3_t2_top_level"
 )
 (vvPair
 variable "date"
-value "05/31/2020"
+value "06/ 4/2020"
 )
 (vvPair
 variable "day"
-value "Sun"
+value "Thu"
 )
 (vvPair
 variable "day_long"
-value "Sunday"
+value "Thursday"
 )
 (vvPair
 variable "dd"
-value "31"
+value "04"
 )
 (vvPair
 variable "entity_name"
@@ -583,7 +583,7 @@ value "USER"
 )
 (vvPair
 variable "graphical_source_date"
-value "05/31/2020"
+value "06/ 4/2020"
 )
 (vvPair
 variable "graphical_source_group"
@@ -595,7 +595,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "22:03:11"
+value "21:46:15"
 )
 (vvPair
 variable "group"
@@ -619,7 +619,7 @@ value "$HDS_PROJECT_DIR/alien_game_lib/work"
 )
 (vvPair
 variable "mm"
-value "05"
+value "06"
 )
 (vvPair
 variable "module_name"
@@ -627,11 +627,11 @@ value "c3_t2_top_level"
 )
 (vvPair
 variable "month"
-value "May"
+value "Jun"
 )
 (vvPair
 variable "month_long"
-value "May"
+value "June"
 )
 (vvPair
 variable "p"
@@ -695,7 +695,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "22:03:11"
+value "21:46:15"
 )
 (vvPair
 variable "unit"
@@ -1224,7 +1224,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "31200,50000,41100,51000"
+xt "31200,50000,40800,51000"
 st "
 by %user on %dd %month %year
 "
@@ -1840,6 +1840,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 1964,0
+lastUid 2332,0
 activeModelName "Symbol:CDM"
 )

@@ -74,19 +74,19 @@ value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c3_t4_bullet"
 )
 (vvPair
 variable "date"
-value "05/31/2020"
+value "06/ 4/2020"
 )
 (vvPair
 variable "day"
-value "Sun"
+value "Thu"
 )
 (vvPair
 variable "day_long"
-value "Sunday"
+value "Thursday"
 )
 (vvPair
 variable "dd"
-value "31"
+value "04"
 )
 (vvPair
 variable "entity_name"
@@ -114,7 +114,7 @@ value "USER"
 )
 (vvPair
 variable "graphical_source_date"
-value "05/31/2020"
+value "06/ 4/2020"
 )
 (vvPair
 variable "graphical_source_group"
@@ -126,7 +126,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "20:36:59"
+value "20:41:47"
 )
 (vvPair
 variable "group"
@@ -150,7 +150,7 @@ value "$HDS_PROJECT_DIR/alien_game_lib/work"
 )
 (vvPair
 variable "mm"
-value "05"
+value "06"
 )
 (vvPair
 variable "module_name"
@@ -158,11 +158,11 @@ value "c3_t4_bullet"
 )
 (vvPair
 variable "month"
-value "May"
+value "Jun"
 )
 (vvPair
 variable "month_long"
-value "May"
+value "June"
 )
 (vvPair
 variable "p"
@@ -226,7 +226,7 @@ value "fsm"
 )
 (vvPair
 variable "time"
-value "20:36:59"
+value "20:41:47"
 )
 (vvPair
 variable "unit"
@@ -400,7 +400,7 @@ xt "33330,15577,51830,19577"
 st "x_coord <=gun_x_coord;
 bullet_x_coord_int <= \"00000000\";
 bullet_y_coord_int <= \"01000000\";
-bullet_color_int <= \"100000001000000010000000\";"
+bullet_color_int <= \"000000001100110000000000\";"
 tm "Actions"
 )
 exitActions (MLText
@@ -814,7 +814,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "31200,62472,41100,63472"
+xt "31200,62472,40800,63472"
 st "
 by Quang on %dd %month %year
 "
@@ -1256,7 +1256,7 @@ xt "69546,16122,88046,20122"
 st "x_coord <= x_coord;
 bullet_x_coord_int <= x_coord;
 bullet_y_coord_int <= \"00100000\";
-bullet_color_int <= \"000000000000000011001100\";"
+bullet_color_int <= \"000000001100110000000000\";"
 tm "Actions"
 )
 exitActions (MLText
@@ -1421,7 +1421,7 @@ xt "69136,30205,87636,34205"
 st "x_coord <= x_coord;
 bullet_x_coord_int <= x_coord;
 bullet_y_coord_int <= \"00010000\";
-bullet_color_int <= \"000000000000000011001100\";"
+bullet_color_int <= \"000000001100110000000000\";"
 tm "Actions"
 )
 exitActions (MLText
@@ -1586,7 +1586,7 @@ xt "54054,50273,72554,54273"
 st "x_coord <= x_coord;
 bullet_x_coord_int <= x_coord;
 bullet_y_coord_int <= \"00001000\";
-bullet_color_int <= \"000000000000000011001100\";"
+bullet_color_int <= \"000000001100110000000000\";"
 tm "Actions"
 )
 exitActions (MLText
@@ -1751,7 +1751,7 @@ xt "32753,53758,51253,57758"
 st "x_coord <= x_coord;
 bullet_x_coord_int <= x_coord;
 bullet_y_coord_int <= \"00000100\";
-bullet_color_int <= \"000000000000000011001100\";"
+bullet_color_int <= \"000000001100110000000000\";"
 tm "Actions"
 )
 exitActions (MLText
@@ -1916,7 +1916,7 @@ xt "3143,50052,21643,54052"
 st "x_coord <= x_coord;
 bullet_x_coord_int <= x_coord;
 bullet_y_coord_int <= \"00000010\";
-bullet_color_int <= \"000000000000000011001100\";"
+bullet_color_int <= \"000000001100110000000000\";"
 tm "Actions"
 )
 exitActions (MLText
@@ -2081,7 +2081,7 @@ xt "-556,27730,17944,31730"
 st "x_coord <= x_coord;
 bullet_x_coord_int <= x_coord;
 bullet_y_coord_int <= \"00000001\";
-bullet_color_int <= \"000000000000000011001100\";"
+bullet_color_int <= \"000000001100110000000000\";"
 tm "Actions"
 )
 exitActions (MLText
@@ -2246,7 +2246,7 @@ xt "55307,6650,73807,10650"
 st "x_coord <= gun_x_coord;
 bullet_x_coord_int <= \"00000000\";
 bullet_y_coord_int <= \"01000000\";
-bullet_color_int <= \"000000000000000011001100\";"
+bullet_color_int <= \"000000001100110000000000\";"
 tm "Actions"
 )
 exitActions (MLText
@@ -3921,7 +3921,7 @@ tm "SmCompilerDirectivesTextMgr"
 associable 1
 )
 windowSize "0,24,1537,864"
-viewArea "703,4672,88019,47050"
+viewArea "-11360,-57,76343,47647"
 cachedDiagramExtent "-1006,-1000,88146,63472"
 hasePageBreakOrigin 1
 pageBreakOrigin "-68000,-2000"
@@ -4308,7 +4308,7 @@ stateOrder [
 name "csm"
 )
 ]
-lastUid 1018,0
+lastUid 1047,0
 commonDM (CommonDM
 ldm (LogicalDM
 emptyRow *75 (LEmptyRow
