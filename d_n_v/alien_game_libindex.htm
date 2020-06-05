@@ -1381,6 +1381,19 @@ function initialise() {
                    'alien_game_lib/c4_t2_victory/fsm_sm.htm',
                    'fsm');
    nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c4_t3_hit_controller',
+                   '',
+                   'c4_t3_hit_controller');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c4_t3_hit_controller/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'StateDiagramDef', 'fsm',
+                   'alien_game_lib/c4_t3_hit_controller/fsm_sm.htm',
+                   'fsm');
+   nodes[3] = theMenu.addChild(nodes[2],
                    'ComponentDu', 'c4_t3_improved_alien',
                    '',
                    'c4_t3_improved_alien');
@@ -1419,10 +1432,326 @@ function initialise() {
                    'StateDiagramDef', 'fsm',
                    'alien_game_lib/c4_t5_serial_data/fsm_sm.htm',
                    'fsm');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c5_t2_col_of_row',
+                   '',
+                   'c5_t2_col_of_row');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c5_t2_col_of_row/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'BlockDiagramDef', 'struct',
+                   'alien_game_lib/c5_t2_col_of_row/struct_bd.htm',
+                   'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c5_t2_reg_bank',
+                   '',
+                   'c5_t2_reg_bank');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c5_t2_reg_bank/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'BlockDiagramDef', 'struct',
+                   'alien_game_lib/c5_t2_reg_bank/struct_bd.htm',
+                   'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c5_t2_row_px',
+                   '',
+                   'c5_t2_row_px');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c5_t2_row_px/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'BlockDiagramDef', 'struct',
+                   'alien_game_lib/c5_t2_row_px/struct_bd.htm',
+                   'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c5_t2_single_px',
+                   '',
+                   'c5_t2_single_px');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c5_t2_single_px/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'BlockDiagramDef', 'struct',
+                   'alien_game_lib/c5_t2_single_px/struct_bd.htm',
+                   'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c5_t2_w_rdy',
+                   '',
+                   'c5_t2_w_rdy');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c5_t2_w_rdy/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'StateDiagramDef', 'fsm',
+                   'alien_game_lib/c5_t2_w_rdy/fsm_sm.htm',
+                   'fsm');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c5_t3_reg_sda_moore',
+                   '',
+                   'c5_t3_reg_sda_moore');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c5_t3_reg_sda_moore/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'StateDiagramDef', 'fsm',
+                   'alien_game_lib/c5_t3_reg_sda_moore/fsm_sm.htm',
+                   'fsm');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c5_t4_display_controller',
+                   '',
+                   'c5_t4_display_controller');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c5_t4_display_controller/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'BlockDiagramDef', 'struct',
+                   'alien_game_lib/c5_t4_display_controller/struct_bd.htm',
+                   'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'mem_ctl_block',
+                   '',
+                   'mem_ctl_block');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLEntity', 'mem_ctl_block {mem_ctl_block_fsm.vhd}',
+                   'alien_game_lib/mem_ctl_block_fsm_vhd.htm',
+                   'mem_ctl_block {mem_ctl_block_fsm.vhd}');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLArchDef', 'fsm {mem_ctl_block_fsm.vhd}',
+                   'alien_game_lib/mem_ctl_block_fsm_vhd.htm',
+                   'fsm {mem_ctl_block_fsm.vhd}');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'reg_bank',
+                   '',
+                   'reg_bank');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLEntity', 'reg_bank {reg_bank_struct.vhd}',
+                   'alien_game_lib/reg_bank_struct_vhd.htm',
+                   'reg_bank {reg_bank_struct.vhd}');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLArchDef', 'struct {reg_bank_struct.vhd}',
+                   'alien_game_lib/reg_bank_struct_vhd.htm',
+                   'struct {reg_bank_struct.vhd}');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'reg_bank_1col',
+                   '',
+                   'reg_bank_1col');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLEntity', 'reg_bank_1col {reg_bank_1col_struct.vhd}',
+                   'alien_game_lib/reg_bank_1col_struct_vhd.htm',
+                   'reg_bank_1col {reg_bank_1col_struct.vhd}');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLArchDef', 'struct {reg_bank_1col_struct.vhd}',
+                   'alien_game_lib/reg_bank_1col_struct_vhd.htm',
+                   'struct {reg_bank_1col_struct.vhd}');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'reg_bank_1px',
+                   '',
+                   'reg_bank_1px');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLEntity', 'reg_bank_1px {reg_bank_1px_struct.vhd}',
+                   'alien_game_lib/reg_bank_1px_struct_vhd.htm',
+                   'reg_bank_1px {reg_bank_1px_struct.vhd}');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLArchDef', 'struct {reg_bank_1px_struct.vhd}',
+                   'alien_game_lib/reg_bank_1px_struct_vhd.htm',
+                   'struct {reg_bank_1px_struct.vhd}');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'reg_bank_64px',
+                   '',
+                   'reg_bank_64px');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLEntity', 'reg_bank_64px {reg_bank_64px_struct.vhd}',
+                   'alien_game_lib/reg_bank_64px_struct_vhd.htm',
+                   'reg_bank_64px {reg_bank_64px_struct.vhd}');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLArchDef', 'struct {reg_bank_64px_struct.vhd}',
+                   'alien_game_lib/reg_bank_64px_struct_vhd.htm',
+                   'struct {reg_bank_64px_struct.vhd}');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'serial_led_cannon',
+                   '',
+                   'serial_led_cannon');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLEntity', 'serial_led_cannon {serial_led_cannon_fsm.vhd}',
+                   'alien_game_lib/serial_led_cannon_fsm_vhd.htm',
+                   'serial_led_cannon {serial_led_cannon_fsm.vhd}');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLArchDef', 'fsm {serial_led_cannon_fsm.vhd}',
+                   'alien_game_lib/serial_led_cannon_fsm_vhd.htm',
+                   'fsm {serial_led_cannon_fsm.vhd}');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'v2_gamma',
+                   '',
+                   'v2_gamma');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLEntity', 'v2_gamma {v2_gamma_fsm.vhd}',
+                   'alien_game_lib/v2_gamma_fsm_vhd.htm',
+                   'v2_gamma {v2_gamma_fsm.vhd}');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLArchDef', 'fsm {v2_gamma_fsm.vhd}',
+                   'alien_game_lib/v2_gamma_fsm_vhd.htm',
+                   'fsm {v2_gamma_fsm.vhd}');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'v2_rst',
+                   '',
+                   'v2_rst');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLEntity', 'v2_rst {v2_rst_fsm.vhd}',
+                   'alien_game_lib/v2_rst_fsm_vhd.htm',
+                   'v2_rst {v2_rst_fsm.vhd}');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLArchDef', 'fsm {v2_rst_fsm.vhd}',
+                   'alien_game_lib/v2_rst_fsm_vhd.htm',
+                   'fsm {v2_rst_fsm.vhd}');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'v2_serial_tx',
+                   '',
+                   'v2_serial_tx');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLEntity', 'v2_serial_tx {v2_serial_tx_fsm.vhd}',
+                   'alien_game_lib/v2_serial_tx_fsm_vhd.htm',
+                   'v2_serial_tx {v2_serial_tx_fsm.vhd}');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLArchDef', 'fsm {v2_serial_tx_fsm.vhd}',
+                   'alien_game_lib/v2_serial_tx_fsm_vhd.htm',
+                   'fsm {v2_serial_tx_fsm.vhd}');
    nodes[2] = theMenu.addChild(nodes[1],
                    'Folder', 'HDL Files',
                    '',
                    'HDL Files');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'VHDL', 'mem_ctl_block_fsm.vhd',
+                   '',
+                   'mem_ctl_block_fsm.vhd');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLEntity', 'mem_ctl_block',
+                   'alien_game_lib/mem_ctl_block_fsm_vhd.htm',
+                   'mem_ctl_block');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLArchDef', 'fsm',
+                   'alien_game_lib/mem_ctl_block_fsm_vhd.htm',
+                   'fsm');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'VHDL', 'reg_bank_1col_struct.vhd',
+                   '',
+                   'reg_bank_1col_struct.vhd');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLEntity', 'reg_bank_1col',
+                   'alien_game_lib/reg_bank_1col_struct_vhd.htm',
+                   'reg_bank_1col');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLArchDef', 'struct',
+                   'alien_game_lib/reg_bank_1col_struct_vhd.htm',
+                   'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'VHDL', 'reg_bank_1px_struct.vhd',
+                   '',
+                   'reg_bank_1px_struct.vhd');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLEntity', 'reg_bank_1px',
+                   'alien_game_lib/reg_bank_1px_struct_vhd.htm',
+                   'reg_bank_1px');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLArchDef', 'struct',
+                   'alien_game_lib/reg_bank_1px_struct_vhd.htm',
+                   'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'VHDL', 'reg_bank_64px_struct.vhd',
+                   '',
+                   'reg_bank_64px_struct.vhd');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLEntity', 'reg_bank_64px',
+                   'alien_game_lib/reg_bank_64px_struct_vhd.htm',
+                   'reg_bank_64px');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLArchDef', 'struct',
+                   'alien_game_lib/reg_bank_64px_struct_vhd.htm',
+                   'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'VHDL', 'reg_bank_struct.vhd',
+                   '',
+                   'reg_bank_struct.vhd');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLEntity', 'reg_bank',
+                   'alien_game_lib/reg_bank_struct_vhd.htm',
+                   'reg_bank');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLArchDef', 'struct',
+                   'alien_game_lib/reg_bank_struct_vhd.htm',
+                   'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'VHDL', 'serial_led_cannon_fsm.vhd',
+                   '',
+                   'serial_led_cannon_fsm.vhd');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLEntity', 'serial_led_cannon',
+                   'alien_game_lib/serial_led_cannon_fsm_vhd.htm',
+                   'serial_led_cannon');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLArchDef', 'fsm',
+                   'alien_game_lib/serial_led_cannon_fsm_vhd.htm',
+                   'fsm');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'VHDL', 'v2_gamma_fsm.vhd',
+                   '',
+                   'v2_gamma_fsm.vhd');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLEntity', 'v2_gamma',
+                   'alien_game_lib/v2_gamma_fsm_vhd.htm',
+                   'v2_gamma');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLArchDef', 'fsm',
+                   'alien_game_lib/v2_gamma_fsm_vhd.htm',
+                   'fsm');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'VHDL', 'v2_rst_fsm.vhd',
+                   '',
+                   'v2_rst_fsm.vhd');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLEntity', 'v2_rst',
+                   'alien_game_lib/v2_rst_fsm_vhd.htm',
+                   'v2_rst');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLArchDef', 'fsm',
+                   'alien_game_lib/v2_rst_fsm_vhd.htm',
+                   'fsm');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'VHDL', 'v2_serial_tx_fsm.vhd',
+                   '',
+                   'v2_serial_tx_fsm.vhd');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLEntity', 'v2_serial_tx',
+                   'alien_game_lib/v2_serial_tx_fsm_vhd.htm',
+                   'v2_serial_tx');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'VHDLArchDef', 'fsm',
+                   'alien_game_lib/v2_serial_tx_fsm_vhd.htm',
+                   'fsm');
 
 }
 

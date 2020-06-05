@@ -74,19 +74,19 @@ value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c4_t4_shield_rese
 )
 (vvPair
 variable "date"
-value "05/28/2020"
+value "06/ 5/2020"
 )
 (vvPair
 variable "day"
-value "Thu"
+value "Fri"
 )
 (vvPair
 variable "day_long"
-value "Thursday"
+value "Friday"
 )
 (vvPair
 variable "dd"
-value "28"
+value "05"
 )
 (vvPair
 variable "entity_name"
@@ -114,7 +114,7 @@ value "USER"
 )
 (vvPair
 variable "graphical_source_date"
-value "05/28/2020"
+value "06/ 5/2020"
 )
 (vvPair
 variable "graphical_source_group"
@@ -126,7 +126,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "21:55:03"
+value "08:21:34"
 )
 (vvPair
 variable "group"
@@ -150,7 +150,7 @@ value "$HDS_PROJECT_DIR/alien_game_lib/work"
 )
 (vvPair
 variable "mm"
-value "05"
+value "06"
 )
 (vvPair
 variable "module_name"
@@ -158,11 +158,11 @@ value "c4_t4_shield_reset"
 )
 (vvPair
 variable "month"
-value "May"
+value "Jun"
 )
 (vvPair
 variable "month_long"
-value "May"
+value "June"
 )
 (vvPair
 variable "p"
@@ -226,7 +226,7 @@ value "fsm"
 )
 (vvPair
 variable "time"
-value "21:55:03"
+value "08:21:34"
 )
 (vvPair
 variable "unit"
@@ -254,6 +254,7 @@ value "20"
 )
 ]
 )
+uid 328,0
 optionalChildren [
 *1 (ConcurrentSM
 uid 1,0
@@ -870,9 +871,9 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "31200,46000,41200,47000"
+xt "31200,46000,38300,47000"
 st "
-<enter diagram title here>
+c4_t4_shield_reset
 "
 tm "CommentText"
 wrapOption 3
@@ -932,9 +933,9 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "48200,45200,57600,46200"
+xt "48200,45200,63000,46200"
 st "
-<enter comments here>
+FSM for resetting the shield before use.
 "
 tm "CommentText"
 wrapOption 3
@@ -992,9 +993,9 @@ uid 146,0
 va (VaSet
 fg "32768,0,0"
 )
-xt "34000,44500,41000,45500"
+xt "36350,44500,38650,45500"
 st "
-<company name>
+TUNI
 "
 ju 0
 tm "CommentText"
@@ -2343,8 +2344,8 @@ tm "SmCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "-8,-8,1544,832"
-viewArea "-15102,-788,86267,45998"
+windowSize "0,0,1537,840"
+viewArea "-15100,-800,85693,54024"
 cachedDiagramExtent "0,-1000,68000,49000"
 hasePageBreakOrigin 1
 pageBreakOrigin "0,-2000"
@@ -2726,7 +2727,7 @@ stateOrder [
 name "csm"
 )
 ]
-lastUid 327,0
+lastUid 373,0
 commonDM (CommonDM
 ldm (LogicalDM
 emptyRow *61 (LEmptyRow
@@ -3046,6 +3047,7 @@ genericsCommonDM (CommonDM
 ldm (LogicalDM
 emptyRow *109 (LEmptyRow
 )
+uid 348,0
 optionalChildren [
 *110 (RefLabelRowHdr
 )
@@ -3082,6 +3084,7 @@ tm "GenericEolColHdrMgr"
 pdm (PhysicalDM
 displayShortBounds 1
 editShortBounds 1
+uid 360,0
 optionalChildren [
 *121 (Sheet
 sheetRow (SheetRow
@@ -3105,22 +3108,26 @@ litem &109
 pos 0
 dimension 20
 )
+uid 362,0
 optionalChildren [
 *123 (MRCItem
 litem &110
 pos 0
 dimension 20
+uid 363,0
 )
 *124 (MRCItem
 litem &111
 pos 1
 dimension 23
+uid 364,0
 )
 *125 (MRCItem
 litem &112
 pos 2
 hidden 1
 dimension 20
+uid 365,0
 )
 ]
 )
@@ -3131,52 +3138,62 @@ fontColor "0,0,0"
 font "Tahoma,10,0"
 textAngle 90
 )
+uid 366,0
 optionalChildren [
 *126 (MRCItem
 litem &113
 pos 0
 dimension 20
+uid 367,0
 )
 *127 (MRCItem
 litem &115
 pos 1
 dimension 50
+uid 368,0
 )
 *128 (MRCItem
 litem &116
 pos 2
 dimension 100
+uid 369,0
 )
 *129 (MRCItem
 litem &117
 pos 3
 dimension 100
+uid 370,0
 )
 *130 (MRCItem
 litem &118
 pos 4
 dimension 50
+uid 371,0
 )
 *131 (MRCItem
 litem &119
 pos 5
 dimension 50
+uid 372,0
 )
 *132 (MRCItem
 litem &120
 pos 6
 dimension 80
+uid 373,0
 )
 ]
 )
 fixedCol 3
 fixedRow 2
 name "Ports"
+uid 361,0
 vaOverrides [
 ]
 )
 ]
 )
+uid 347,0
 type 1
 )
 signalSuffix "_int"
@@ -3766,7 +3783,7 @@ va (VaSet
 vasetType 1
 transparent 1
 )
-xt "-371,971,-115,1279"
+xt "-443,924,-115,1325"
 )
 ]
 )
@@ -3843,7 +3860,7 @@ va (VaSet
 vasetType 1
 transparent 1
 )
-xt "-415,1064,-76,1263"
+xt "-425,943,-76,1304"
 )
 (Line
 sl 0

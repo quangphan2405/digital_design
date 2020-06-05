@@ -453,19 +453,19 @@ value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c4_t4_shield_rese
 )
 (vvPair
 variable "date"
-value "05/28/2020"
+value "06/ 5/2020"
 )
 (vvPair
 variable "day"
-value "Thu"
+value "Fri"
 )
 (vvPair
 variable "day_long"
-value "Thursday"
+value "Friday"
 )
 (vvPair
 variable "dd"
-value "28"
+value "05"
 )
 (vvPair
 variable "entity_name"
@@ -493,7 +493,7 @@ value "USER"
 )
 (vvPair
 variable "graphical_source_date"
-value "05/28/2020"
+value "06/ 5/2020"
 )
 (vvPair
 variable "graphical_source_group"
@@ -505,7 +505,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "21:55:03"
+value "08:21:35"
 )
 (vvPair
 variable "group"
@@ -529,7 +529,7 @@ value "$HDS_PROJECT_DIR/alien_game_lib/work"
 )
 (vvPair
 variable "mm"
-value "05"
+value "06"
 )
 (vvPair
 variable "module_name"
@@ -537,11 +537,11 @@ value "c4_t4_shield_reset"
 )
 (vvPair
 variable "month"
-value "May"
+value "Jun"
 )
 (vvPair
 variable "month_long"
-value "May"
+value "June"
 )
 (vvPair
 variable "p"
@@ -605,7 +605,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "21:55:03"
+value "08:21:35"
 )
 (vvPair
 variable "unit"
@@ -1521,6 +1521,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 802,0
+lastUid 825,0
 activeModelName "Symbol:CDM"
 )

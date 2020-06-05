@@ -1,0 +1,4 @@
+The exercise project is super useful and straightforward. 
+It is implemented step by step, which allows me to study thoroughly.
+Although I am studying in the self-study implementation, I can catch
+everything provided.

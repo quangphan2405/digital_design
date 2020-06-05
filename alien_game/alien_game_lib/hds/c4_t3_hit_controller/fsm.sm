@@ -74,19 +74,19 @@ value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c4_t3_hit_control
 )
 (vvPair
 variable "date"
-value "06/ 4/2020"
+value "06/ 5/2020"
 )
 (vvPair
 variable "day"
-value "Thu"
+value "Fri"
 )
 (vvPair
 variable "day_long"
-value "Thursday"
+value "Friday"
 )
 (vvPair
 variable "dd"
-value "04"
+value "05"
 )
 (vvPair
 variable "entity_name"
@@ -114,7 +114,7 @@ value "USER"
 )
 (vvPair
 variable "graphical_source_date"
-value "06/ 4/2020"
+value "06/ 5/2020"
 )
 (vvPair
 variable "graphical_source_group"
@@ -126,7 +126,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "22:04:41"
+value "08:20:38"
 )
 (vvPair
 variable "group"
@@ -226,7 +226,7 @@ value "fsm"
 )
 (vvPair
 variable "time"
-value "22:04:41"
+value "08:20:38"
 )
 (vvPair
 variable "unit"
@@ -254,6 +254,7 @@ value "20"
 )
 ]
 )
+uid 281,0
 optionalChildren [
 *1 (ConcurrentSM
 uid 1,0
@@ -1290,8 +1291,8 @@ uid 246,0
 va (VaSet
 font "arial,10,1"
 )
-xt "43312,31552,45112,32752"
-st "s0"
+xt "42412,31552,46012,32752"
+st "defeat"
 ju 0
 blo "44212,32552"
 tm "ONodeName"
@@ -2089,8 +2090,8 @@ tm "SmCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "-8,-8,1544,832"
-viewArea "11380,1120,106708,50368"
+windowSize "0,0,1537,840"
+viewArea "11400,1100,106957,53076"
 cachedDiagramExtent "0,-1000,68000,49000"
 hasePageBreakOrigin 1
 pageBreakOrigin "0,-2000"
@@ -2470,7 +2471,7 @@ stateOrder [
 name "csm"
 )
 ]
-lastUid 280,0
+lastUid 326,0
 commonDM (CommonDM
 ldm (LogicalDM
 emptyRow *59 (LEmptyRow
@@ -2786,6 +2787,7 @@ genericsCommonDM (CommonDM
 ldm (LogicalDM
 emptyRow *107 (LEmptyRow
 )
+uid 301,0
 optionalChildren [
 *108 (RefLabelRowHdr
 )
@@ -2822,6 +2824,7 @@ tm "GenericEolColHdrMgr"
 pdm (PhysicalDM
 displayShortBounds 1
 editShortBounds 1
+uid 313,0
 optionalChildren [
 *119 (Sheet
 sheetRow (SheetRow
@@ -2845,22 +2848,26 @@ litem &107
 pos 0
 dimension 20
 )
+uid 315,0
 optionalChildren [
 *121 (MRCItem
 litem &108
 pos 0
 dimension 20
+uid 316,0
 )
 *122 (MRCItem
 litem &109
 pos 1
 dimension 23
+uid 317,0
 )
 *123 (MRCItem
 litem &110
 pos 2
 hidden 1
 dimension 20
+uid 318,0
 )
 ]
 )
@@ -2871,52 +2878,62 @@ fontColor "0,0,0"
 font "Tahoma,10,0"
 textAngle 90
 )
+uid 319,0
 optionalChildren [
 *124 (MRCItem
 litem &111
 pos 0
 dimension 20
+uid 320,0
 )
 *125 (MRCItem
 litem &113
 pos 1
 dimension 50
+uid 321,0
 )
 *126 (MRCItem
 litem &114
 pos 2
 dimension 100
+uid 322,0
 )
 *127 (MRCItem
 litem &115
 pos 3
 dimension 100
+uid 323,0
 )
 *128 (MRCItem
 litem &116
 pos 4
 dimension 50
+uid 324,0
 )
 *129 (MRCItem
 litem &117
 pos 5
 dimension 50
+uid 325,0
 )
 *130 (MRCItem
 litem &118
 pos 6
 dimension 80
+uid 326,0
 )
 ]
 )
 fixedCol 3
 fixedRow 2
 name "Ports"
+uid 314,0
 vaOverrides [
 ]
 )
 ]
 )
+uid 300,0
 type 1
 )
 signalSuffix "_int"
@@ -3506,7 +3523,7 @@ va (VaSet
 vasetType 1
 transparent 1
 )
-xt "-371,971,-115,1279"
+xt "-443,924,-115,1325"
 )
 ]
 )
@@ -3583,7 +3600,7 @@ va (VaSet
 vasetType 1
 transparent 1
 )
-xt "-415,1064,-76,1263"
+xt "-425,943,-76,1304"
 )
 (Line
 sl 0

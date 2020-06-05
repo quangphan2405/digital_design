@@ -74,7 +74,7 @@ value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c4_t5_serial_data
 )
 (vvPair
 variable "date"
-value "05/29/2020"
+value "06/ 5/2020"
 )
 (vvPair
 variable "day"
@@ -86,7 +86,7 @@ value "Friday"
 )
 (vvPair
 variable "dd"
-value "29"
+value "05"
 )
 (vvPair
 variable "entity_name"
@@ -114,7 +114,7 @@ value "USER"
 )
 (vvPair
 variable "graphical_source_date"
-value "05/29/2020"
+value "06/ 5/2020"
 )
 (vvPair
 variable "graphical_source_group"
@@ -126,7 +126,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "15:38:08"
+value "08:22:09"
 )
 (vvPair
 variable "group"
@@ -150,7 +150,7 @@ value "$HDS_PROJECT_DIR/alien_game_lib/work"
 )
 (vvPair
 variable "mm"
-value "05"
+value "06"
 )
 (vvPair
 variable "module_name"
@@ -158,11 +158,11 @@ value "c4_t5_serial_data"
 )
 (vvPair
 variable "month"
-value "May"
+value "Jun"
 )
 (vvPair
 variable "month_long"
-value "May"
+value "June"
 )
 (vvPair
 variable "p"
@@ -226,7 +226,7 @@ value "fsm"
 )
 (vvPair
 variable "time"
-value "15:38:08"
+value "08:22:09"
 )
 (vvPair
 variable "unit"
@@ -711,9 +711,9 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "31290,46090,41290,47090"
+xt "31290,46090,37990,47090"
 st "
-<enter diagram title here>
+c4_t5_serial_data
 "
 tm "CommentText"
 wrapOption 3
@@ -773,9 +773,9 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "48290,45290,57690,46290"
+xt "48290,45290,60790,46290"
 st "
-<enter comments here>
+FSM for serial data transmission.
 "
 tm "CommentText"
 wrapOption 3
@@ -833,9 +833,9 @@ uid 146,0
 va (VaSet
 fg "32768,0,0"
 )
-xt "34090,44590,41090,45590"
+xt "36440,44590,38740,45590"
 st "
-<company name>
+TUNI
 "
 ju 0
 tm "CommentText"
@@ -2351,8 +2351,8 @@ tm "SmCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "878,38,1537,645"
-viewArea "11132,9794,64142,43364"
+windowSize "-8,-8,1544,832"
+viewArea "5984,8761,88653,53218"
 cachedDiagramExtent "0,-1000,68090,49090"
 hasePageBreakOrigin 1
 pageBreakOrigin "0,-2000"
@@ -2735,7 +2735,7 @@ stateOrder [
 name "csm"
 )
 ]
-lastUid 648,0
+lastUid 677,0
 commonDM (CommonDM
 ldm (LogicalDM
 emptyRow *61 (LEmptyRow

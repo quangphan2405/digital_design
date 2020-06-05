@@ -74,19 +74,19 @@ value "D:\\digital_design\\6\\alien_game\\alien_game_lib\\hds\\c5_t2_w_rdy"
 )
 (vvPair
 variable "date"
-value "05/30/2020"
+value "06/ 5/2020"
 )
 (vvPair
 variable "day"
-value "Sat"
+value "Fri"
 )
 (vvPair
 variable "day_long"
-value "Saturday"
+value "Friday"
 )
 (vvPair
 variable "dd"
-value "30"
+value "05"
 )
 (vvPair
 variable "entity_name"
@@ -114,7 +114,7 @@ value "USER"
 )
 (vvPair
 variable "graphical_source_date"
-value "05/30/2020"
+value "06/ 5/2020"
 )
 (vvPair
 variable "graphical_source_group"
@@ -126,7 +126,7 @@ value "QUANG-PHAN"
 )
 (vvPair
 variable "graphical_source_time"
-value "15:15:54"
+value "08:22:55"
 )
 (vvPair
 variable "group"
@@ -150,7 +150,7 @@ value "$HDS_PROJECT_DIR/alien_game_lib/work"
 )
 (vvPair
 variable "mm"
-value "05"
+value "06"
 )
 (vvPair
 variable "module_name"
@@ -158,11 +158,11 @@ value "c5_t2_w_rdy"
 )
 (vvPair
 variable "month"
-value "May"
+value "Jun"
 )
 (vvPair
 variable "month_long"
-value "May"
+value "June"
 )
 (vvPair
 variable "p"
@@ -226,7 +226,7 @@ value "fsm"
 )
 (vvPair
 variable "time"
-value "15:15:54"
+value "08:22:55"
 )
 (vvPair
 variable "unit"
@@ -809,7 +809,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "31200,48000,41100,49000"
+xt "31200,48000,40800,49000"
 st "
 by %user on %dd %month %year
 "
@@ -871,9 +871,9 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "31200,46000,41200,47000"
+xt "31200,46000,36300,47000"
 st "
-<enter diagram title here>
+c5_t2_w_rdy
 "
 tm "CommentText"
 wrapOption 3
@@ -933,9 +933,9 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "48200,45200,57600,46200"
+xt "48200,45200,59800,46200"
 st "
-<enter comments here>
+FSM for write ready controller.
 "
 tm "CommentText"
 wrapOption 3
@@ -993,9 +993,9 @@ uid 146,0
 va (VaSet
 fg "32768,0,0"
 )
-xt "34000,44500,41000,45500"
+xt "36350,44500,38650,45500"
 st "
-<company name>
+TUNI
 "
 ju 0
 tm "CommentText"
@@ -2094,8 +2094,8 @@ tm "SmCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "76,43,1093,733"
-viewArea "7900,-3880,76084,32696"
+windowSize "76,43,1094,733"
+viewArea "7900,9774,75840,55870"
 cachedDiagramExtent "0,-1000,68000,49000"
 hasePageBreakOrigin 1
 pageBreakOrigin "0,-2000"
@@ -2474,7 +2474,7 @@ stateOrder [
 name "csm"
 )
 ]
-lastUid 324,0
+lastUid 353,0
 commonDM (CommonDM
 ldm (LogicalDM
 emptyRow *59 (LEmptyRow
